@@ -1,3 +1,4 @@
 untitled.tex
 section_Introduction_In_nature_growing__.tex
 section_Materials_and_Methods_subsection__.tex
+figures/surveylocation/surveylocation.png
