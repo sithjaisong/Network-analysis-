@@ -7,3 +7,4 @@ Crop_health_survey_data_were__.tex
 subsection_Co_occurrence_analysis_We__.tex
 subsection_Network_analysis_Network_models__.tex
 subsection_Key_factor_analysis_Identification__.tex
+subsection_Results_Table_1_shows__.tex
