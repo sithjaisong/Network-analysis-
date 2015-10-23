@@ -10,6 +10,7 @@ subsection_Key_factor_analysis_Identification__.tex
 subsection_Results_subsubsection_Global_network__.tex
 begin_table_begin_tabular_c__.tex
 subsubsection_Node_wise_properties_contents__.tex
+figures/IND/IND.png
 subsubsection_Key_factor_analysis__.tex
 figures/Netfactoranalysis/Netfactoranalysis.png
 subsection_Glossory_Connectivity_is_a__.tex
