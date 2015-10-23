@@ -17,4 +17,4 @@ figures/THA/THA.png
 subsubsection_Key_factor_analysis__.tex
 figures/VNM/VNM.png
 figures/Netfactoranalysis/Netfactoranalysis.png
-subsection_Glossory_Connectivity_is_a__.tex
+subsection_Glossary_Connectivity_is_a__.tex
