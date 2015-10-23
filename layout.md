@@ -11,3 +11,4 @@ subsection_Results_subsubsection_Global_network__.tex
 begin_table_begin_tabular_c__.tex
 subsubsection_Node_wise_properties_contents__.tex
 subsubsection_Key_factor_analysis__.tex
+figures/Netfactoranalysis/Netfactoranalysis.png
