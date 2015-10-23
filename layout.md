@@ -13,6 +13,7 @@ subsubsection_Node_wise_properties_contents__.tex
 figures/IND/IND.png
 figures/IND1/IND1.png
 figures/PHL/PHL.png
+figures/THA/THA.png
 subsubsection_Key_factor_analysis__.tex
 figures/Netfactoranalysis/Netfactoranalysis.png
 subsection_Glossory_Connectivity_is_a__.tex
