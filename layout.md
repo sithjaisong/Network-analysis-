@@ -1,7 +1,6 @@
 untitled.tex
 section_Introduction_Plants_are_frequently__.tex
 section_Materials_and_Methods_subsection__.tex
-figures/surveylocation/surveylocation.png
 Injury_variables_were_also_simplified__.tex
 Crop_health_survey_data_were__.tex
 subsection_Co_occurrence_analysis_We__.tex
