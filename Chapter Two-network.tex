@@ -6,12 +6,9 @@ The applications of network analysis have increased exponentially over the past 
 %Network analysis provides fruitful tools for visualizing, analyzing and understanding complex relationships in the studies of plant disease. For instance, network models of genes or proteins pertaining plant defense mechanisms and network models revealing spatial distribution of plant disease through trade networks were already reviewed by \citet{windram2014network} and \citet{Shaw:2014cka}, respectively.
 
 
-\section*{Network Analysis}
-%==========================
-\addcontentsline{toc}{section}{Network analysis}
-% Good
-\subsection*{Introduction to network analysis}
-<<<<<<< Updated upstream
+\subsection*{Network Analysis}
+
+\subsubsection*{Introduction to network analysis}
 
 Network analysis is used for determining relationships between elements of interest. It offers toolkits for visualizing data in a network model and measuring its properties, and network thinking \citep{PROULX:2005hx}. It has been widely used by various branches of science, such as social sciences, ecology, biology, computer science, and many others to study the interactions between elements, \textit{e.g.}, the relationships of students in school \citep{moody2001race}, species in food webs \citep{krause2003compartments}, interactions of genes or proteins in cells \citep{guimera2005functional}, or the connections of computer in the network \citep{pastor2001epidemic,newman2006modularity}.
 
@@ -20,13 +17,13 @@ Network analysis is used for determining relationships between elements of inter
 Network analysis can be a powerful tool to study plant disease. \citet{Lefebvre:2011fo,Jeger:2007tn} applied network models and concepts to study disease spreads in regional networks of plant nurseries and garden centers of \textit{Phytophthora ramorum}, the oomycete causing Sudden Oak Death in the West Coast of the USA and leaf blight and dieback in many ornamental shrubs both in America and Europe. The result could be applied to design measures to control plant disease epidemic from movement of infected material among plant nurseries. 
 \citet{Shaw:2014cka} recently reviewed critically about network analysis to plant disease management (\textit{i.e.}, to design ways to reduce the flow of disease in traded plants, to find the best sites to monitor as warning sites for annually reinvading diseases, to understand the fundamentals of how plant pathogen spreads in different structures of simulated trade network models)\todo{Revise for clarity}. \citet{windram2014network} reviewed the applications of network analysis in molecular plant pathology. Network models were applied to reveal plant defense mechanism during plant-pathogen interactions.
 
-\subsection*{Concepts, principles, and methods of network analysis}
+\subsubsection*{Concepts, principles, and methods of network analysis}
 
 A network represents relationships between of elements of interest, which are defined by links (edges) among nodes (vertices). Nodes can be units of interests or studies, and links represent interactions between nodes. Network analysis aims to identify the patterns of associations among nodes, not only features or attributes of particular nodes.
 
 Network analysis follows three principles. Nodes and their behaviors are mutually dependent, not autonomous; links between nodes can be channels for transmission of both material (\textit{e.g.}, money, disease) and non-material (\textit{e.g.}, information, knowledge, relationship, interaction) and; persistent pattern of association among nodes create structure that can define, enable, or restrict the behavior of a node.
 
-<<<<<<< Updated upstream
+
 Network models have two different structures depending on goals of the representation and analysis \citep{borgatti2013analyzing}. Flow models, commonly named directed graphs, represent the network as a system of pathways along which something move such as transportation networks (\textit{e.g.}, highways, railways, and airlines) or communication networks. Since flow networks show the directions of movement between nodes, thus these networks are interesting to study their behaviors. Analysis of flow networks can identify which nodes are more active or which ones are more important connectors. \citet{Jeger:2007tn,Shaw:2014cka} applied such network models to study plant disease spread. Architectural models, or indirected graphs, are mainly used to determine the structure of the network, seeking to discern whether specific structures lead to similar outcomes or whether nodes in similar network positions behave in similar ways. Ecological applications related to the ecology and spatial structure of ``community'' tend to be organized and analyzed as architectural models. For example, \citet{Faust:2012dk} studied networks of soil microbial interactions. Network models can describe how microbial populations change over time, which will require the use of dynamic models of microbial communities. Beyond these basic principles, network analysis enables the calculation of structural properties of nodes, groups, or the entire network.
 
 \textit{Measuring network properties}
@@ -36,15 +33,10 @@ A network is made up of nodes and links from relational data. It is constructed 
 The distribution of links in a network suggests two important structural characteristics: centrality (importance) of nodes in the network and division of the network into subgroups. Variants of centrality in a network include degree, closeness, and betweenness. Degree centrality of a node is the sum of the value of the links between that node and every other node in the network. This measure tells us how well-connected a particular node is to the other nodes. Closeness centrality is calculated using the length of the path between a node and every other node. This measure could estimate the time required for information or resources to propagate to a given node in a network. Betweenness centrality corresponds to the number of paths in the network that pass through a particular node, and therefore measures the dependence of a network on a particular node for maintaining connectedness \citep{Toubiana:2013cv}. \citet{Deng:2012do,newman2003structure,Toubiana:2013cv} are recommended references for descriptions of the theory and uses, as well as the formal calculation of these measures.
 
 
-
-%==========================
-\section*{The unique values of network analysis}
-\addcontentsline{toc}{section}{The unique values of network analysis}
-%==========================
+\subsection*{The unique values of network analysis}
 
 There are four key points that will help to understand network analysis 1) how it differs from traditional approaches of scientific research; 2) how it relates to those traditional approaches; 3) how networks are constructed, manipulated and measured; and 4) what value network analysis offers beyond traditional approaches.
 
-<<<<<<< Updated upstream
 The first point of network analysis is that there are two types of data represented in the network graphs; technical and rational data. The first is data characterizing the actors or variables being studied referring to attributes. Attributes describe characteristics of individual actors or variables, for example their race, income or physical location, and are the primary variables considered in traditional approaches. The second type of data is relational data, that is, data about the relationships between individual nodes. For example, \citet{Lazega} represented the network model of cooperation among lawyers in three law firms, through the exchange of various type of resources among them. This model consisted of over 70 lawyers in three different offices in three different cities. Rational data reflected to resources exchange and additional attribute information were included type of practice, genders, and seniority of each lawyers.
 
 Relationships are also referred to as edges (links) in network analysis. Edges cannot be attributed to any single actor. Rather, edges only exist between nodes. This leads to the second point about network analysis that it requires a different conceptual approach. Because edges only exist between nodes, it is useful to think of edges existing in a separate dimension from nodes, who are connected in physical space. This dimension is sometimes referred to as relational space. To visualize the difference, think of someone far away with whom you correspond regularly, say using a phone, email, or Facebook. Even though the two of you are not physically close, you have a strong relationship. The two of you are distant in physical space but close in relational space. This notion of relational space is in part what means when he refers to the space of flows as something distinct from the space of places \citep{Castells}.
@@ -54,20 +46,13 @@ The third point that distinguishes network analysis from other approaches is it 
 
 The idea that network structure may be correlated with variable attributes and behaviors is the fourth point to consider in comparing network analysis to other approaches. In network analysis, the arrangement of the network in relational space is basically correlated with the behavior and attributes of those variables. For example, in the network created by \citet{Lazega} lawyers of the same firm may share similar attributes such as office location or department, and lawyers in similar roles within that network may share similar behaviors. Basically, conventional approaches measure various attributes of variable (nodes in a network) and attempts to discern something about the relationships between actors (edges in a network) based on those attributes. When the network structure is simple and the differences in node attributes are clear, the conventional analytic approach is sufficient. However when relationships are complex or node attributes are more nuanced, clear answers using conventional analysis may prove elusive. As a result, network analysis offers a tool to help researchers visualize the large network and disentangle some of the relational complexities within the network, just as cluster analysis and multivariate analysis for help research disentangle the complex data.
 
-\section*{Networks and Plant Pathology}
-\addcontentsline{toc}{section}{Networks and Plant Pathology}
+\subsection*{Networks and Plant Pathology}
 
-<<<<<<< Updated upstream
-=======
-%% You've cited Jeger, Lefebvre and Windram 2X each already. That's 2X more than necessary to establish that plant pathologists use this method. The more specific examples are probably fine here though.
->>>>>>> Stashed changes
 Recently, a broad expansion of applications of network analysis has occurred across many disciplines. It has been evaluated as a promising tool to study a complex system. Plant pathologists have applied network analysis for their research. \citet{Lefebvre:2011fo,Jeger:2007tn,windram2014network} supported that network analysis can be fruitful models in many applications relevant to plant pathology because of its generality and flexibility. For example, the network of main fresh cut flowers movements among European countries was determined the likelihood of introduction of new pathogens and other organisms associated with plants \citep{eagling2007australian}, and plant-pathogen interaction network models were applied to present plant defense mechanisms \citep{dietz2010hubs}. 
 
 The development of network analysis challenges conventional approaches to uncover rational complexities of plant pathology studies. Two fields of research relevant to plant pathology presented particularly strong growth and proved that network analysis has significant potential to augment traditional analysis methods. The first is plant disease epidemiology, which investigates questions related to plant disease spread. The second is plant molecular biology, which investigates questions related to biological networks.
 
-\subsubsection*{Using Network analysis to understand plant disease spread}
-<<<<<<< Updated upstream
-\addcontentsline{toc}{subsection}{Using network analysis to understand plant disease spread}
+\subsubsubsection*{Using Network analysis to understand plant disease spread}
 
 Network analysis challenges conventional approaches of studies in plant disease epidemiology, especially underling the spatiotemporal flow of plants and their pathogens \citep{Moslonka2010}. When plant pathological studies were restricted to a single geographical location, there was a limit to thinking about the connections or relationships between plants or fields in different locations. However, network analysis can enlarge the view of studies and can consider whether or not plant pathogens are moving from one field to others in the regions of interest. For example, networks of plant disease spread in trade networks presented the flows of plant disease from infected units (infected plants or epidemic areas) to susceptible units (susceptible plants or areas).
 
@@ -84,7 +69,6 @@ The idea of plant epidemics is that the probability of infection embedded in the
 
 Regardless of the network structure and connectivity level, epidemic threshold is negatively correlated to the correlation coefficient between link in and out nodes, \citep{Moslonka2008}. In presence of high-connected nodes, the most effective way to control disease spread is to move from two-way to a one-way network. That is move from network where overall there is positive correlation among links-in and -out to one where the correlations are negative. In practice this would mean that a nursery network would be dominated by major node, which receives plant materials from many production sites but supply relatively few retail sites, or by major nodes which received plant materials from a few production sites but supply many retail sites. However, the scenario where there are major nodes which both receive plant material from many production sites and supply many retail sites is the most problematic control. The better way to control should target towards the cluster (group of nodes), not only to high-connected nodes. 
 
-<<<<<<< Updated upstream
 The last point, the modeling of disease spread in small-size directed networks showed that increasing the proportion of wholesalers (\textit{i.e.}, traders without a preponderance of incoming or outgoing links) tends to decrease the epidemic threshold in local, random, and small-world network. The opposite result is obtained for the proportions of produces and retails. Scale free networks appear instead to be tolerant to changes in these hierarchical categories as the epidemic threshold in this case is governed by the presence of hub rather than by the features of the majority of nodes in the network \citep{Moslonka2010}.
 
 \textit{\textbf{Network models to design strategies of plant disease management}}
@@ -93,9 +77,7 @@ Due to globalization, plant trades among countries are increasing and convenient
 
 Additionally, \citet{pautasso2008epidemiological} showed the good examples, which are co-occurrence networks of the \textit{Phytophthora ramorum} infected plant genera different environments. The networks may be helpful in identifying host taxa playing an important role in spreading a certain disease in the seminatural environment, in crop plants, and plants in the trade. Combining genetic network analysis and data on trace forward and trace back on movement of plants nursery trade supported to identified confidentially \textit{P. ramorum} migration. From this approach, it was clear that the pathogen was introduced originally from nurseries, which \textit{P. ramorum} populations in nurseries are genetically ancestral to all Californian forest populations.
 
-
-\subsubsection*{Using Network analysis to understand molecular plant pathology}
-\addcontentsline{toc}{subsection}{Using Network analysis to understand molecular plant pathology}
+\subsubsubsection*{Using Network analysis to understand molecular plant pathology}
 
 For understanding mechanisms of plant-pathogen interactions, network analysis offers tools to visualize interactions of biological components including genes, proteins, and metabolites, which are related to plant-pathogen interactions. Network concepts enable us to characterize interplay of those components following the properties of network structure. Analyzing structural properties of networks may provide useful clues about the biological functions of individual genes, genes complexes, proteins, protein complexes, pathways they participate in.
 
@@ -103,9 +85,7 @@ For understanding mechanisms of plant-pathogen interactions, network analysis of
 
 Networks are used in different contexts as ways to represent relationships between entities, such as interactions between genes, proteins or metabolites. \citet{wu2007gene} gave the example of a network model built from gene-for-gene relationships between rice and various avirulence genes of the pathogen \textit{Xanthomonas oryzae} pv. \textit{oryzae} causing bacterial leaf blight of rice. Nodes represented isogenic lines of rice and weighted edges reflected the number of shared genes with high resistance (with respect to avirulence genes) in the two isogenic lines of rice. For a plant breeder, this graph can help in identifying particularly promising genes for developing a disease resistant variety.
 
-
 \textit{\textbf{Network analysis to study biological systems}}
-
 
 Network analyses have been applied to visualize the myriad information and analyze the complex relationships\todo{Address my comment that's been here on line 298 for months now}. To better understand the collective impact of genes on complex traits and determine what governs their organization, biologists are most likely to apply gene co-expression networks \citep{usadel2009co}. Co-expression networks most commonly use the Pearson's correlation coefficient to establish linear pairwise correlations between gene pairs in an adjacency matrix. Another associative metric that can be used is the Spearman correlation coefficient, which captures nonlinear correlations between genes to be uncovered \citep{usadel2009co,horvath2011weighted}. Once a co-expression network has been generated, identifying modules by clustering can help extract biological meaning from the network. Uncharacterized genes within such a module can be candidates for participating in the same process. Similarly, genes directly connected to (or co-expressed with) known central regulators of a developmental process are candidates within this co-functional framework.
 
@@ -113,8 +93,7 @@ Network analyses have been applied to visualize the myriad information and analy
 
 The main use of co-expression networks with large collections of static expression data is gene discovery. However, many biologists have attempted to construct differential networks to measure differences in connectivity patterns from datasets with different conditions or targeted experiments \citep{Toubiana:2013cv}. \citet{Lu:2013hga} constructed networks of soil fungal communities. The fungal networks represented two different conditions; yield-invigorating and yield-debilitating soils under prolonged potato monoculture were compared. The authors discussed in differential network concepts that in healthy network three-eighths of fungal groups and soil organic matters were strongly correlated, and in diseases network two of four groups strongly correlated with soil electrical conductivity (EC) and ammonium nitrogen. Differential network analysis showed that average degrees of nodes belonging to \textit{Sordariales} and \textit{Hypocreales} in healthy network substantially were different in disease network. This indicated that they are key species of ecological communities.
 
-\subsection*{A variety of Network Construction Methods}
-
+\subsubsection*{A variety of Network Construction Methods}
 
 Until this section, I gave the general information of network analysis with network concepts, network modeling and inference. Ultimately, most of the systems studied from a network--based perspective are dynamic in nature. This underscores the importance of developing tools to understand the interplay between network structures and dynamic processes. I reviewed three network-based analyses: single network, differential network and dynamic network analysis. These techniques from network science have yielded many biological insights \citep{Idekerdiffnet}.
 
@@ -137,6 +116,3 @@ The objective of differential network analysis is to identify the different inte
 Biological systems are highly dynamic. They must continuously respond to external signals or the internal state of the system. The responses can be altered slowly or quickly over time \citep{Peer:2011jd}. Thus, realistically the corresponding biological network models must evolve as well. It seems clear that dynamic networks enable us to see and understand the systems and how their dynamic effects change over time. Some understandings previously have been obtained from studies of dynamics of large networks, for example, gene expression or metabolic fluxes network \citep{Idekerdiffnet}.
 
 The main goal of dynamic network analysis moves away from single network analysis, which characterizes absolute properties of the system. It aims to concentrate on a specific dynamic response. Rather than answer what the key factors in the system, it answers what parts of the system are most affected by perturbation. Most commonly, dynamic networks are applied when the edges among a set of vertices or the sets of vertices itself are changing as a function of time. For example, 
-
-
-
