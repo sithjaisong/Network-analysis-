@@ -3,7 +3,6 @@ Chapter Two.tex
 Chapter Three.tex
 subsection_Introduction_Agricultural_crop_plants__.tex
 subsection_Materials_and_Methods_subsubsection__.tex
-Rice_injuries_were_included_the__.tex
 begin_table_begin_tabular_c__1.tex
 Crop_health_survey_data_were__.tex
 figures/Sampling Sites4/Sampling Sites4.png
