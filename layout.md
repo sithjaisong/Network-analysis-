@@ -7,6 +7,7 @@ Chapter Three.tex
 subsection_Introduction_Agricultural_crop_plants__.tex
 subsection_Materials_and_Methods_subsubsection__.tex
 begin_table_begin_tabular_c__1.tex
+code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
 subsubsection_Co_occurrence_analysis_The__.tex
 subsubsection_Network_analysis_Network_models__.tex
