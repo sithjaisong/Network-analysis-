@@ -1,6 +1,7 @@
 Introduction.tex
 Chapter Two.tex
 Chapter Two tetrahedral .tex
+figures/distriangle/distriangle.PNG
 Chapter Two-Production situation.tex
 Chapter Two-network.tex
 chapter two-summary.tex
