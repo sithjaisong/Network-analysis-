@@ -1,6 +1,5 @@
 Introduction.tex
 Literature-review.tex
-Chapter Two tetrahedral .tex
 figures/distriangle/distriangle.PNG
 Chapter Two-Production situation.tex
 Chapter Two- coexisting.tex
