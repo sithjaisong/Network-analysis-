@@ -2,7 +2,6 @@ Introduction.tex
 Literature-review.tex
 figures/distriangle/distriangle.PNG
 Chapter Two-Production situation.tex
-Chapter Two-network.tex
 chapter two-summary.tex
 Chapter Three.tex
 subsection_Introduction_Agricultural_crop_plants__.tex
