@@ -2,7 +2,6 @@ Introduction.tex
 Literature-review.tex
 figures/distriangle/distriangle.PNG
 Chapter Two-Production situation.tex
-Chapter Two technique.tex
 Chapter Two Survey.tex
 Chapter Two-network.tex
 chapter two-summary.tex
