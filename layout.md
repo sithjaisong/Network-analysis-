@@ -4,7 +4,7 @@ figures/distriangle/distriangle.PNG
 Chapter Two-Production situation.tex
 Chapter_3_abstract.tex
 Chapter_3_introduction.tex
-subsection_Materials_and_Methods_subsubsection__.tex
+Chapter_3_Materials_and_Methods_.tex
 begin_table_begin_tabular_c__1.tex
 code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
