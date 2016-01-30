@@ -8,7 +8,7 @@ Chapter_3_Materials_and_Methods_.tex
 begin_table_begin_tabular_c__1.tex
 code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
-subsection_Results_subsubsection_Exploratory_analysis__.tex
+subsection_Results_subsubsection_Dataset_Prior__.tex
 figures/datasets/datasets.png
 subsubsection_Global_network_properties_The__.tex
 begin_table_begin_tabular_c__.tex
