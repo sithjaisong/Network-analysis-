@@ -19,7 +19,6 @@ figures/IND/IND.png
 figures/IND1/IND1.png
 figures/PHL/PHL.png
 figures/THA/THA.png
-subsubsection_Key_factor_analysis__.tex
 figures/VNM/VNM.png
 figures/Netfactoranalysis/Netfactoranalysis.png
 subsection_Glossary_Connectivity_is_a__.tex
