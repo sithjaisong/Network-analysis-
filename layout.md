@@ -11,6 +11,7 @@ figures/Sampling Sites4/Sampling Sites4.png
 subsection_Results_subsubsection_Dataset_Prior__.tex
 figures/datasets/datasets.png
 subsubsection_Global_network_properties_The__.tex
+figures/combinedplot/combinedplot.png
 begin_table_begin_tabular_c__.tex
 subsubsection_Node_wise_properties_contents__.tex
 figures/IND/IND.png
