@@ -1,7 +1,6 @@
 Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
 figures/distriangle/distriangle.PNG
-Chapter Two-Production situation.tex
 Chapter_3_abstract.tex
 Chapter_3_introduction.tex
 Chapter_3_Materials_and_Methods_.tex
