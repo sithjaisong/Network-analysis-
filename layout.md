@@ -9,6 +9,7 @@ begin_table_begin_tabular_c__1.tex
 code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
 subsection_Results_subsubsection_Exploratory_analysis__.tex
+figures/datasets/datasets.png
 subsubsection_Global_network_properties_The__.tex
 begin_table_begin_tabular_c__.tex
 subsubsection_Node_wise_properties_contents__.tex
