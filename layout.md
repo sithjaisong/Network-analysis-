@@ -21,4 +21,5 @@ figures/PHL/PHL.png
 figures/THA/THA.png
 figures/VNM/VNM.png
 figures/Netfactoranalysis/Netfactoranalysis.png
+Chapter_3_Discussion.tex
 subsection_Glossary_Connectivity_is_a__.tex
