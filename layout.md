@@ -8,6 +8,7 @@ code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
 Chapter_3_Results.tex
 table_network_stat.tex
+table_survey_data1.tex
 figures/datasets/datasets.png
 figures/full.net/full.net.png
 figures/combinedplot/combinedplot.png
