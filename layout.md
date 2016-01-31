@@ -13,7 +13,7 @@ subsubsection_Global_network_properties_The__.tex
 figures/full.net/full.net.png
 figures/combinedplot/combinedplot.png
 figures/degree_test1/degree_test1.png
-begin_table_begin_tabular_c__.tex
+table_network_stat.tex
 figures/IND/IND.png
 figures/IND1/IND1.png
 figures/PHL/PHL.png
