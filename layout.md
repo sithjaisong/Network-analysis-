@@ -7,7 +7,7 @@ Chapter_3_Materials_and_Methods_.tex
 code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
 Chapter_3_Results.tex
-table_survey_data2.tex
+table_survey_data.tex
 table_network_stat.tex
 figures/datasets/datasets.png
 figures/full.net/full.net.png
