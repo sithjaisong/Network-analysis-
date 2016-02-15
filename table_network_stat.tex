@@ -1,15 +1,21 @@
-\begin{table} 
-    \begin{tabular}{ c c c c c c c c c c c }
-    \hline
-         Country & Node & Link & Diameter & Connectivity & Geodesic & Density & Smallworldness & Centrality & Heterogeneity \\ 
-         \hline
-         India & 10 & 17 & 1.38 & 0.55 & 2.02 & 0.14 & 1.71 & 0.14 & 0.51 \\
-         Indonesia & 22 & 48 & 1.40 & 0.46 & 2.25 & 0.06 & 1.24 & 0.07 & 0.64 \\
-         Philippines & 21 & 33 & 1.85 & 0.28 & 2.26 & 0.07 & 0.82 & 0.19 & 0.89 \\
-         Thailand & 18 & 63 & 1.11 & 0.47 & 1.81 & 0.15 & 1.07 & 0.20 & 0.70 \\
-         Vietnam & 20 & 47 & 1.24 & 0.53 & 2.05 & 0.08 & 1.27 & 0.08 & 0.47 \\ 
-     \hline  
-    \end{tabular} 
-    \caption{Network statistics for network graph each country}
+\begin{table}[ht]
+\centering
+\begin{tabular}{rlrrrrrrrrrr}
+  \hline
+ country & season & Node & Edges & AVGP & CENBET & CENCLO & CENEIG & DGASSORT & CENDEG & DEN & TRANS \\ 
+  \hline
+  India & ds &   8 & 8.00 & 1.62 & 0.20 & 0.16 & 0.66 & 0.29 & -0.01 & 0.29 & 0.46 \\ 
+  India & ws &  13 & 29.00 & 1.81 & 0.22 & 0.41 & 0.51 & 0.29 & 0.10 & 0.37 & 0.53 \\ 
+  Indonesia & ds &  19 & 48.00 & 2.15 & 0.21 & 0.34 & 0.56 & 0.22 & 0.29 & 0.28 & 0.65 \\ 
+  Indonesia & ws &  19 & 25.00 & 2.80 & 0.36 & 0.15 & 0.77 & 0.30 & 0.01 & 0.15 & 0.30 \\ 
+  Philippines & ds &  11 & 15.00 & 2.11 & 0.38 & 0.50 & 0.60 & 0.33 & -0.24 & 0.27 & 0.41 \\ 
+  Philippines & ws &  17 & 20.00 & 3.35 & 0.30 & 0.09 & 0.80 & 0.10 & 0.12 & 0.15 & 0.47 \\ 
+  Thailand & ds &   8 & 13.00 & 1.64 & 0.20 & 0.36 & 0.43 & 0.25 & -0.23 & 0.46 & 0.49 \\ 
+  Thailand & ws &  18 & 79.00 & 1.59 & 0.09 & 0.42 & 0.38 & 0.31 & -0.08 & 0.52 & 0.75 \\ 
+  Vietnam & ds &  21 & 68.00 & 1.70 & 0.07 & 0.10 & 0.55 & 0.33 & 0.11 & 0.32 & 0.56 \\ 
+  Vietnam & ws &  22 & 58.00 & 2.09 & 0.22 & 0.40 & 0.61 & 0.32 & -0.01 & 0.25 & 0.42 \\ 
+   \hline
+       \caption{Network statistics for network graph each country}
 \label{table:Network_stat}
+\end{tabular}
 \end{table}
