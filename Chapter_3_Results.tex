@@ -2,18 +2,41 @@
 
 \subsubsection{Dataset}
 
-Prior to using the crop health survey data to construct network, some exploratory plots of the data are constructed and examined. Figure show the distribution of the data. A total of 415 farmers' fields were surveyed in India, Indonesia, Philippines, Thailand and Vietnam from 2009 to 2010. Survey field were intensively cultivated, 97\% of which were irrigated and 98\% were planted to modern varieties. Data on crop health and production situation were collected at booting and ripening stages according to the procedure described in the IRRI Corp Health Characterization Portfolio\cite{Savary_2009_Survey}. 
+Prior to using the crop health survey data to construct the network, some exploratory plots of the data are constructed and examined. The figure shows the distribution of the data. A total of 415 farmers' fields was surveyed in India, Indonesia, Philippines, Thailand and Vietnam from 2009 to 2010. Survey field was intensively cultivated, 97\% of which were irrigated and 98\% were planted to modern varieties. Data on crop health and production situation were collected at booting and ripening stages according to the procedure described in the IRRI Corp Health Characterization Portfolio\cite{Savary_2009_Survey}.  The portfolio involved 70 variables that are collected and measured in farmers' fields, about 35 variables refer to field location, variety, Agroecology, crop development stage, crop status, crop management and yields. The remaining variables pertain to injuries caused by pathogens, animal pests and weed. The survey entails direct measurements of injuries and yield in farmers' fields instead of relying on farmers' perceptions or experience. The protocol gives more emphasis on the nature of injuries and not on the causal organism. The levels of injuries during a cropping season were computed or summarized according to the nature of injuries and thus varied in scale. For example, foliar disease were summarized as area under the disease incidence progress curve, viral diseases as area under the progress curve of the filed area affected, and tiller injuries or diseases as a maximum incidence. 
+
+The chronic insect pests observed during the survey period were stem borers bases on deadhead, whorl maggot and leaf folder. Deadhead was highest in the Philippines and Thailand 2010 an Indonesia and Vietnam in 2012. There was a low correlation between dead-heat and whitehead despite the fact that both injuries are caused by stem borers. There was a sharp increase in the white head  in  Indonesia  in 2012 at approximately 14\% compared in the previous year with the previous year. Whorl maggot was highest in the Philippines and Vietnam in 2010, nit remained high in the Philippines and decreased in Vietnam the following year. The level of injuries caused by insect defoliators was generally low, the excerpt in the Philippines, where it was observed in 2010 and 2011. Sever BPH infestrasion occur in India, where an average of 200 insects per hill was observed. BPH were so high in Thailand during this year, although the population was 49 \%lower than in India. BPH decline in the succeeding years in both countries. The low incidence of the tundra was correlated with green leafhopper in the Philippines  but not in Vietnam. Plant hoppers were highest in India and Vietnam in 23011, and in Vietnam in 2012. Stink bug, which can be considered an acute insect pest, was only observed in Indonesia 2012
+
+The chronic disease (observed in all years) that were recorded during the survey period were a bacterial leaf blight, brown spot, narrow brown spot, and sheath blight. Vietnam had the highest level of brown spot in 2010 but the disease decreased sharply in 2012. Very sharp increases in bacterial leaf streak, brown spot and leaf scald were observed in Thailand in 2012 compared with the previous years. Leaf blast was highest in Vietnam in all year and the level was fivefold the average. In 2012 in Vietnam, leaf blast doubled compared with the previous year, but neck blast remnant low. In 2010 in India, leaf blast was low, but neck blast was high. These results support those buttons from previous studies which indicate that these two forms of balls are not always correlated. High levels of acute disease affecting panicle, dirty panicle and neck blast, were also observed during the survey period. Dirty pencil in Vietnam from 2010 and 2011 was, about sixfold of the average where as neck blouse in India was fourfold the average.
 
 \input{Network-analysis-/table_survey_data.tex}
 
-\subsubsection*{Global network properties}
+\subsubsection*{Co-occurrence of injury profiles based on network analysis}
+
+The co-occurrence correlations of marine sediment parameters were further explored using network inference based on strong and significant correlations through using non-parametric Spearman’s rank coefficient . Moreover, network correlation structural properties could visually summarize lots of information, which might offer the potential for quick and easy comparisons among complex items (chemicals, parameters and physicochemical properties of environment). Therefore, the correlations of network were determined for the co-occurrence analysis of selected metals in sediment, based on the filtered EPD data in the three areas.
+
+
+\paragraph{Tamil Nadu, India}
+
+\paragraph{West Java, Indonesia}
+
+
+\paragraph{Central Luzon, Philippines}
+
+
+\paragraph{Suphan Buri, Thailand}
+
+
+\paragraph{Mako Rive Delta, Vietnam}
+
 
 The network considering three measures of node centrality, centrality as used here is restricted to the idea of node centrality, while the term centralization is used to refer to particular properties of the graph structure as a whole (global).
 
 Table 1 shows the overall statistics of centralities for the identified modules. Interestingly, modules in clusters from healthy  present lower centralization and higher density than the modules in the clusters from diseased, which may indicate that those modules could be more resilient to changes and the correlations among their members are high.
 
-Next step was to identify hubs in each of the modules. The question of which network elements are the most important cannot be answered unambiguously. Ranking nodes (species) in the network is accomplished by measuring different centrality indices using different algorithms. We used three different algorithms. First, we used degree centrality, which indicates the number of connections to other nodes in the network and has been used in numerous situations. For example, in the case of protein interactions, proteins with high degree centrality are more likely to be essential than those with low values of degree centrality. Second, we utilized betweenness centrality, which indicates the relevance of a node as capable of holding together communicating nodes: the higher the value the higher the relevance of the node as an organizing regulatory node. The betweenness centrality of a node reflects the amount of control that this node exerts over the interactions of other nodes in the network. Third, we used a double screening scheme , which combine two algorithms  and has been shown to identify hubs that are missed by other algorithms. In general, highly dense modules with low network centralization included many species, all of them with large number of species with high degree centralization and betweenness centrality.
 
-\input{Network-analysis-/table_network_stat.tex}
+%\input{Network-analysis-/table_network_stat.tex}
+
+%=== Here is the temp files
+
 
 
