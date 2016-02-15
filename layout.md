@@ -11,7 +11,6 @@ table_survey_data.tex
 table_rice_production_season.tex
 table_network_stat.tex
 figures/datasets/datasets.png
-figures/full.net/full.net.png
 figures/combinedplot/combinedplot.png
 figures/degree_test1/degree_test1.png
 figures/IND/IND.png
