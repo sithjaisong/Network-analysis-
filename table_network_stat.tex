@@ -1,21 +1,24 @@
-\begin{table}[ht]
+\begin{landscape}
+\begin{table}
+\small
 \centering
-\begin{tabular}{rlrrrrrrrrrr}
+\begin{tabular}{rlrrrrrrrrrrrr}
   \hline
- country & season & Node & Edges & AVGP & CENBET & CENCLO & CENEIG & DGASSORT & CENDEG & DEN & TRANS \\ 
+ & country\_season & Node & Edges & CEN\_BET & CEN\_CLO & CEN\_EIG & DG\_ASSORT & CEN\_DEG & DENSITY & AVG\_P & mavr\_path & TRANS & mclus\_coef \\ 
   \hline
-  India & ds &   8 & 8.00 & 1.62 & 0.20 & 0.16 & 0.66 & 0.29 & -0.01 & 0.29 & 0.46 \\ 
-  India & ws &  13 & 29.00 & 1.81 & 0.22 & 0.41 & 0.51 & 0.29 & 0.10 & 0.37 & 0.53 \\ 
-  Indonesia & ds &  19 & 48.00 & 2.15 & 0.21 & 0.34 & 0.56 & 0.22 & 0.29 & 0.28 & 0.65 \\ 
-  Indonesia & ws &  19 & 25.00 & 2.80 & 0.36 & 0.15 & 0.77 & 0.30 & 0.01 & 0.15 & 0.30 \\ 
-  Philippines & ds &  11 & 15.00 & 2.11 & 0.38 & 0.50 & 0.60 & 0.33 & -0.24 & 0.27 & 0.41 \\ 
-  Philippines & ws &  17 & 20.00 & 3.35 & 0.30 & 0.09 & 0.80 & 0.10 & 0.12 & 0.15 & 0.47 \\ 
-  Thailand & ds &   8 & 13.00 & 1.64 & 0.20 & 0.36 & 0.43 & 0.25 & -0.23 & 0.46 & 0.49 \\ 
-  Thailand & ws &  18 & 79.00 & 1.59 & 0.09 & 0.42 & 0.38 & 0.31 & -0.08 & 0.52 & 0.75 \\ 
-  Vietnam & ds &  21 & 68.00 & 1.70 & 0.07 & 0.10 & 0.55 & 0.33 & 0.11 & 0.32 & 0.56 \\ 
-  Vietnam & ws &  22 & 58.00 & 2.09 & 0.22 & 0.40 & 0.61 & 0.32 & -0.01 & 0.25 & 0.42 \\ 
+1 & idn\_ds &  19 & 48.00 & 0.21 & 0.34 & 0.56 & 0.22 & 0.29 & 0.28 & 2.15 & 1.89 & 0.65 & 0.27 \\ 
+  2 & idn\_ws &  19 & 25.00 & 0.36 & 0.15 & 0.77 & 0.30 & 0.01 & 0.15 & 2.80 & 2.69 & 0.30 & 0.13 \\ 
+  3 & ind\_ds &   8 & 8.00 & 0.20 & 0.16 & 0.66 & 0.29 & -0.01 & 0.29 & 1.62 & 2.02 & 0.46 & 0.22 \\ 
+  4 & ind\_ws &  13 & 29.00 & 0.22 & 0.41 & 0.51 & 0.29 & 0.10 & 0.37 & 1.81 & 1.73 & 0.53 & 0.35 \\ 
+  5 & phl\_ds &  11 & 15.00 & 0.38 & 0.50 & 0.60 & 0.33 & -0.24 & 0.27 & 2.11 & 2.08 & 0.41 & 0.24 \\ 
+  6 & phl\_ws &  17 & 20.00 & 0.30 & 0.09 & 0.80 & 0.10 & 0.12 & 0.15 & 3.35 & 2.74 & 0.47 & 0.13 \\ 
+  7 & tha\_ds &   8 & 13.00 & 0.20 & 0.36 & 0.43 & 0.25 & -0.23 & 0.46 & 1.64 & 1.61 & 0.49 & 0.42 \\ 
+  8 & tha\_ws &  18 & 79.00 & 0.09 & 0.42 & 0.38 & 0.31 & -0.08 & 0.52 & 1.59 & 1.49 & 0.75 & 0.51 \\ 
+  9 & vnm\_ds &  21 & 68.00 & 0.07 & 0.10 & 0.55 & 0.33 & 0.11 & 0.32 & 1.70 & 1.75 & 0.56 & 0.32 \\ 
+  10 & vnm\_ws &  22 & 58.00 & 0.22 & 0.40 & 0.61 & 0.32 & -0.01 & 0.25 & 2.09 & 1.95 & 0.42 & 0.24 \\ 
    \hline
-       \caption{Network statistics for network graph each country}
-\label{table:Network_stat}
 \end{tabular}
+   \caption{Network statistics for network graph each country}
+\label{table:Network_stat}
 \end{table}
+\end{landscape}
