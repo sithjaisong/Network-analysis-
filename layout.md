@@ -12,7 +12,6 @@ table_rice_production_season.tex
 table_network_stat.tex
 figures/datasets/datasets.png
 figures/combinedplot/combinedplot.png
-figures/IND1/IND1.png
 figures/PHL/PHL.png
 figures/THA/THA.png
 figures/VNM/VNM.png
