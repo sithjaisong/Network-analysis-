@@ -19,6 +19,5 @@ figures/IND1/IND1.png
 figures/PHL/PHL.png
 figures/THA/THA.png
 figures/VNM/VNM.png
-figures/Netfactoranalysis/Netfactoranalysis.png
 Chapter_3_Discussion.tex
 Glossary.tex
