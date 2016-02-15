@@ -12,6 +12,5 @@ table_rice_production_season.tex
 table_network_stat.tex
 figures/datasets/datasets.png
 figures/combinedplot/combinedplot.png
-figures/VNM/VNM.png
 Chapter_3_Discussion.tex
 Glossary.tex
