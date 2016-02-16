@@ -12,5 +12,6 @@ table_rice_production_season.tex
 table_network_stat.tex
 figures/datasets/datasets.png
 figures/node_prop_boxplot/node_prop_boxplot.png
+figures/network1/network1.png
 Chapter_3_Discussion.tex
 Glossary.tex
