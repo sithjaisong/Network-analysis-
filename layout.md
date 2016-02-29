@@ -16,4 +16,5 @@ figures/network1/network1.png
 figures/network2/network2.png
 Chapter_3_Discussion.tex
 Chapter_4_abstract.tex
+chapter_4_introduction.tex
 Glossary.tex
