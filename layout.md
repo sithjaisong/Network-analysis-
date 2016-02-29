@@ -16,7 +16,7 @@ figures/network1/network1.png
 figures/network2/network2.png
 Chapter_3_Discussion.tex
 Chapter_4_abstract.tex
-chapter_4_introduction.tex
+chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
 chapter_4_Results.tex
 chapter_4_Discussion.tex
