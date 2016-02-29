@@ -2,7 +2,7 @@ Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
 figures/distriangle/distriangle.PNG
 Chapter_3_Abstract.tex
-Chapter_3_introduction.tex
+Chapter_3_Introduction.tex
 Chapter_3_Materials_and_Methods.tex
 code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
