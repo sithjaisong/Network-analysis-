@@ -23,4 +23,5 @@ chapter_4_Discussion.tex
 figures/lowyieldnetwork/lowyieldnetwork.png
 figures/medium yield.network/medium yield.network.png
 figures/high yield.network/high yield.network.png
+table_yieldnetwork_networkprop.tex
 Glossary.tex
