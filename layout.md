@@ -4,7 +4,6 @@ figures/distriangle/distriangle.PNG
 Chapter_3_Abstract.tex
 Chapter_3_Introduction.tex
 Chapter_3_Materials_and_Methods.tex
-code for the map.tex
 figures/Sampling Sites4/Sampling Sites4.png
 Chapter_3_Results.tex
 table_survey_data.tex
