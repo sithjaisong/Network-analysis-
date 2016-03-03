@@ -20,6 +20,7 @@ chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
 chapter_4_Results.tex
 chapter_4_Discussion.tex
+figures/difTMN/difTMN.png
 figures/lowyieldnetwork/lowyieldnetwork.png
 figures/medium yield.network/medium yield.network.png
 figures/high yield.network/high yield.network.png
