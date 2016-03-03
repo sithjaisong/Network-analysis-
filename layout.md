@@ -9,8 +9,8 @@ Chapter_3_Results.tex
 table_survey_data.tex
 table_rice_production_season.tex
 figures/boxplotdataset/boxplotdataset.png
-table_network_stat.tex
 Chapter_3_Discussion.tex
+table_network_stat.tex
 Chapter_4_Abstract.tex
 chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
@@ -26,5 +26,4 @@ figures/medium yield.network/medium yield.network.png
 figures/high yield.network/high yield.network.png
 figures/yield network.boxplot/yield network.boxplot.png
 figures/venn.diagram/venn.diagram.png
-table_yieldnetwork_networkprop.tex
 Glossary.tex
