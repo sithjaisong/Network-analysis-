@@ -12,6 +12,7 @@ figures/boxplotdataset/boxplotdataset.png
 figures/nodepropidn_ds/nodepropidn_ds.png
 figures/nodepropidn_ws/nodepropidn_ws.png
 figures/nodepropind_ds/nodepropind_ds.png
+figures/nodepropind_ws/nodepropind_ws.png
 Chapter_3_Discussion.tex
 table_network_stat.tex
 Chapter_4_Abstract.tex
