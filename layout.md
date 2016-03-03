@@ -15,6 +15,7 @@ figures/nodepropind_ds/nodepropind_ds.png
 figures/nodepropind_ws/nodepropind_ws.png
 figures/nodepropphl_ds/nodepropphl_ds.png
 figures/nodepropphl_ws/nodepropphl_ws.png
+figures/nodeproptha_ds/nodeproptha_ds.png
 Chapter_3_Discussion.tex
 table_network_stat.tex
 Chapter_4_Abstract.tex
