@@ -1,1 +1,19 @@
 \subsection{Materials and Methods}
+
+\textbf{Network Comparison Measures}For the pair of $x_{i}$ variable and $y_{i}$ variable, we denote the correlation coefficient based on Spearman's correlation coefficient by $c_{xy}^1$ and $c_{xy}^2$ in networks 1 and 2, respectively. To test whether the 2 correlation coefficients were significantly different of each network, we use Spearman's correlation coefficients, the p-values of the correlation test, the difference of the 2 correlations, the corresponding $p$-values, and the result of Fisher's z-test. First, we applied the Fisher $z$-transformation in order to stabilize variances due to sample size.
+
+\begin{equation}
+z_{xy} = \frac{1}{2} \log\left[{\frac{1 + c_{xy}}{1 - c_{xy}}}\right]
+\end{equation}
+if we let $z_{xy}^D $ and $z_{xy}^W$ denote the $z$- transformation for dry and wet season variable pairs, respectively,Next, differences between the two correlations can be test using following. 
+
+\begin{equation}\triangle z_{xy} = \frac{z_{xy}^D - z_{xy}^W}{\sqrt{\frac{1}{N_{D}-3}+ \frac{1}{N_{W}-3}}}
+\end{equation}
+
+$N_{D}$ and $N_{W}$ represent the sample size for each of season network for each countrt. The $Z$ has an approximately Gaussian distribution under null hypotheses that the population correlations are equal.
+
+We consider the significantly pair-wise differential correlations ($p$vlaue < 0.05).
+
+
+ 
+
