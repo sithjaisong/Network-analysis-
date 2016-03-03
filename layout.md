@@ -24,6 +24,7 @@ figures/difTMN/difTMN.png
 figures/difWJW/difWJW.png
 figures/difLAG/difLAG.png
 figures/difSUP/difSUP.png
+figures/difKMD/difKMD.png
 figures/lowyieldnetwork/lowyieldnetwork.png
 figures/medium yield.network/medium yield.network.png
 figures/high yield.network/high yield.network.png
