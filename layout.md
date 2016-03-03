@@ -9,6 +9,7 @@ Chapter_3_Results.tex
 table_survey_data.tex
 table_rice_production_season.tex
 figures/boxplotdataset/boxplotdataset.png
+figures/nodepropidn_ds/nodepropidn_ds.png
 Chapter_3_Discussion.tex
 table_network_stat.tex
 Chapter_4_Abstract.tex
