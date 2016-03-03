@@ -19,6 +19,7 @@ figures/nodeproptha_ds/nodeproptha_ds.png
 figures/nodeproptha_ws/nodeproptha_ws.png
 figures/nodepropvnm_ds/nodepropvnm_ds.png
 figures/nodepropvnm_ws/nodepropvnm_ws.png
+figures/comnet1/comnet1.png
 Chapter_3_Discussion.tex
 table_network_stat.tex
 Chapter_4_Abstract.tex
