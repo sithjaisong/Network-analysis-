@@ -35,5 +35,4 @@ figures/difSUP/difSUP.png
 figures/difKMD/difKMD.png
 figures/lowyieldnetwork/lowyieldnetwork.png
 figures/medium yield.network/medium yield.network.png
-figures/yield network.boxplot/yield network.boxplot.png
 Glossary.tex
