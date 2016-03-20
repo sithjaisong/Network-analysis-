@@ -33,5 +33,4 @@ figures/difWJW/difWJW.png
 figures/difLAG/difLAG.png
 figures/difSUP/difSUP.png
 figures/difKMD/difKMD.png
-figures/lowyieldnetwork/lowyieldnetwork.png
 Glossary.tex
