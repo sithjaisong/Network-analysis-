@@ -28,5 +28,6 @@ chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
 chapter_4_Results.tex
 figures/differentialTMN/differentialTMN.png
+figures/differntialWJV/differntialWJV.png
 chapter_4_Discussion.tex
 Glossary.tex
