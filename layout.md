@@ -30,5 +30,6 @@ chapter_4_Results.tex
 figures/differentialTMN/differentialTMN.png
 figures/differntialWJV/differntialWJV.png
 figures/differtialLAG/differtialLAG.png
+figures/differentialSUP/differentialSUP.png
 chapter_4_Discussion.tex
 Glossary.tex
