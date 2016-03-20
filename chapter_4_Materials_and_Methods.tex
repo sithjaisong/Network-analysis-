@@ -1,16 +1,35 @@
 \subsection{Materials and Methods}
 
+\textbf{Data set}
+
+We obtained gene expression profiles of three rat tissues (white adipose, skeletal muscle, and liver) from the National Center for Biotechnology Information (NCBI) Gene Expression Omnibus database (GSE 13271)17,34,39. The gene expression data was measured from normal (WKY) and diseased rats (GK) aged from 4 weeks (4 wk) to 20 wk, and the time interval was 4 weeks. The microarray was composed of 31,099 probes. Our first filter eliminated the probe sets without corresponding official symbol, leaving 25,345 genes for further consideration.
+
+We downloaded the T2DM related genes (referred to as ‘disease genes’ for convenience in this paper) from the Rat Genome Database (http://rgd.mcw.edu/wg/home). Only those genes whose expressions have been measured in GSE17271 were considered in our analysis. In total, 143 disease genes were analyzed.
+
+The rat protein-protein interaction network (rat PPI) used in this study was integrated from KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway and BioGrid (Biological General Repository for Interaction Datasets). The integrated PPI network contains 24,503 edges (interactions) among 4,082 nodes (proteins).
+
+Identifying differentially expressed genes
+It is well confirmed that the propensity of many diseases can be reflected in a difference of gene expression levels in particular cell types40. For this reason, genes showing a different expression levels in control crowds (i.e. WKY rats in this paper) and case strains (i.e. GK rats in this paper) are likely related to the disease.
+
+
+
 \textbf{Network Comparison Measures}For the pair of $x_{i}$ variable and $y_{i}$ variable, we denote the correlation coefficient based on Spearman's correlation coefficient by $c_{xy}^1$ and $c_{xy}^2$ in networks 1 and 2, respectively. To test whether the 2 correlation coefficients were significantly different of each network, we use Spearman's correlation coefficients, the p-values of the correlation test, the difference of the 2 correlations, the corresponding $p$-values, and the result of Fisher's z-test. First, we applied the Fisher $z$-transformation in order to stabilize variances due to sample size.
 
 \begin{equation}
 z_{xy} = \frac{1}{2} \log\left[{\frac{1 + c_{xy}}{1 - c_{xy}}}\right]
 \end{equation}
-if we let $z_{xy}^D $ and $z_{xy}^W$ denote the $z$- transformation for dry and wet season variable pairs, respectively,Next, differences between the two correlations can be test using following. 
+if we let $z_{xy}^D $ and $z_{xy}^W$ denote the $z$- transformation for dry and wet season variable pairs, respectively. 
+
+Here the student's t-test was utilized to identify differential co-occurrence relationships of rice injuries. For dry or wet season network, 
+
+gene expressions from different samples were taken as replicated experiments. For a gene, whether there is a significant difference in log2 expression level from GK versus WKY can be estimated by t-test. The logarithm transformation is to make the data approximately subjected to normal distribution. To get a more powerful and less subject to bias, multiple testing was employed in this work. The threshold for adjusted p-value was set to 0.05.
+
+Next, differences between the two correlations can be test using following. 
 
 \begin{equation}\triangle z_{xy} = \frac{z_{xy}^D - z_{xy}^W}{\sqrt{\frac{1}{N_{D}-3}+ \frac{1}{N_{W}-3}}}
 \end{equation}
 
-$N_{D}$ and $N_{W}$ represent the sample size for each of season network for each countrt. The $Z$ has an approximately Gaussian distribution under null hypotheses that the population correlations are equal.
+$N_{D}$ and $N_{W}$ represent the sample size for each of season network for each country. The $Z$ has an approximately Gaussian distribution under null hypotheses that the population correlations are equal.
 
 We consider the significantly pair-wise differential correlations ($p$vlaue < 0.05).
 
