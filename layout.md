@@ -32,5 +32,6 @@ figures/differntialWJV/differntialWJV.png
 figures/differtialLAG/differtialLAG.png
 figures/differentialSUP/differentialSUP.png
 figures/differentialMKD/differentialMKD.png
+figures/van dry_y/van dry_y.png
 chapter_4_Discussion.tex
 Glossary.tex
