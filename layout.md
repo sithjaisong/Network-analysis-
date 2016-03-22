@@ -17,7 +17,6 @@ figures/nodepropphl_ds/nodepropphl_ds.png
 figures/nodepropphl_ws/nodepropphl_ws.png
 figures/nodeproptha_ds/nodeproptha_ds.png
 figures/nodeproptha_ws/nodeproptha_ws.png
-figures/nodepropvnm_ds/nodepropvnm_ds.png
 figures/comnet1/comnet1.png
 figures/comnet2/comnet2.png
 Chapter_3_Discussion.tex
