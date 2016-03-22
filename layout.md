@@ -7,7 +7,6 @@ Chapter_3_Materials_and_Methods.tex
 figures/Sampling Sites4/Sampling Sites4.png
 Chapter_3_Results.tex
 table_survey_data.tex
-table_rice_production_season.tex
 Chapter_3_Discussion.tex
 table_network_stat.tex
 Chapter_4_Abstract.tex
