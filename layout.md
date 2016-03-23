@@ -13,6 +13,7 @@ Chapter_4_Abstract.tex
 chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
 chapter_4_Results.tex
+figures/ds_yield_venn/ds_yield_venn.png
 figures/differentialTMN/differentialTMN.png
 figures/differntialWJV/differntialWJV.png
 figures/differtialLAG/differtialLAG.png
