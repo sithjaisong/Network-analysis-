@@ -19,6 +19,7 @@ figures/differtialLAG/differtialLAG.png
 figures/differentialSUP/differentialSUP.png
 figures/differentialMKD/differentialMKD.png
 figures/Vannofhighyield/Vannofhighyield.png
+figures/ws_yield_vann/ws_yield_vann.png
 table_yielddifnet.tex
 chapter_4_Discussion.tex
 Glossary.tex
