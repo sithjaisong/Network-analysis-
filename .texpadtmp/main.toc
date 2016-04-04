@@ -1,0 +1,37 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
+\contentsline {chapter}{\numberline {I}INTRODUCTION}{1}
+\contentsline {subsection}{\numberline {I.0.1}Objectives of the study}{3}
+\contentsline {subsection}{\numberline {I.0.2}Significance of the study}{4}
+\contentsline {subsection}{\numberline {I.0.3}Scope and limitation of the study}{5}
+\contentsline {chapter}{\numberline {II}REVIEW OF LITERATURE}{6}
+\contentsline {paragraph}{Insect pests}{9}
+\contentsline {paragraph}{Rice diseases}{12}
+\contentsline {paragraph}{Foliar diseases}{12}
+\contentsline {paragraph}{Diseases on the tiller}{14}
+\contentsline {paragraph}{Panicle diseases}{15}
+\contentsline {paragraph}{Viral diseases}{16}
+\contentsline {subsubsection}{The effects of phosphorous on pest occurrence}{21}
+\contentsline {subsubsection}{The effects of potassium on pest occurrence}{22}
+\contentsline {subsubsection}{The effects of phosphorous on pest occurrence}{25}
+\contentsline {subsubsection}{The effects of potassium on pest occurrence}{25}
+\contentsline {chapter}{\numberline {III}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{46}
+\contentsline {subsection}{\numberline {III.0.1}Introduction}{46}
+\contentsline {subsection}{\numberline {III.0.2}Materials and Methods}{49}
+\contentsline {subsubsection}{Study sites, data collection}{49}
+\contentsline {subsubsection}{Network construction}{50}
+\contentsline {subsubsection}{Topological feature analysis}{51}
+\contentsline {subsection}{\numberline {III.0.3}Results}{53}
+\contentsline {subsubsection}{Crop health survey data}{53}
+\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{58}
+\contentsline {paragraph}{Tamil Nadu, India (TMN)}{58}
+\contentsline {paragraph}{West Java, Indonesia (WJV)}{59}
+\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{60}
+\contentsline {paragraph}{Suphan Buri, Thailand (SUP)}{61}
+\contentsline {paragraph}{Makong Rive Delta, Vietnam (MKD)}{63}
+\contentsline {subsection}{\numberline {III.0.4}Discussion}{64}
+\contentsline {chapter}{\numberline {IV}Differential networks reveal the dynamics of animal pests and disease co-occurrences conditioned by yield levels}{67}
+\contentsline {subsection}{\numberline {IV.0.1}Introduction}{67}
+\contentsline {subsection}{\numberline {IV.0.2}Materials and Methods}{68}
+\contentsline {subsection}{\numberline {IV.0.3}Results}{69}
+\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{70}
+\contentsline {subsection}{\numberline {IV.0.4}Discussion}{70}

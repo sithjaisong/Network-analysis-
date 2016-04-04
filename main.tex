@@ -1,0 +1,241 @@
+%!TEX encoding = MacOSRoman
+% * <sith.jaisong@gmail.com> 2016-04-04T04:53:41.141Z:
+%
+% ^.
+% * <sith.jaisong@gmail.com> 2016-04-04T04:53:39.231Z:
+%
+% ^.
+%!TEX TS-program = xelatex
+%!BIB TS-program = bibtex
+
+% --------------------- Start of Document Preamble -----------------------
+
+\documentclass[12pt, oneside]{report} % report is suitable for the long document such as Ph.D thesis with chapters
+\usepackage[a4paper, left=1.5in, right=1in, bottom=1in, tmargin=1in, headsep=0.2in]{geometry}
+\usepackage{fontspec}
+\usepackage{titlecaps}
+\setmainfont{Times New Roman}
+\usepackage{pdflscape}
+\usepackage[round]{natbib}  % the bibliography
+\usepackage{sectsty}
+\usepackage{lastpage}% http://ctan.org/pkg/lastpage
+\usepackage{hyphenat} % for hp hyenation
+\chapterfont{\centering}
+\usepackage{enumitem} % enumerate package
+\usepackage{setspace} % format the line spacing
+\linespread{2}
+\usepackage{siunitx}
+\usepackage{import}
+\usepackage{float}
+\usepackage{todo}
+\usepackage{amsmath,amssymb,amstext} % Lots of math symbols and environments
+\usepackage{graphicx} % For including graphics N.B. pdftex graphics driver 
+
+\usepackage{afterpage}
+\usepackage{etoc}
+\usepackage{minitoc}
+%---------Adjust format chapter--------
+\sectionfont{\normalsize}
+\chapterfont{\center\Large}
+%-------------------------------
+
+%----- Adjust the style ----
+\renewcommand{\chaptername}{CHAPTER}
+\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\thefigure}{\arabic{chapter}-\arabic{figure}}
+%\renewcommand{\thefigure}{\Roman{figure}}
+%\renewcommand{\chaptername}{}
+%\renewcommand{\thechapter}{}
+
+\usepackage{indentfirst}
+\setlength{\parindent}{4em}
+%\setlength{\bibsep}{0pt plus 0.3ex}
+\setlength \bibsep{12pt} % set the reference format
+\setlength \bibhang{4em}
+
+%------------------set page number to the right corner
+\usepackage{fancyhdr}
+
+\fancypagestyle{myplain}{% 
+\fancyhf{} % clear all header and footer fields
+\fancyhead[R]{\thepage} %RO=right odd, RE=right even
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}
+
+% change indent of table of content
+\usepackage[titles]{tocloft}
+\renewcommand\contentsname{TABLE OF CONTENTS}
+\cftsetindents{chapter}{0.5cm}{.6cm}
+\cftsetindents{section}{0.5cm}{.6cm}
+\cftsetindents{subsection}{1.0cm}{.9cm}
+\cftsetindents{subsubsection}{1.5cm}{1.2cm}
+\cftsetindents{paragraph}{0cm}{1.5cm}
+
+% for mat of list of figures
+
+\renewcommand{\cftloftitlefont}{\hfill\large\bfseries\MakeUppercase} 
+\renewcommand{\cftafterloftitle}{%
+  \hfill\null\\[2\baselineskip]\bfseries No.\hfill\phantom{Hal}Judul\phantom{No.}\hfill Hal}
+\renewcommand\cftafterloftitleskip{1\baselineskip}
+\renewcommand\cftfigindent{0pt}
+
+%===========
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\center\Large\bfseries}
+  {\MakeUppercase{\chaptertitlename}~\thechapter}
+  {1.5pc}
+  {}
+\titlespacing{\chapter}{0pt}{0in}{0.5in}
+
+%\titleformat{\chapter}[display]{\normalfont\center\Huge\bfseries}{\thechapter}{1em}{}
+%\titlespacing{\chapter}{0pt}{0in}{0.5in}
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection}{1em}{}
+ \titlespacing{\section}{0pt}{0in}{4pt}
+  \titlespacing{\section}{0pt}{0in}{3pt}
+% ---------------------- End of Document Preamble ------------------------
+
+%======================================================================
+%   L O G I C A L    D O C U M E N T -- the content of your thesis
+%======================================================================
+\begin{document}
+
+% For a large document, it is a good idea to divide your thesis
+% into several files, each one containing one chapter.
+% To illustrate this idea, the "front pages" (i.e., title page,
+% declaration, borrowers' page, abstract, acknowledgements,
+% dedication, table of contents, list of tables, list of figures,
+% included into the document by the following statement.
+%----------------------------------------------------------------------
+% FRONT MATERIAL
+%----------------------------------------------------------------------
+\input{frontpgs.tex}
+
+% The rest of the front pages should contain no headers and be numbered using Roman numerals starting with `ii'
+\setcounter{page}{2}
+
+\cleardoublepage % Ends the current page and causes all figures and tables that have so far appeared in the input to be printed.
+% In a two-sided printing style, it also makes the next page a right-hand (odd-numbered) page, producing a blank page if necessary.
+ 
+
+% D E C L A R A T I O N   P A G E
+% -------------------------------
+  % The following is the sample Delaration Page as provided by the GSO
+  % December 13th, 2006.  It is designed for an electronic thesis.
+%  \noindent
+%I hereby declare that I am the sole author of this thesis. This is a true copy of the thesis, including any required final revisions, as accepted by my examiners.
+
+%  \bigskip
+  
+%  \noindent
+%I understand that my thesis may be made electronically available to the public.
+
+%\cleardoublepage
+%\newpage
+
+% A B S T R A C T
+% ---------------
+
+%\begin{center}\textbf{Abstract}\end{center}
+
+% You're not characterizing different environments. They're all tropical, irrigated, lowland rice
+%Characterising rice agroecosytems requires knowledge and information of qualitative and quantitative information. One way of gathering data the data necessary for this is through the conduct of surveys. Given the nature of the data, it is not a simple task to analyse and examine in order to derive information and knowledge. One method in particular, network analysis, has been used to explore the observed relationships between the individual elements in a given system. This study is the first known attempt to apply network analysis to the analysis of in-field and household survey data on rice yield limiting and reducing factors. The data will be analyzed and visualized using the proposed network model. I propose to construct a network model using survey data collected from 2009 to 2011 in several sites (Chekempek, West Java, Indonesia; Mekong River Delta, Vietnam; Tamil Nadu, India; and Suphaburi, Thailand) and test the model with data collected from 2012 to 2015 in several cropping seasons and sites (Chekempek, West Java, Indonesia; Red River Delta, Vietnam; Tamil Nadu and Odisha, India; Suphaburi, Thailand). The anticipated results from this research will be helpful for plant health authorities worldwide, in order to design specific strategies for rice pest and disease management and to limit the impacts of these yield reducing factors. 
+
+
+%\cleardoublepage
+%\newpage
+
+% A C K N O W L E D G E M E N T S
+% -------------------------------
+
+%\begin{center}\textbf{Acknowledgements}\end{center}
+
+%I would like to thank all the little people who made this possible.
+%\cleardoublepage
+%\newpage
+
+% D E D I C A T I O N
+% -------------------
+
+%\begin{center}\textbf{Dedication}\end{center}
+
+%\cleardoublepage
+%\newpage
+% T A B L E  O F  C O N T E N T S
+%------------------------------
+\input{tocformat.tex}
+
+% L I S T   O F   F I G U R E S
+% -----------------------------
+\input{lofformat.tex}
+
+% L I S T   O F   S Y M B O L S
+% -----------------------------
+% To include a Nomenclature section
+% \addcontentsline{toc}{chapter}{\textbf{Nomenclature}}
+% \renewcommand{\nomname}{Nomenclature}
+% \printglossary
+% \cleardoublepage
+% \phantomsection % allows hyperref to link to the correct page
+% \newpage
+
+% Change page numbering back to Arabic numerals
+\cleardoublepage
+
+\pagestyle{myplain}
+\pagenumbering{arabic}
+%----------------------------------------------------------------------
+% MAIN BODY
+%----------------------------------------------------------------------
+% Because this is a short document, and to reduce the number of files
+% needed for this template, the chapters are not separate
+% documents as suggested above, but you get the idea. If they were
+% separate documents, they would each start with the \chapter command, i.e, 
+% do not contain \documentclass or \begin{document} and \end{document} commands.
+
+%======================================================================
+% INTRODUCTION
+\chapter{INTRODUCTION}
+%======================================================================
+\input{Chapter_1_Introduction.tex}
+
+\chapter{REVIEW OF LITERATURE}
+%====================================
+\input{Chapter_2_Literature-review.tex}
+
+%======================================================================
+% Materials and Methods
+\chapter{Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}
+%======================================================================
+\input{Chapter_3_Abstract.tex}
+\input{Chapter_3_Introduction.tex}
+\input{Chapter_3_Materials_and_Methods.tex}
+\input{Chapter_3_Results.tex}
+\input{Chapter_3_Discussion.tex}
+
+
+\chapter{Differential networks reveal the dynamics of animal pests and disease co-occurrences conditioned by yield levels}
+
+\input{Chapter_4_Abstract.tex}
+\input{Chapter_4_Introduction.tex}
+\input{Chapter_4_Materials_and_Methods.tex}
+\input{Chapter_4_Results.tex}
+\input{Chapter_4_Discussion.tex}
+
+
+%----------------------------------------------------------------------
+% END MATERIAL
+%----------------------------------------------------------------------
+
+% B I B L I O G R A P H Y
+% -----------------------
+\bibliographystyle{apalike2}
+\cleardoublepage
+\begin{singlespace}
+\renewcommand{\bibname}{LITERATURE CITED}
+\bibliography{bibliography/biblio}
+\end{singlespace}
+\end{document}

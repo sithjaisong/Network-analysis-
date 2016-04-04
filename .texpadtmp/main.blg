@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
+---line 178 of file main.aux
+ : \citation{Usadel_2009_Co
+ :                         ,Horvath_2011_Weighted}
+I'm skipping whatever remains of this command
+The style file: ../apalike2.bst
+Database file #1: ../bibliography/biblio.bib
+Warning--I didn't find a database entry for "Moslonka_2010_"
+Warning--I didn't find a database entry for "Shaw_2014_Network"
+Warning--I didn't find a database entry for "Liu_2014_Detecting"
+Warning--I didn't find a database entry for "Krishnaiah_2004_Rice"
+Warning--empty journal in Borgatti_2013_Analyzing
+Warning--empty journal in Singleton_2003_Impacts
+Warning--there's a number but no volume in Tanaka_2008_Villosiclava
+You've used 91 entries,
+            1971 wiz_defined-function locations,
+            1105 strings with 23308 characters,
+and the built_in function-call counts, 38786 in all, are:
+= -- 3766
+> -- 1916
+< -- 47
++ -- 666
+- -- 665
+* -- 3398
+:= -- 6868
+add.period$ -- 276
+call.type$ -- 91
+change.case$ -- 861
+chr.to.int$ -- 90
+cite$ -- 94
+duplicate$ -- 1268
+empty$ -- 2500
+format.name$ -- 794
+if$ -- 7426
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 100
+newline$ -- 456
+num.names$ -- 275
+pop$ -- 664
+preamble$ -- 1
+purify$ -- 781
+quote$ -- 0
+skip$ -- 1004
+stack$ -- 0
+substring$ -- 2686
+swap$ -- 73
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 526
+warning$ -- 3
+while$ -- 316
+width$ -- 0
+write$ -- 1167
+(There was 1 error message)
