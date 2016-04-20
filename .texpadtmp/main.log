@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  4 APR 2016 18:01
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  20 APR 2016 08:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -930,27 +930,27 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 104.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 93.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 93.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    ... okay on input line 93.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -993,68 +993,67 @@ LaTeX Font Info:    ... okay on input line 104.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 104.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 104.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 104.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 104.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 104.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 104.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 104.
-LaTeX Font Info:    Redeclaring math accent \check on input line 104.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 104.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 104.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 104.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 104.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 93.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 93.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 93.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 93.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 93.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 93.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 93.
+LaTeX Font Info:    Redeclaring math accent \check on input line 93.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 93.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 93.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 93.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 93.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 104.
-
+(Font)              `operators' in the math version `normal' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
-104.
+93.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 104.
+(Font)              `operators' in the math version `bold' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
- 104.
+ 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 104.
+n input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
-e 104.
+e 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
-e 104.
+e 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 104.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 104.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 104.
+on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
-ine 104.
+ine 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 104.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 104.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 93.
 \AtBeginShipoutBox=\box86
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 104.
+(lastpage)             ! on input line 93.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1085,18 +1084,18 @@ Package minitoc(hints) Warning: W0099
 (minitoc(hints))                with the minitoc package.
 
 \c__siunitx_mathsf_int=\count185
-LaTeX Font Info:    Try loading font information for U+msa on input line 104.
+LaTeX Font Info:    Try loading font information for U+msa on input line 93.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 104.
+LaTeX Font Info:    Try loading font information for U+msb on input line 93.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count186
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 104
-.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 93.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1264,73 +1263,76 @@ LaTeX Warning: Reference `todolbl:11' on page 43 undefined on input line 270.
 
 ) [43] [44] [45]
 CHAPTER III.
-(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [46
+(./Chapter_Three_APPS.tex [46
 
-] [47])
+]) [47]
+CHAPTER IV.
+(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [48
+
+] [49])
 (./Chapter_3_Materials_and_Methods.tex
 
-LaTeX Warning: Reference `table:Survey_data' on page 48 undefined on input line
+LaTeX Warning: Reference `table:Survey_data' on page 50 undefined on input line
  6.
 
-[48]
+[50]
 Overfull \hbox (1.6544pt too wide) in paragraph at lines 8--9
 \EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
 ing factors in rice” developed by Savary
  []
 
-[49] [50] [51] [52]) (./Chapter_3_Results.tex
+[51] [52] [53] [54]) (./Chapter_3_Results.tex
 Overfull \hbox (4.94135pt too wide) in paragraph at lines 6--7
 []\EU1/TimesNewRoman(0)/m/n/12 Prior to using the crop health survey data to co
 nstruct networks, some exploratory
  []
 
-[53] [54]
+[55] [56]
 File: figures/simgraph.png Graphic file (type QTm)
  <use  "figures/simgraph.png" >
 Overfull \hbox (125.04088pt too wide) in paragraph at lines 20--21
 [][] 
  []
 
-[55] [56] [57] [58] [59] [60] [61] [62] [63]
+[57] [58] [59] [60] [61] [62] [63] [64] [65]
 File: figures/idn_ds_net.png Graphic file (type QTm)
  <use  "figures/idn_ds_net.png" >
 File: figures/nodepropidn_ds.pdf Graphic file (type QTm)
 
-<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [64] [65]
+<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [66] [67]
 
-Package natbib Warning: Citation `Liu_2014_Detecting' on page 66 undefined on i
+Package natbib Warning: Citation `Liu_2014_Detecting' on page 68 undefined on i
 nput line 10.
 
 
-Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 66 undefined on
+Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 68 undefined on
  input line 10.
 
-) [66
-
+) [68
 
 ]
-CHAPTER IV.
-(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [67
+CHAPTER V.
+(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [69
 
 ])
-(./Chapter_4_Materials_and_Methods.tex [68]) (./Chapter_4_Results.tex [69])
-(./Chapter_4_Discussion.tex) [70]
+(./Chapter_4_Materials_and_Methods.tex [70]) (./Chapter_4_Results.tex [71])
+(./Chapter_4_Discussion.tex) [72]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
 Underfull \hbox (badness 1924) in paragraph at lines 48--52
 []\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
 ., HOEFER, M.,
  []
 
-[71
+[73
 
 
-] [72] [73] [74] [75] [76])
+] [74] [75] [76] [77] [78])
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[77]
+[79]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -1347,7 +1349,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[78
+[80
 
 ] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 
@@ -1355,13 +1357,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21764 strings out of 493706
- 445384 string characters out of 6145769
+ 21772 strings out of 493706
+ 445489 string characters out of 6145769
  489975 words of memory out of 5000000
- 24615 multiletter control sequences out of 15000+600000
+ 24617 multiletter control sequences out of 15000+600000
  8517 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,11n,58p,10377b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (81 pages).
+tmp/main.pdf (83 pages).

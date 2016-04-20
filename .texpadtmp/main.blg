@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
----line 178 of file main.aux
+---line 180 of file main.aux
  : \citation{Usadel_2009_Co
  :                         ,Horvath_2011_Weighted}
 I'm skipping whatever remains of this command
