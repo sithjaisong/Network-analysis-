@@ -15,26 +15,26 @@
 \contentsline {subsubsection}{The effects of phosphorous on pest occurrence}{25}
 \contentsline {subsubsection}{The effects of potassium on pest occurrence}{25}
 \contentsline {chapter}{\numberline {III}Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{46}
-\contentsline {subsection}{\numberline {III.0.1}Discussion}{47}
-\contentsline {chapter}{\numberline {IV}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{48}
-\contentsline {subsection}{\numberline {IV.0.1}Introduction}{48}
-\contentsline {subsection}{\numberline {IV.0.2}Materials and Methods}{51}
-\contentsline {subsubsection}{Study sites, data collection}{51}
-\contentsline {subsubsection}{Network construction}{52}
-\contentsline {subsubsection}{Topological feature analysis}{53}
-\contentsline {subsection}{\numberline {IV.0.3}Results}{55}
-\contentsline {subsubsection}{Crop health survey data}{55}
-\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{60}
-\contentsline {paragraph}{Tamil Nadu, India (TMN)}{60}
-\contentsline {paragraph}{West Java, Indonesia (WJV)}{61}
-\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{62}
-\contentsline {paragraph}{Suphan Buri, Thailand (SUP)}{63}
-\contentsline {paragraph}{Makong Rive Delta, Vietnam (MKD)}{65}
-\contentsline {subsection}{\numberline {IV.0.4}Discussion}{66}
-\contentsline {chapter}{\numberline {V}Differential networks reveal the dynamics of animal pests and disease co-occurrences conditioned by yield levels}{69}
-\contentsline {subsection}{\numberline {V.0.1}Abstract}{69}
-\contentsline {subsection}{\numberline {V.0.2}Introduction}{69}
-\contentsline {subsection}{\numberline {V.0.3}Materials and Methods}{71}
-\contentsline {subsection}{\numberline {V.0.4}Results}{72}
-\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{72}
-\contentsline {subsection}{\numberline {V.0.5}Discussion}{72}
+\contentsline {subsection}{\numberline {III.0.1}Discussion}{50}
+\contentsline {chapter}{\numberline {IV}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{51}
+\contentsline {subsection}{\numberline {IV.0.1}Introduction}{51}
+\contentsline {subsection}{\numberline {IV.0.2}Materials and Methods}{54}
+\contentsline {subsubsection}{Study sites, data collection}{54}
+\contentsline {subsubsection}{Network construction}{55}
+\contentsline {subsubsection}{Topological feature analysis}{56}
+\contentsline {subsection}{\numberline {IV.0.3}Results}{58}
+\contentsline {subsubsection}{Crop health survey data}{58}
+\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{63}
+\contentsline {paragraph}{Tamil Nadu, India (TMN)}{63}
+\contentsline {paragraph}{West Java, Indonesia (WJV)}{64}
+\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{65}
+\contentsline {paragraph}{Suphan Buri, Thailand (SUP)}{66}
+\contentsline {paragraph}{Makong Rive Delta, Vietnam (MKD)}{68}
+\contentsline {subsection}{\numberline {IV.0.4}Discussion}{69}
+\contentsline {chapter}{\numberline {V}Differential networks reveal the dynamics of animal pests and disease co-occurrences conditioned by yield levels}{72}
+\contentsline {subsection}{\numberline {V.0.1}Abstract}{72}
+\contentsline {subsection}{\numberline {V.0.2}Introduction}{72}
+\contentsline {subsection}{\numberline {V.0.3}Materials and Methods}{74}
+\contentsline {subsection}{\numberline {V.0.4}Results}{75}
+\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{75}
+\contentsline {subsection}{\numberline {V.0.5}Discussion}{75}

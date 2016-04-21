@@ -6,11 +6,37 @@ Network analysis is a promising tool frequently used to describe the pairwise re
 
 %general background information
 % using the research ref to support both the background facts and claim for significance
-% general problem or the current research fosud
+% general problem or the current research focus
 % 
 
 \subsection*{Material and methods}
+\textbf{Survey data}
 Survey data collected in 420 farmers’ fields in irrigated lowland rice growing areas across South and Southeast Asia (Tamil Nadu; India, Odisha; India, West Java; Indonesia, Central plain; Thailand, and Red river delta; Vietnam) were based on the “Survey Portfolio” . In this study, we evaluated correlation measures including, Pearson, Spearman, Kendal and Biweight mid correlation to discover the true functionally related variables in crop health survey data.
+
+
+\textbf{Kendall’s rank correlation}Kendall’s rank correlation is a non-parametric measure of the strength of the dependence between two variables. It measures the similarity of the ordering of the data when ranked by each of the variables.Let X and Y be the two random variables with observations x1,x2,x3, . . . ,xn and y1,y2,y3, . . . ,yn respectively. Any pair of observations (xi ,yi ) and (xj ,yj ) are said to be concordant if both xiwxj and yiwyj or if both xivxj and yivyj and they are said to be discordant if xiwxjand yivyj or if xivxj and. yiwyj If xi~xj oryi~yj, then the pair is neither concordant nor discordant.Kendall’s correlation coefficient is defined as 
+
+If there are tied observations (the observations with same values), then the following formula is used to find the correlation coefficient   Where ti is the number of observations tied at a particular rank of X and u is the number of observations tied at a rank of Y. The value of the coefficient ranges from 21 to +1. If the ranks of the two variables are same, the value of the coefficient is 1 and if one ranking is reverse the other then the value is 21. If the two variables are independent, the value is approximately equal to zero.Kendall’s rank correlation coefficient provides a statistical test to test the independence of two variables. The test is non-parametric and does not make any assumption about the distributions of the variables.Under the null hypothesis of X and Y being independent, for a large sample, Kendall’s correlation follows a normal distributionwith mean 0 and variance 2(2nz5) : [20]. Therefore for large n, 9n(n{1) tunder null hypothesis, the statistic follows standard normal distribution. Kendall’s correlation is robust to outliers. The R code for Kendall was adopted from R package stats (http://r- project.org).
+
+\textbf{Pearson’s correlation}
+Pearson’s correlation coefficient measures the strength of the linear relationship between two random variables. The value of the correlation coefficient is between 21 and 1. The correlation closer to +1 or 21 indicates the relationship is closer to a perfect linear relationship. The two variables have positive association (the values of the one variable increases with the increase in the value of the other variable) if the value for correlation is positive and the variable have a negative association (the values of one variable decreases with the increase in the value of the other) if the value for the correlation is negative. If the two variables are uncorrelated, the Pearson’s correlation is 0.Suppose X and Y be two random variables with n measurements. Then the correlation between two variables is computed as
+
+\begin{equation}
+r = \frac{\sum_{i =1}^{n}(X_i - \overline{X})(Y_i - \overline{Y}) }{(n-1)S_x S_y}
+\end{equation}
+where, X  and Y  are the sample means and SX and SY are the sample standard deviations of X and Y respectively. Under the null hypothesis of two variables being independent, the quantity
+
+\begin{equation}
+t = \frac{r}{\sqrt{\frac{(1-r^2)}{n-2}}}
+\end{equation}
+follows a Student’s t distribution with n-2 degrees of freedom [42].The Pearson’s correlation assumes the data is normally distributed and there is a linear relationship between the two variables. It is sensitive to outliers and requires the data to be measured on interval or ratio scale. For R code see the cor.test package (http://r-project.org).
+
+\textbf{Spearman’s rank correlation}Spearman’s rank correlation coefficient is a nonparametric measure of association. It assesses the nonlinear monotonic relationship between the two variables by the linear relationship between the ranks of the values of the two variables. Like other correlations, Spearman’s correlation also takes values between 21 and +1. The positive correlation implies the ranks of both variables increase together and negative correlation implies the ranks of one variable increases as the ranks of the other variable decrease. A correlation close to zero means there is no linear relationship between the ranks of the two variables.
+
+Spearman’s correlation coefficient does not require the data to be measured on interval or ratio scale. It can be used for ordinal data. Spearman’s correlation is computed the same way as the Pearson correlation but instead of using the original values of the variables, the ranks of the values are used [5]. The tied values are assigned a rank equal to the average of their positions in the ascending order of the values. In case of no tied ranks, the following formula can be used to find the correlation.where;the difference between the ranks of the ith observations of the two variables. n= the number of pairs of values.Under the null hypothesis of statistical independence of the variables, for a sufficiently large sample the quantity
+follows a Student’s $t$-distribution with n-2degrees of freedom. For R code see the cor.test package (http://r-project.org).
+
+
 
 \subsection*{Result}
 Evaluation of four correlation measures, including Pearson, Spearman, Kendall correlation, and Biweight mid-correlation shows two groups clustered according to hierarchical clustering using Euclidean distance. The Spearman and Kendall correlation were grouped in rank-base methods, and another group is non-rank-based correlations including Pearson correlation and Biweight mid-correlation. When choosing a measure, Spearman correlation was selected because its robustness to noise and to outliers.
