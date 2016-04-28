@@ -15,7 +15,9 @@
 \contentsline {subsubsection}{The effects of phosphorous on pest occurrence}{25}
 \contentsline {subsubsection}{The effects of potassium on pest occurrence}{25}
 \contentsline {chapter}{\numberline {III}Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{46}
-\contentsline {subsection}{\numberline {III.0.1}Discussion}{50}
+\contentsline {section}{\numberline {III.1}Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}{46}
+\contentsline {subsection}{\numberline {III.1.1}Result}{49}
+\contentsline {subsection}{\numberline {III.1.2}Discussion}{50}
 \contentsline {chapter}{\numberline {IV}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{51}
 \contentsline {subsection}{\numberline {IV.0.1}Introduction}{51}
 \contentsline {subsection}{\numberline {IV.0.2}Materials and Methods}{54}
@@ -35,6 +37,6 @@
 \contentsline {subsection}{\numberline {V.0.1}Abstract}{72}
 \contentsline {subsection}{\numberline {V.0.2}Introduction}{72}
 \contentsline {subsection}{\numberline {V.0.3}Materials and Methods}{74}
-\contentsline {subsection}{\numberline {V.0.4}Results}{75}
-\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{75}
-\contentsline {subsection}{\numberline {V.0.5}Discussion}{75}
+\contentsline {subsection}{\numberline {V.0.4}Results}{76}
+\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{76}
+\contentsline {subsection}{\numberline {V.0.5}Discussion}{76}

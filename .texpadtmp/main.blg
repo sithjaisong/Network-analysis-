@@ -2,12 +2,18 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
----line 180 of file main.aux
+---line 181 of file main.aux
  : \citation{Usadel_2009_Co
  :                         ,Horvath_2011_Weighted}
 I'm skipping whatever remains of this command
 The style file: ../apalike2.bst
 Database file #1: ../bibliography/biblio.bib
+I was expecting a `,' or a `}'---line 1939 of file ../bibliography/biblio.bib
+ :   
+ :   title = {{World Development Report 2009: Agriculture for Development}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "2008"
 Warning--I didn't find a database entry for "Moslonka_2010_"
 Warning--I didn't find a database entry for "Shaw_2014_Network"
 Warning--I didn't find a database entry for "Liu_2014_Detecting"
@@ -17,7 +23,7 @@ Warning--empty journal in Singleton_2003_Impacts
 Warning--there's a number but no volume in Tanaka_2008_Villosiclava
 You've used 91 entries,
             1971 wiz_defined-function locations,
-            1105 strings with 23308 characters,
+            1105 strings with 23316 characters,
 and the built_in function-call counts, 38786 in all, are:
 = -- 3766
 > -- 1916
@@ -56,4 +62,4 @@ warning$ -- 3
 while$ -- 316
 width$ -- 0
 write$ -- 1167
-(There was 1 error message)
+(There were 2 error messages)

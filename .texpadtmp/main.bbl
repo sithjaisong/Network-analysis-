@@ -47,7 +47,7 @@ BOTTRELL, D.~G. {and} SCHOENLY, K.~G. 2012.
 \bibitem[Brandes et~al., 2008]{Brandes_2008_Modularity}
 BRANDES, U., DELLING, D., GAERTLER, M., G{\"O}RKE, R., HOEFER, M., NIKOLOSKI,
   Z., {and} WAGNER, D. 2008.
-\newblock On modularity clustering.
+\newblock {On modularity clustering}.
 \newblock Knowledge and Data Engineering, IEEE Transactions on, 20(2):172--188.
 
 \bibitem[Campbell et~al., 1990]{Campbell_1990_Introduction}
@@ -79,8 +79,8 @@ CHAU, L.~M., CAT, H.~D., BEN, P.~T., PHUONG, L.~T., CHENG, J., {and} HEONG, K.
 
 \bibitem[Crowston {and} Howison, 2006]{Crowston_2006_Hierarchy}
 CROWSTON, K. {and} HOWISON, J. 2006.
-\newblock Hierarchy and centralization in free and open source software team
-  communications.
+\newblock {Hierarchy and centralization in free and open source software team
+  communications}.
 \newblock Knowledge, Technology \&amp; Policy, 18(4):65--85.
 
 \bibitem[Csardi {and} Nepusz, 2006]{Csardi_2010_igraph}
@@ -201,8 +201,8 @@ LITSINGER, J.~A., CANAPI, B.~L., {and} BANDONG, J.~P. 2011.
 \bibitem[Ma et~al., 2016]{Ma_2016_Geographic}
 MA, B., WANG, H., DSOUZA, M., LOU, J., HE, Y., DAI, Z., BROOKES, P.~C., XU, J.,
   {and} GILBERT, J.~A. 2016.
-\newblock Geographic patterns of co-occurrence network topological features for
-  soil microbiota at continental scale in eastern china.
+\newblock {Geographic patterns of co-occurrence network topological features
+  for soil microbiota at continental scale in eastern China}.
 \newblock The ISME Journal.
 
 \bibitem[Meng et~al., 2015]{Meng_2015_Main}
@@ -467,8 +467,8 @@ USADEL, B., OBAYASHI, T., MUTWIL, M., GIORGI, F.~M., BASSEL, G.~W., TANIMOTO,
 
 \bibitem[Williams et~al., 2014]{Williams_2014_demonstrating}
 WILLIAMS, R.~J., HOWE, A.~C., {and} HOFMOCKEL, K.~S. 2014.
-\newblock Demonstrating microbial co-occurrence pattern analyses within and
-  between ecosystems.
+\newblock {Demonstrating microbial co-occurrence pattern analyses within and
+  between ecosystems}.
 \newblock Frontiers in microbiology, 5:358.
 
 \bibitem[Willocquet et~al., 2008]{Willocquet_2008_Simulating}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  21 APR 2016 07:25
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  28 APR 2016 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1110,6 +1110,11 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \openout4 = `main.toc'.
 
 
+
+LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sc' undefined
+(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 96.
+
+
 Overfull \hbox (65.92415pt too wide) in paragraph at lines 96--96
  [][]\EU1/TimesNewRoman(0)/bx/n/12 USING NETWORK ANALYSIS TO EXAMINE CO-OCCURRE
 NCE 
@@ -1135,21 +1140,25 @@ Overfull \hbox (38.58527pt too wide) in paragraph at lines 96--96
  \EU1/TimesNewRoman(0)/bx/n/12 ICS OF ANIMAL PESTS AND DISEASE CO-OCCURRENCES 
  []
 
-) (./lofformat.tex [2
+[2
 
 
 
-]
+]) (./lofformat.tex [3]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 
-[3
+[4
 
 ])
 CHAPTER I.
-(./Chapter_1_Introduction.tex [1
+(./Chapter_1_Introduction.tex
+
+Package natbib Warning: Citation `2008' on page 1 undefined on input line 3.
+
+[1
 
 
 
@@ -1263,12 +1272,29 @@ LaTeX Warning: Reference `todolbl:11' on page 43 undefined on input line 270.
 
 ) [43] [44] [45]
 CHAPTER III.
-(./Chapter_Three_APPS.tex [46
+(./chapter_evaluation.tex
+Overfull \hbox (12.05931pt too wide) in paragraph at lines 1--1
+ |[]\EU1/TimesNewRoman(0)/bx/n/17.28 Evaluation of correlation methods for co-o
+ccurrence
+ []
+
+
+Overfull \hbox (10.49557pt too wide) in paragraph at lines 1--1
+ \EU1/TimesNewRoman(0)/bx/n/17.28 network construction of rice crop health surv
+ey data| 
+ []
+
+[46
 
 ]
-Overfull \hbox (1.05579pt too wide) in paragraph at lines 17--21
-[]\EU1/TimesNewRoman(0)/bx/n/12 Kendall’s rank correlation \EU1/TimesNewRoman(0
-)/m/n/12 Kendall’s rank correlation is a non-parametric mea-
+
+LaTeX Warning: Reference `table:Survey_data' on page 47 undefined on input line
+ 17.
+
+
+Overfull \hbox (1.6544pt too wide) in paragraph at lines 19--20
+\EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
+ing factors in rice” developed by Savary
  []
 
 [47] [48] [49]) [50]
@@ -1296,7 +1322,7 @@ nstruct networks, some exploratory
 [58] [59]
 File: figures/simgraph.png Graphic file (type QTm)
  <use  "figures/simgraph.png" >
-Overfull \hbox (125.04088pt too wide) in paragraph at lines 20--21
+Overfull \hbox (125.04088pt too wide) in paragraph at lines 26--27
 [][] 
  []
 
@@ -1321,24 +1347,24 @@ CHAPTER V.
 (./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [72
 
 ])
-(./Chapter_4_Materials_and_Methods.tex [73]) (./Chapter_4_Results.tex [74])
-(./Chapter_4_Discussion.tex) [75]
+(./Chapter_4_Materials_and_Methods.tex [73] [74]) (./Chapter_4_Results.tex
+[75]) (./Chapter_4_Discussion.tex) [76]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
 Underfull \hbox (badness 1924) in paragraph at lines 48--52
 []\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
 ., HOEFER, M.,
  []
 
-[76
+[77
 
 
-] [77] [78] [79] [80] [81])
+] [78] [79] [80] [81] [82])
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[82]
+[83]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -1355,25 +1381,24 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[83
+[84
 
 ] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
 LaTeX Warning: There were undefined references.
 
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 28 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 21772 strings out of 493706
- 445489 string characters out of 6145769
+ 21778 strings out of 493706
+ 445592 string characters out of 6145769
  489975 words of memory out of 5000000
- 24617 multiletter control sequences out of 15000+600000
+ 24623 multiletter control sequences out of 15000+600000
  8517 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,11n,58p,10377b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,58p,10377b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (86 pages).
+tmp/main.pdf (88 pages).
