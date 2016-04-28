@@ -27,4 +27,5 @@ table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto1/allhisto1.png
 figures/heatmap/heatmap.png
+table_pearson_correlation.tex
 Glossary.tex
