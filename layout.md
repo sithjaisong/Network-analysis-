@@ -30,4 +30,5 @@ figures/heatmap/heatmap.png
 table_pearson_correlation.tex
 table_spearman_correlation.tex
 table_kendall_correlation.tex
+table_biweight_correlation.tex
 Glossary.tex
