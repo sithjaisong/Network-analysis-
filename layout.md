@@ -1,10 +1,10 @@
 Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
 figures/distriangle/distriangle.PNG
+figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
 Chapter_3_Introduction.tex
 Chapter_3_Materials_and_Methods.tex
-figures/pipeline1/pipeline1.png
 figures/pipeline2/pipeline2.png
 Chapter_3_Results.tex
 table_survey_data.tex
