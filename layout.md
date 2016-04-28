@@ -23,4 +23,5 @@ figures/differentialMKD/differentialMKD.png
 figures/ws_yield_vann/ws_yield_vann.png
 table_yielddifnet.tex
 chapter_4_Discussion.tex
+variable_desc.tex
 Glossary.tex
