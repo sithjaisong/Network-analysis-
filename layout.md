@@ -1,14 +1,12 @@
 Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
 figures/distriangle/distriangle.PNG
-chapter_evaluation.tex
-Chapter Three_APPS.tex
 Chapter_3_Abstract.tex
 Chapter_3_Introduction.tex
 Chapter_3_Materials_and_Methods.tex
 figures/Sampling Sites4/Sampling Sites4.png
-figures/pipeline2/pipeline2.png
 figures/pipeline1/pipeline1.png
+figures/pipeline2/pipeline2.png
 Chapter_3_Results.tex
 table_survey_data.tex
 Chapter_3_Discussion.tex
@@ -18,11 +16,6 @@ chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
 chapter_4_Results.tex
 figures/ds_yield_venn/ds_yield_venn.png
-figures/differentialTMN/differentialTMN.png
-figures/differntialWJV/differntialWJV.png
-figures/differtialLAG/differtialLAG.png
-figures/differentialSUP/differentialSUP.png
-figures/differentialMKD/differentialMKD.png
 figures/ws_yield_vann/ws_yield_vann.png
 table_yielddifnet.tex
 chapter_4_Discussion.tex
@@ -30,8 +23,4 @@ table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto1/allhisto1.png
 figures/heatmap/heatmap.png
-table_pearson_correlation.tex
-table_spearman_correlation.tex
-table_kendall_correlation.tex
-table_biweight_correlation.tex
 Glossary.tex
