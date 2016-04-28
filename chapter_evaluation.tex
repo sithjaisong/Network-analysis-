@@ -1,4 +1,4 @@
-%\section{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
+\section{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
 
 \subsection*{Introduction}
 
@@ -12,9 +12,6 @@ Network analysis is a promising tool frequently used to describe the pairwise re
 \subsection*{Material and methods}
 \textbf{Survey data}
 Survey data collected in 420 farmers’ fields in irrigated lowland rice growing areas across South and Southeast Asia (Tamil Nadu; India, Odisha; India, West Java; Indonesia, Central plain; Thailand, and Red river delta; Vietnam) were based on the “Survey Portfolio” . In this study, we evaluated correlation measures including, Pearson, Spearman, Kendal and Biweight mid correlation to discover the true functionally related variables in crop health survey data.
-
-
-
 
 \textbf{Kendall’s rank correlation}
 Kendall’s rank correlation is a non-parametric measure of the strength of the dependence between two variables. It measures the similarity of the ordering of the data when ranked by each of the variables.
@@ -31,7 +28,6 @@ with mean 0 and variance 2(2nz5) : [20]. Therefore for large n, 9n(n{1) t
 under null hypothesis, the statistic follows standard normal distribution. Kendall’s correlation is robust to outliers. The R code for Kendall was adopted from R package stats (http://r- project.org).
 
 \textbf{Pearson’s correlation}
-
 Pearson’s correlation coefficient measures the strength of the linear relationship between two random variables. The value of the correlation coefficient is between 21 and 1. The correlation closer to +1 or 21 indicates the relationship is closer to a perfect linear relationship. The two variables have positive association (the values of the one variable increases with the increase in the value of the other variable) if the value for correlation is positive and the variable have a negative association (the values of one variable decreases with the increase in the value of the other) if the value for the correlation is negative. If the two variables are uncorrelated, the Pearson’s correlation is 0.
 Suppose X and Y be two random variables with n measurements. Then the correlation between two variables is computed as
 
@@ -46,9 +42,7 @@ t = \frac{r}{\sqrt{\frac{(1-r^2)}{n-2}}}
 \end{equation}
 
 follows a Student’s t distribution with n-2 degrees of freedom [42].
-The Pearson’s correlation assumes the data is normally distributed and there is a linear relationship between the two variables. It is sensitive to outliers and requires the data to be measured on interval or ratio scale. For R code see the cor.test package (http://r-project.org).
-
-\textbf{Spearman’s rank correlation}
+The Pearson’s correlation assumes the data is normally distributed and there is a linear relationship between the two variables. It is sensitive to outliers and requires the data to be measured on interval or ratio scale. For R code see the cor.test package (http://r-project.org). \textbf{Spearman’s rank correlation}
 Spearman’s rank correlation coefficient is a nonparametric measure of association. It assesses the nonlinear monotonic relationship between the two variables by the linear relationship between the ranks of the values of the two variables. Like other correlations, Spearman’s correlation also takes values between 21 and +1. The positive correlation implies the ranks of both variables increase together and negative correlation implies the ranks of one variable increases as the ranks of the other variable decrease. A correlation close to zero means there is no linear relationship between the ranks of the two variables.
 
 Spearman’s correlation coefficient does not require the data to be measured on interval or ratio scale. It can be used for ordinal data. Spearman’s correlation is computed the same way as the Pearson correlation but instead of using the original values of the variables, the ranks of the values are used [5]. The tied values are assigned a rank equal to the average of their positions in the ascending order of the values. In case of no tied ranks, the following formula can be used to find the correlation.
@@ -58,17 +52,17 @@ Under the null hypothesis of statistical independence of the variables, for a su
 follows a Student’s $t$-distribution with n-2
 
 degrees of freedom. For R code see the cor.test package (http://r-project.org).
-In this chapter, I proposed three steps of correlation methos selection methods: (I) check quality of data, (II) comparing  the correlation methods (III) confirm with the published relationship .
+In this chapter, I proposed three steps of correlation methods selection methods: (I) check quality of data, (II) comparing  the correlation methods (III) confirm with the published relationship .
 
 
-\subsection*{Result}
+\subsection{Result}
 Evaluation of four correlation measures, including Pearson, Spearman, Kendall correlation, and Biweight mid-correlation shows two groups clustered according to hierarchical clustering using Euclidean distance. The Spearman and Kendall correlation were grouped in rank-base methods, and another group is non-rank-based correlations including Pearson correlation and Biweight mid-correlation. When choosing a measure, Spearman correlation was selected because its robustness to noise and to outliers.
 Briefly, network analysis revealed that brown spot is the highest connection. Bacterial leaf streak, brown spot, white-backed planthopper, and brown planthopper have high node of connectivity
 
 For example, a clustering method focuses on the analysis of (dis)similarities, whereas principal component analysis (PCA) attempts to explain as much variation as possible in as few components as possible. Changing data properties using data pretreatment may therefore enhance the results of a clustering method, while obscuring the results of a PCA analysis.
 
 \textbf{Heteroscedasticity}
-To determine the presence or absence of heteroscedasticity in the data set, the standard deviations of the metabo- lites of the analytical and the biological repeats were analyzed (Figure 4). Analysis of the analytical and the uninduced biological standard deviations showed that heteroscedasticity was present both in the analytical error and in the biological uninduced variation (Figure 4A and 4B). In contrast, the relative biological standard deviation (Figure 4C), and also the relative analytical standard devi- ation (unpublished results), showed the opposite effect. Thus, metabolites present in high concentrations were rel- atively influenced less by the disturbances resulting from the different sources of uninduced variation, and were therefore more reliable.
+To determine the presence or absence of heteroscedasticity in the data set, the standard deviations of the metabo- lites of the analytical and the biological repeats were analyzed (Figure 4). Analysis of the analytical and the uninduced biological standard deviations showed that heteroscedasticity was present both in the analytical error and in the biological uninduced variation (Figure 4A and 4B). In contrast, the relative biological standard deviation (Figure 4C), and also the relative analytical standard devi- ation (unpublished results), showed the opposite effect. Thus, metabolites present in high concentrations were relatively influenced less by the disturbances resulting from the different sources of uninduced variation, and were therefore more reliable.
 
 \subsection{Discussion}
 The appropriate correlation measures for studied data should closely associate to the prior knowledge of biological correlation. For this study, nonlinear relationship between the abundances of brown plant hopper and white backed plant hopper was detected by a Spearman correlation but not by a Pearson correlation.
