@@ -25,4 +25,5 @@ table_yielddifnet.tex
 chapter_4_Discussion.tex
 table_variable_desc.tex
 table_summary_injuries.tex
+figures/allhisto/allhisto.png
 Glossary.tex
