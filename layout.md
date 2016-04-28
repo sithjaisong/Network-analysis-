@@ -4,7 +4,6 @@ figures/distriangle/distriangle.PNG
 Chapter_3_Abstract.tex
 Chapter_3_Introduction.tex
 Chapter_3_Materials_and_Methods.tex
-figures/Sampling Sites4/Sampling Sites4.png
 figures/pipeline1/pipeline1.png
 figures/pipeline2/pipeline2.png
 Chapter_3_Results.tex
