@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  28 APR 2016 21:11
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  29 APR 2016 18:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1289,82 +1289,159 @@ ey data|
 ]
 
 LaTeX Warning: Reference `table:Survey_data' on page 47 undefined on input line
- 17.
+ 20.
 
 
-Overfull \hbox (1.6544pt too wide) in paragraph at lines 19--20
+Overfull \hbox (1.6544pt too wide) in paragraph at lines 22--24
 \EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
 ing factors in rice” developed by Savary
  []
 
-[47] [48] [49]) [50]
-CHAPTER IV.
-(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [51
+[47] [48] [49] [50] [51] [52]
+Missing character: There is no ก in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no อ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no น in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ท in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ี in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no า in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no จ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ะ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ข in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ้ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no า in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ป in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ะ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ด in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ็ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no น in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ต in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ง in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no น in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ี in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ้ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no า in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no น in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+Missing character: There is no า in font Times New Roman/OT:script=latn;languag
+e=DFLT;mapping=tex-text;!
+ [53] [54]
+Overfull \hbox (28.87364pt too wide) in paragraph at lines 112--113
+[]\EU1/TimesNewRoman(0)/m/n/12 However, Pearson correlation coefficient is sens
+itive to outliers. Biweight midcorrela-
+ []
 
-] [52])
+[55]) [56]
+CHAPTER IV.
+(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [57
+
+] [58])
 (./Chapter_3_Materials_and_Methods.tex
 
-LaTeX Warning: Reference `table:Survey_data' on page 53 undefined on input line
+LaTeX Warning: Reference `table:Survey_data' on page 59 undefined on input line
  6.
 
-[53]
+[59]
 Overfull \hbox (1.6544pt too wide) in paragraph at lines 8--9
 \EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
 ing factors in rice” developed by Savary
  []
 
-[54] [55] [56] [57]) (./Chapter_3_Results.tex
+[60] [61] [62] [63]) (./Chapter_3_Results.tex
 Overfull \hbox (4.94135pt too wide) in paragraph at lines 6--7
 []\EU1/TimesNewRoman(0)/m/n/12 Prior to using the crop health survey data to co
 nstruct networks, some exploratory
  []
 
-[58] [59]
+[64] [65]
 File: figures/simgraph.png Graphic file (type QTm)
  <use  "figures/simgraph.png" >
 Overfull \hbox (125.04088pt too wide) in paragraph at lines 26--27
 [][] 
  []
 
-[60] [61] [62] [63] [64] [65] [66] [67] [68]
+[66] [67] [68] [69] [70] [71] [72] [73] [74]
 File: figures/idn_ds_net.png Graphic file (type QTm)
  <use  "figures/idn_ds_net.png" >
 File: figures/nodepropidn_ds.pdf Graphic file (type QTm)
 
-<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [69] [70]
+<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [75] [76]
 
-Package natbib Warning: Citation `Liu_2014_Detecting' on page 71 undefined on i
+Package natbib Warning: Citation `Liu_2014_Detecting' on page 77 undefined on i
 nput line 10.
 
 
-Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 71 undefined on
+Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 77 undefined on
  input line 10.
 
-) [71
+) [77
 
 ]
 CHAPTER V.
-(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [72
+(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [78
 
 ])
-(./Chapter_4_Materials_and_Methods.tex [73] [74]) (./Chapter_4_Results.tex
-[75]) (./Chapter_4_Discussion.tex) [76]
+(./Chapter_4_Materials_and_Methods.tex [79] [80]) (./Chapter_4_Results.tex
+[81]) (./Chapter_4_Discussion.tex) [82]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
 Underfull \hbox (badness 1924) in paragraph at lines 48--52
 []\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
 ., HOEFER, M.,
  []
 
-[77
+[83
 
 
-] [78] [79] [80] [81] [82])
+] [84] [85] [86] [87] [88])
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[83]
+[89]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -1381,7 +1458,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[84
+[90
 
 ] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 
@@ -1392,13 +1469,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21778 strings out of 493706
- 445592 string characters out of 6145769
+ 21787 strings out of 493706
+ 445844 string characters out of 6145769
  489975 words of memory out of 5000000
- 24623 multiletter control sequences out of 15000+600000
+ 24632 multiletter control sequences out of 15000+600000
  8517 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,11n,58p,10377b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (88 pages).
+tmp/main.pdf (94 pages).

@@ -16,27 +16,27 @@
 \contentsline {subsubsection}{The effects of potassium on pest occurrence}{25}
 \contentsline {chapter}{\numberline {III}Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{46}
 \contentsline {section}{\numberline {III.1}Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}{46}
-\contentsline {subsection}{\numberline {III.1.1}Result}{49}
-\contentsline {subsection}{\numberline {III.1.2}Discussion}{50}
-\contentsline {chapter}{\numberline {IV}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{51}
-\contentsline {subsection}{\numberline {IV.0.1}Introduction}{51}
-\contentsline {subsection}{\numberline {IV.0.2}Materials and Methods}{54}
-\contentsline {subsubsection}{Study sites, data collection}{54}
-\contentsline {subsubsection}{Network construction}{55}
-\contentsline {subsubsection}{Topological feature analysis}{56}
-\contentsline {subsection}{\numberline {IV.0.3}Results}{58}
-\contentsline {subsubsection}{Crop health survey data}{58}
-\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{63}
-\contentsline {paragraph}{Tamil Nadu, India (TMN)}{63}
-\contentsline {paragraph}{West Java, Indonesia (WJV)}{64}
-\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{65}
-\contentsline {paragraph}{Suphan Buri, Thailand (SUP)}{66}
-\contentsline {paragraph}{Makong Rive Delta, Vietnam (MKD)}{68}
-\contentsline {subsection}{\numberline {IV.0.4}Discussion}{69}
-\contentsline {chapter}{\numberline {V}Differential networks reveal the dynamics of animal pests and disease co-occurrences conditioned by yield levels}{72}
-\contentsline {subsection}{\numberline {V.0.1}Abstract}{72}
-\contentsline {subsection}{\numberline {V.0.2}Introduction}{72}
-\contentsline {subsection}{\numberline {V.0.3}Materials and Methods}{74}
-\contentsline {subsection}{\numberline {V.0.4}Results}{76}
-\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{76}
-\contentsline {subsection}{\numberline {V.0.5}Discussion}{76}
+\contentsline {subsection}{\numberline {III.1.1}Discussion}{52}
+\contentsline {subsection}{\numberline {III.1.2}Conclusions}{55}
+\contentsline {chapter}{\numberline {IV}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{57}
+\contentsline {subsection}{\numberline {IV.0.1}Introduction}{57}
+\contentsline {subsection}{\numberline {IV.0.2}Materials and Methods}{60}
+\contentsline {subsubsection}{Study sites, data collection}{60}
+\contentsline {subsubsection}{Network construction}{61}
+\contentsline {subsubsection}{Topological feature analysis}{62}
+\contentsline {subsection}{\numberline {IV.0.3}Results}{64}
+\contentsline {subsubsection}{Crop health survey data}{64}
+\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{69}
+\contentsline {paragraph}{Tamil Nadu, India (TMN)}{69}
+\contentsline {paragraph}{West Java, Indonesia (WJV)}{70}
+\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{71}
+\contentsline {paragraph}{Suphan Buri, Thailand (SUP)}{72}
+\contentsline {paragraph}{Makong Rive Delta, Vietnam (MKD)}{74}
+\contentsline {subsection}{\numberline {IV.0.4}Discussion}{75}
+\contentsline {chapter}{\numberline {V}Differential networks reveal the dynamics of animal pests and disease co-occurrences conditioned by yield levels}{78}
+\contentsline {subsection}{\numberline {V.0.1}Abstract}{78}
+\contentsline {subsection}{\numberline {V.0.2}Introduction}{78}
+\contentsline {subsection}{\numberline {V.0.3}Materials and Methods}{80}
+\contentsline {subsection}{\numberline {V.0.4}Results}{82}
+\contentsline {paragraph}{Shared and unique co-occurrence and anti-co-occurrence in injuries at different yield level}{82}
+\contentsline {subsection}{\numberline {V.0.5}Discussion}{82}

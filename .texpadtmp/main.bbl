@@ -98,6 +98,11 @@ DIETZ, K.~J., JACQUOT, J.~P., {and} HARRIS, G. 2010.
 \newblock {Hubs and bottlenecks in plant molecular signalling networks}.
 \newblock New Phytologist, 188(4):919--938.
 
+\bibitem[Doane {and} Seward, 2011]{Doane_2011_Measuring}
+DOANE, D.~P. {and} SEWARD, L.~E. 2011.
+\newblock Measuring skewness: a forgotten statistic.
+\newblock Journal of Statistics Education, 19(2):1--18.
+
 \bibitem[Dong et~al., 2010]{Dong_2010_Characterization}
 DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
 \newblock {A characterization of rice pests and quantification of yield losses
@@ -332,6 +337,11 @@ PONGPRASERT, S. 1995.
 \newblock {Insect and disease control in wet seeded rice in Thailand}.
 \newblock IRRI Discussion Paper Series (Philippines).
 
+\bibitem[Prokhorov, 2001]{Prokhorov_2001_Kendall}
+PROKHOROV, A. 2001.
+\newblock Kendall coefficient of rank correlation.
+\newblock Online Encyclopedia of Mathematics.
+
 \bibitem[Proulx et~al., 2005]{Proulx_2005_Network}
 PROULX, S., PROMISLOW, D., {and} PHILLIPS, P. 2005.
 \newblock {Network thinking in ecology and evolution}.
@@ -518,6 +528,12 @@ ZADOKS, J.~C. 1985.
 ZADOKS, J.~C. {and} SCHEIN, R.~D. 1979.
 \newblock {\em {\em {Epidemiology and plant disease management}}}.
 \newblock Oxford University Press, USA.
+
+\bibitem[Zhang {and} Horvath, 2005]{Zhang_2005_General}
+ZHANG, B. {and} HORVATH, S. 2005.
+\newblock {A general framework for weighted gene co-expression network
+  analysis}.
+\newblock Statistical Applications in Genetics and Molecular Biology, 4(1).
 
 \bibitem[Zhang et~al., 2014]{Zhang_2014_Small}
 ZHANG, W., DONG, Y., YANG, L., MA, B., MA, R., HUANG, F., WANG, C., HU, H., LI,
