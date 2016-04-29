@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  29 APR 2016 18:13
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  30 APR 2016 00:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1272,7 +1272,7 @@ LaTeX Warning: Reference `todolbl:11' on page 43 undefined on input line 270.
 
 ) [43] [44] [45]
 CHAPTER III.
-(./chapter_evaluation.tex
+(./chapter_evaluation_1.tex
 Overfull \hbox (12.05931pt too wide) in paragraph at lines 1--1
  |[]\EU1/TimesNewRoman(0)/bx/n/17.28 Evaluation of correlation methods for co-o
 ccurrence
@@ -1297,7 +1297,16 @@ Overfull \hbox (1.6544pt too wide) in paragraph at lines 22--24
 ing factors in rice” developed by Savary
  []
 
-[47] [48] [49] [50] [51] [52]
+[47] [48] [49]
+
+Package natbib Warning: Citation `Doane_2011_Measuring' on page 50 undefined on
+ input line 51.
+
+[50] [51]
+
+Package natbib Warning: Citation `Doane_2011_Measuring' on page 52 undefined on
+ input line 64.
+
 Missing character: There is no ก in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;!
 Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
@@ -1368,80 +1377,80 @@ Missing character: There is no ่ in font Times New Roman/OT:script=latn;langua
 e=DFLT;mapping=tex-text;!
 Missing character: There is no า in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;!
- [53] [54]
-Overfull \hbox (28.87364pt too wide) in paragraph at lines 112--113
+[52] [53]
+Overfull \hbox (28.87364pt too wide) in paragraph at lines 86--87
 []\EU1/TimesNewRoman(0)/m/n/12 However, Pearson correlation coefficient is sens
 itive to outliers. Biweight midcorrela-
  []
 
-[55]) [56]
+[54]) [55]
 CHAPTER IV.
-(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [57
+(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [56
 
-] [58])
+] [57])
 (./Chapter_3_Materials_and_Methods.tex
 
-LaTeX Warning: Reference `table:Survey_data' on page 59 undefined on input line
+LaTeX Warning: Reference `table:Survey_data' on page 58 undefined on input line
  6.
 
-[59]
+[58]
 Overfull \hbox (1.6544pt too wide) in paragraph at lines 8--9
 \EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
 ing factors in rice” developed by Savary
  []
 
-[60] [61] [62] [63]) (./Chapter_3_Results.tex
+[59] [60] [61] [62]) (./Chapter_3_Results.tex
 Overfull \hbox (4.94135pt too wide) in paragraph at lines 6--7
 []\EU1/TimesNewRoman(0)/m/n/12 Prior to using the crop health survey data to co
 nstruct networks, some exploratory
  []
 
-[64] [65]
+[63] [64]
 File: figures/simgraph.png Graphic file (type QTm)
  <use  "figures/simgraph.png" >
 Overfull \hbox (125.04088pt too wide) in paragraph at lines 26--27
 [][] 
  []
 
-[66] [67] [68] [69] [70] [71] [72] [73] [74]
+[65] [66] [67] [68] [69] [70] [71] [72] [73]
 File: figures/idn_ds_net.png Graphic file (type QTm)
  <use  "figures/idn_ds_net.png" >
 File: figures/nodepropidn_ds.pdf Graphic file (type QTm)
 
-<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [75] [76]
+<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [74] [75]
 
-Package natbib Warning: Citation `Liu_2014_Detecting' on page 77 undefined on i
+Package natbib Warning: Citation `Liu_2014_Detecting' on page 76 undefined on i
 nput line 10.
 
 
-Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 77 undefined on
+Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 76 undefined on
  input line 10.
 
-) [77
+) [76
 
 ]
 CHAPTER V.
-(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [78
+(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [77
 
 ])
-(./Chapter_4_Materials_and_Methods.tex [79] [80]) (./Chapter_4_Results.tex
-[81]) (./Chapter_4_Discussion.tex) [82]
+(./Chapter_4_Materials_and_Methods.tex [78] [79]) (./Chapter_4_Results.tex
+[80]) (./Chapter_4_Discussion.tex) [81]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
 Underfull \hbox (badness 1924) in paragraph at lines 48--52
 []\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
 ., HOEFER, M.,
  []
 
-[83
+[82
 
 
-] [84] [85] [86] [87] [88])
+] [83] [84] [85] [86] [87])
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[89]
+[88]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -1458,7 +1467,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[90
+[89
 
 ] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 
@@ -1469,13 +1478,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21787 strings out of 493706
- 445844 string characters out of 6145769
+ 21785 strings out of 493706
+ 445788 string characters out of 6145769
  489975 words of memory out of 5000000
- 24632 multiletter control sequences out of 15000+600000
+ 24630 multiletter control sequences out of 15000+600000
  8517 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,11n,58p,10377b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (94 pages).
+tmp/main.pdf (93 pages).

@@ -8,53 +8,58 @@ Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
 I'm skipping whatever remains of this command
 The style file: ../apalike2.bst
 Database file #1: ../bibliography/biblio.bib
+Repeated entry---line 521 of file ../bibliography/biblio.bib
+ : @article{Barnwal_2013_Review
+ :                             ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "2008"
 Warning--I didn't find a database entry for "Moslonka_2010_"
 Warning--I didn't find a database entry for "Shaw_2014_Network"
+Warning--I didn't find a database entry for "Doane_2011_Measuring"
 Warning--I didn't find a database entry for "Liu_2014_Detecting"
 Warning--I didn't find a database entry for "Krishnaiah_2004_Rice"
 Warning--empty journal in Borgatti_2013_Analyzing
 Warning--empty journal in Singleton_2003_Impacts
 Warning--there's a number but no volume in Tanaka_2008_Villosiclava
-You've used 94 entries,
+You've used 93 entries,
             1971 wiz_defined-function locations,
-            1123 strings with 23874 characters,
-and the built_in function-call counts, 39738 in all, are:
-= -- 3862
-> -- 1949
-< -- 50
-+ -- 676
-- -- 675
-* -- 3470
-:= -- 7044
-add.period$ -- 285
-call.type$ -- 94
-change.case$ -- 884
-chr.to.int$ -- 93
-cite$ -- 97
-duplicate$ -- 1305
-empty$ -- 2565
-format.name$ -- 811
-if$ -- 7608
+            1117 strings with 23677 characters,
+and the built_in function-call counts, 39370 in all, are:
+= -- 3823
+> -- 1936
+< -- 49
++ -- 674
+- -- 671
+* -- 3438
+:= -- 6979
+add.period$ -- 282
+call.type$ -- 93
+change.case$ -- 876
+chr.to.int$ -- 92
+cite$ -- 96
+duplicate$ -- 1292
+empty$ -- 2539
+format.name$ -- 804
+if$ -- 7536
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 103
-newline$ -- 471
-num.names$ -- 284
-pop$ -- 677
+missing$ -- 102
+newline$ -- 466
+num.names$ -- 281
+pop$ -- 673
 preamble$ -- 1
-purify$ -- 801
+purify$ -- 794
 quote$ -- 0
-skip$ -- 1038
+skip$ -- 1027
 stack$ -- 0
-substring$ -- 2738
+substring$ -- 2712
 swap$ -- 73
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 544
+type$ -- 538
 warning$ -- 3
-while$ -- 324
+while$ -- 320
 width$ -- 0
-write$ -- 1205
-(There was 1 error message)
+write$ -- 1192
+(There were 2 error messages)
