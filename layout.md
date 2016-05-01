@@ -17,7 +17,6 @@ chapter_4_Materials_and_Methods.tex
 chapter_4_Results.tex
 figures/ds_yield_venn/ds_yield_venn.png
 figures/ws_yield_vann/ws_yield_vann.png
-table_yielddifnet.tex
 chapter_4_Discussion.tex
 table_variable_desc.tex
 table_summary_injuries.tex
