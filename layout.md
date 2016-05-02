@@ -4,6 +4,7 @@ chapter_3_Evaluation.tex
 figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
 table_survey_data.tex
+figures/pipeline4/pipeline4.png
 table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto1/allhisto1.png
