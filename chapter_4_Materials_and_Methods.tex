@@ -1,0 +1,22 @@
+\subsection{Materials and Methods}
+I used survey data were collected from farmers' fields ,analyzed co-occurrence relationships of rice injuries, and performed network analysis as described previously. Actual yield estimates were collected from each farmers' fields surveyed. Before analyzing. Survey data were grouped into 6 groups by different yield levels and seasons.  
+
+\textbf{Network Comparison Measures}
+For the pair of $x_{i}$ injury and $y_{i}$ variable, I denoted the correlation coefficient based on Spearman's correlation coefficient by $c_{xy}^1$ and $c_{xy}^2$ in networks 1 and 2, respectively. To test whether the 2 correlation coefficients were significantly different of each network, I used Spearman's correlation coefficients, the p-values of the correlation test, the difference of the 2 correlations, the corresponding $p$-values, and the result of Fisher's z-test. First, I applied the Fisher $z$-transformation in order to stabilize variances due to sample size.
+
+\begin{equation}
+z_{xy} = \frac{1}{2} \log\left[{\frac{1 + c_{xy}}{1 - c_{xy}}}\right]
+\end{equation}
+
+if we let $z_{xy}^D $ and $z_{xy}^W$ denote the $z$- transformation for dry and wet season variable pairs, respectively. 
+Next, differences between the two correlations can be test using following. 
+
+\begin{equation}
+\triangle z_{xy} = \frac{z_{xy}^D - z_{xy}^W}{\sqrt{\frac{1}{N_{D}-3}+ \frac{1}{N_{W}-3}}}
+\end{equation}
+
+$N_{D}$ and $N_{W}$ represent the sample size for each of season network for each country. The $Z$ has an approximately Gaussian distribution under null hypotheses that the population correlations are equal. The pair-wise correlation significants are considered at $p$vlaue < 0.05.
+
+More and more researchers realized that gene module is high related with disease, but not individual gene. In gene expression network, gene is only related with other genes. Based on the characteristic of no self-loop, the graph of gene coexpression network is a simple undir- ected graph, and the diagonal elements of gene coex- pression matrix are all 0. The gene coexpression matrix is a square and symmetric matrix whose rows and col- umns correspond to the genes and whose element Aij denotes the coexpression relationship between genes. The graph of maximum clique network is a complete graph that every pair of nodes is joined by edge, and the adjacency matrix elements of the complete graph are all 1 except the diagonal elements. For a simple undirected graph G containing N nodes, its adjacency matrix A = (aij)N×N contains only 1 and 0. It is a square and symmetric matrix obviously. aij = 1 represents that gene i and j is coexpressed, aij = 0 means that gene i and j is not connected.We set two thresholds T1 for adjacency matrix A1 in normal condition and T2 for adjacency matric A2 in dis- ease condition. A1(i,j) set to 1 if the value of A1 (i,j) greater than or equal to T1, otherwise, A1(i,j) set to 0. A2(i,j) set to 1 if value of A2(i,j) less than or equal to T2, otherwise, A2(i,j) set to 0.We integrated A1 and A2 into a matrix A after we had intersection the corresponding elements of A1 and A2. A (i,j) = 1 means coexpression value of gene i and gene j in A1 greater than or equal to T1, and coexpression value of gene i and j in A2 less than or equal to T2. Equation 6 summarized the pro- cess. We excavated cliques which have biological signifi- cance from A adjacency matrix to further investigate gene regulatory networks.
+ 
+

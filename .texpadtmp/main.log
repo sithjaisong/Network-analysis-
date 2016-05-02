@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  30 APR 2016 00:09
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  2 MAY 2016 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -861,6 +861,26 @@ File: english.mld 2006/01/13
 (/usr/local/texlive/2015/texmf-dist/tex/latex/minitoc/english.mld
 File: english.mld 2006/01/13
 ))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen180
+\captionmargin@=\dimen181
+\captionwidth=\dimen182
+\caption@tempdima=\dimen183
+\caption@indent=\dimen184
+\caption@parindent=\dimen185
+\caption@hangindent=\dimen186
+)
+\c@ContinuedFloat=\count177
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen187
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
@@ -907,8 +927,8 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cftbeforefigskip=\skip101
 \cftfigindent=\skip102
 \cftfignumwidth=\skip103
-\c@lofdepth=\count177
-\c@lotdepth=\count178
+\c@lofdepth=\count178
+\c@lotdepth=\count179
 \cftbeforelottitleskip=\skip104
 \cftafterlottitleskip=\skip105
 \cftbeforetabskip=\skip106
@@ -920,37 +940,37 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box85
 \beforetitleunit=\skip109
 \aftertitleunit=\skip110
-\ttl@plus=\dimen180
-\ttl@minus=\dimen181
+\ttl@plus=\dimen188
+\ttl@minus=\dimen189
 \ttl@toksa=\toks31
-\titlewidth=\dimen182
-\titlewidthlast=\dimen183
-\titlewidthfirst=\dimen184
+\titlewidth=\dimen190
+\titlewidthlast=\dimen191
+\titlewidthfirst=\dimen192
 )
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 93.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 96.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 96.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    ... okay on input line 96.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -993,67 +1013,67 @@ LaTeX Font Info:    ... okay on input line 93.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 93.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 93.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 93.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 93.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 93.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 93.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 93.
-LaTeX Font Info:    Redeclaring math accent \check on input line 93.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 93.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 93.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 93.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 93.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 96.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 96.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 96.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 96.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 96.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 96.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 96.
+LaTeX Font Info:    Redeclaring math accent \check on input line 96.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 96.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 96.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 96.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 96.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 93.
+(Font)              `operators' in the math version `normal' on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
-93.
+96.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 93.
+(Font)              `operators' in the math version `bold' on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
- 93.
+ 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 93.
+n input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
-e 93.
+e 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
-e 93.
+e 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 93.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 93.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 93.
+on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
-ine 93.
+ine 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 93.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 93.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 96.
 \AtBeginShipoutBox=\box86
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 93.
+(lastpage)             ! on input line 96.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1063,12 +1083,12 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 \Etoc@tf=\read2
-\c@minilofdepth=\count179
-\c@minilotdepth=\count180
-\c@partlofdepth=\count181
-\c@partlotdepth=\count182
-\c@sectlofdepth=\count183
-\c@sectlotdepth=\count184
+\c@minilofdepth=\count180
+\c@minilotdepth=\count181
+\c@partlofdepth=\count182
+\c@partlotdepth=\count183
+\c@sectlofdepth=\count184
+\c@sectlotdepth=\count185
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -1083,18 +1103,20 @@ Package minitoc(hints) Warning: W0099
 (minitoc(hints))                It is incompatible 
 (minitoc(hints))                with the minitoc package.
 
-\c__siunitx_mathsf_int=\count185
-LaTeX Font Info:    Try loading font information for U+msa on input line 93.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c__siunitx_mathsf_int=\count186
+LaTeX Font Info:    Try loading font information for U+msa on input line 96.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+LaTeX Font Info:    Try loading font information for U+msb on input line 96.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c__siunitx_mathtt_int=\count186
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 93.
+\c__siunitx_mathtt_int=\count187
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 96.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
@@ -1114,43 +1136,17 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sc' undefined
 (Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 96.
 
-
-Overfull \hbox (65.92415pt too wide) in paragraph at lines 96--96
- [][]\EU1/TimesNewRoman(0)/bx/n/12 USING NETWORK ANALYSIS TO EXAMINE CO-OCCURRE
-NCE 
- []
-
-
-Overfull \hbox (20.56279pt too wide) in paragraph at lines 96--96
- \EU1/TimesNewRoman(0)/bx/n/12 PATTERNS OF ANIMAL PESTS AND DISEASE IN FARM- 
- []
-
-
-Overfull \hbox (11.90753pt too wide) in paragraph at lines 96--96
- \EU1/TimesNewRoman(0)/bx/n/12 ERS’ FIELDS IN IRRIGATED LOWLAND RICE GROW- 
- []
-
-
-Overfull \hbox (5.89975pt too wide) in paragraph at lines 96--96
- [][]\EU1/TimesNewRoman(0)/bx/n/12 DIFFERENTIAL NETWORKS REVEAL THE DYNAM- 
- []
-
-
-Overfull \hbox (38.58527pt too wide) in paragraph at lines 96--96
- \EU1/TimesNewRoman(0)/bx/n/12 ICS OF ANIMAL PESTS AND DISEASE CO-OCCURRENCES 
- []
-
-[2
+) (./lofformat.tex [2
 
 
 
-]) (./lofformat.tex [3]
+]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 
-[4
+[3
 
 ])
 CHAPTER I.
@@ -1175,10 +1171,10 @@ CHAPTER II.
 
 ] [7] [8] [9]
 Overfull \hbox (0.36987pt too wide) in paragraph at lines 30--31
-\EU1/TimesNewRoman(0)/m/it/12 nalis\EU1/TimesNewRoman(0)/m/n/12 ), rice whorl m
-aggot (\EU1/TimesNewRoman(0)/m/it/12 Hydrellia philippina \EU1/TimesNewRoman(0)
-/m/n/12 Ferinoand), rice hispa (\EU1/TimesNewRoman(0)/m/it/12 Dicladispa viridi
--
+\EU1/TimesNewRoman(0)/m/it/12 nalis\EU1/TimesNewRoman(0)/m/sc/12 ), rice whorl 
+maggot (\EU1/TimesNewRoman(0)/m/it/12 Hydrellia philippina \EU1/TimesNewRoman(0
+)/m/sc/12 Ferinoand), rice hispa (\EU1/TimesNewRoman(0)/m/it/12 Dicladispa viri
+di-
  []
 
 [10] [11] [12]
@@ -1187,16 +1183,16 @@ LaTeX Warning: Reference `todolbl:1' on page 13 undefined on input line 45.
 
 [13]
 Overfull \hbox (16.99994pt too wide) in paragraph at lines 53--54
-[]\EU1/TimesNewRoman(0)/bx/n/12 Sheath blight\EU1/TimesNewRoman(0)/m/n/12 , cau
-sed by \EU1/TimesNewRoman(0)/m/it/12 Thanatephorus cucumeris \EU1/TimesNewRoman
-(0)/m/n/12 (A.B. Frank) Donk (anamorph:
+[]\EU1/TimesNewRoman(0)/bx/n/12 Sheath blight\EU1/TimesNewRoman(0)/m/sc/12 , ca
+used by \EU1/TimesNewRoman(0)/m/it/12 Thanatephorus cucumeris \EU1/TimesNewRoma
+n(0)/m/sc/12 (A.B. Frank) Donk (anamorph:
  []
 
 [14]
 Overfull \hbox (5.1972pt too wide) in paragraph at lines 62--63
-[]\EU1/TimesNewRoman(0)/bx/n/12 Sheath rot\EU1/TimesNewRoman(0)/m/n/12 , caused
- by \EU1/TimesNewRoman(0)/m/it/12 Sarocladium oryzae \EU1/TimesNewRoman(0)/m/n/
-12 (Sawada) W. Gams & D. Hawksworth
+[]\EU1/TimesNewRoman(0)/bx/n/12 Sheath rot\EU1/TimesNewRoman(0)/m/sc/12 , cause
+d by \EU1/TimesNewRoman(0)/m/it/12 Sarocladium oryzae \EU1/TimesNewRoman(0)/m/s
+c/12 (Sawada) W. Gams & D. Hawksworth
  []
 
 [15] [16]
@@ -1207,72 +1203,60 @@ LaTeX Warning: Reference `todolbl:2' on page 17 undefined on input line 76.
 LaTeX Warning: Reference `fig:diseasetriangle' on page 17 undefined on input li
 ne 76.
 
-[17] [18] [19]
-Overfull \hbox (3.04602pt too wide) in paragraph at lines 96--97
-[]\EU1/TimesNewRoman(0)/m/n/12 Nitrogen can prolong the vegetative period and i
-ncreases the proportion of young
- []
+[17] [18]
 
-[20] [21] [22] [23]
-Overfull \hbox (3.04602pt too wide) in paragraph at lines 124--125
-[]\EU1/TimesNewRoman(0)/m/n/12 Nitrogen can prolong the vegetative period and i
-ncreases the proportion of young
- []
-
-[24] [25]
-
-LaTeX Warning: Reference `todolbl:3' on page 26 undefined on input line 144.
+LaTeX Warning: Reference `todolbl:3' on page 19 undefined on input line 84.
 
 
-LaTeX Warning: Reference `todolbl:4' on page 26 undefined on input line 144.
+LaTeX Warning: Reference `todolbl:4' on page 19 undefined on input line 84.
 
-[26]
+[19]
 
-LaTeX Warning: Reference `todolbl:5' on page 27 undefined on input line 151.
-
-
-LaTeX Warning: Reference `todolbl:6' on page 27 undefined on input line 153.
+LaTeX Warning: Reference `todolbl:5' on page 20 undefined on input line 91.
 
 
-LaTeX Warning: Reference `todolbl:7' on page 27 undefined on input line 153.
-
-[27]
-
-LaTeX Warning: Reference `todolbl:8' on page 28 undefined on input line 163.
+LaTeX Warning: Reference `todolbl:6' on page 20 undefined on input line 93.
 
 
-LaTeX Warning: Reference `todolbl:9' on page 28 undefined on input line 165.
+LaTeX Warning: Reference `todolbl:7' on page 20 undefined on input line 93.
 
-[28] [29] [30]
+[20]
 
-LaTeX Warning: Reference `todolbl:10' on page 31 undefined on input line 181.
-
-[31] [32] [33] [34] [35] [36] [37]
-
-Package natbib Warning: Citation `Moslonka_2010_' on page 38 undefined on input
- line 227.
-
-[38]
-
-Package natbib Warning: Citation `Shaw_2014_Network' on page 39 undefined on in
-put line 238.
-
-[39] [40]
-
-Package natbib Warning: Citation `Usadel_2009_Co' on page 41 undefined on input
- line 252.
+LaTeX Warning: Reference `todolbl:8' on page 21 undefined on input line 103.
 
 
-Package natbib Warning: Citation `Horvath_2011_Weighted' on page 41 undefined o
-n input line 252.
+LaTeX Warning: Reference `todolbl:9' on page 21 undefined on input line 105.
 
-[41] [42]
+[21] [22]
 
-LaTeX Warning: Reference `todolbl:11' on page 43 undefined on input line 270.
+LaTeX Warning: Reference `todolbl:10' on page 23 undefined on input line 121.
 
-) [43] [44] [45]
+[23] [24] [25] [26] [27] [28] [29] [30]
+
+Package natbib Warning: Citation `Moslonka_2010_' on page 31 undefined on input
+ line 167.
+
+[31]
+
+Package natbib Warning: Citation `Shaw_2014_Network' on page 32 undefined on in
+put line 178.
+
+[32] [33]
+
+Package natbib Warning: Citation `Usadel_2009_Co' on page 34 undefined on input
+ line 192.
+
+
+Package natbib Warning: Citation `Horvath_2011_Weighted' on page 34 undefined o
+n input line 192.
+
+[34] [35]
+
+LaTeX Warning: Reference `todolbl:11' on page 36 undefined on input line 210.
+
+) [36] [37]
 CHAPTER III.
-(./chapter_evaluation_1.tex
+(./Chapter_3_Evaluation.tex
 Overfull \hbox (12.05931pt too wide) in paragraph at lines 1--1
  |[]\EU1/TimesNewRoman(0)/bx/n/17.28 Evaluation of correlation methods for co-o
 ccurrence
@@ -1284,177 +1268,47 @@ Overfull \hbox (10.49557pt too wide) in paragraph at lines 1--1
 ey data| 
  []
 
-[46
+[38
 
-]
-
-LaTeX Warning: Reference `table:Survey_data' on page 47 undefined on input line
- 20.
-
-
-Overfull \hbox (1.6544pt too wide) in paragraph at lines 22--24
-\EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
-ing factors in rice” developed by Savary
+] [39] (./table_survey_data.tex)
+Overfull \hbox (1.6544pt too wide) in paragraph at lines 22--23
+\EU1/TimesNewRoman(0)/m/sc/12 in “A survey portfolio to characterize yield-redu
+cing factors in rice” developed by Savary
  []
 
-[47] [48] [49]
 
-Package natbib Warning: Citation `Doane_2011_Measuring' on page 50 undefined on
- input line 51.
-
-[50] [51]
-
-Package natbib Warning: Citation `Doane_2011_Measuring' on page 52 undefined on
- input line 64.
-
-Missing character: There is no ก in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no อ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no น in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ท in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ี in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no า in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no จ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ะ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ข in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ้ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no า in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ป in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ะ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ด in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ็ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no น in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ต in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ง in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no น in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ี in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ้ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no เ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ร in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no า in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no น in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ่ in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no า in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-[52] [53]
-Overfull \hbox (28.87364pt too wide) in paragraph at lines 86--87
-[]\EU1/TimesNewRoman(0)/m/n/12 However, Pearson correlation coefficient is sens
-itive to outliers. Biweight midcorrela-
+Overfull \hbox (0.35266pt too wide) in paragraph at lines 24--25
+[]\EU1/TimesNewRoman(0)/m/sc/12 Injuries on leaves such as bacterial leaf bligh
+t (BLB), bacterial leaf streak (BLS),
  []
 
-[54]) [55]
-CHAPTER IV.
-(./Chapter_3_Abstract.tex) (./Chapter_3_Introduction.tex [56
-
-] [57])
-(./Chapter_3_Materials_and_Methods.tex
-
-LaTeX Warning: Reference `table:Survey_data' on page 58 undefined on input line
- 6.
-
-[58]
-Overfull \hbox (1.6544pt too wide) in paragraph at lines 8--9
-\EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
-ing factors in rice” developed by Savary
+[40] (./table_variable_desc.tex
+Overfull \hbox (235.3039pt too wide) in paragraph at lines 5--40
+ [][] 
  []
 
-[59] [60] [61] [62]) (./Chapter_3_Results.tex
-Overfull \hbox (4.94135pt too wide) in paragraph at lines 6--7
-[]\EU1/TimesNewRoman(0)/m/n/12 Prior to using the crop health survey data to co
-nstruct networks, some exploratory
- []
-
-[63] [64]
-File: figures/simgraph.png Graphic file (type QTm)
- <use  "figures/simgraph.png" >
-Overfull \hbox (125.04088pt too wide) in paragraph at lines 26--27
-[][] 
- []
-
-[65] [66] [67] [68] [69] [70] [71] [72] [73]
-File: figures/idn_ds_net.png Graphic file (type QTm)
- <use  "figures/idn_ds_net.png" >
-File: figures/nodepropidn_ds.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropidn_ds.pdf" >) (./Chapter_3_Discussion.tex [74] [75]
-
-Package natbib Warning: Citation `Liu_2014_Detecting' on page 76 undefined on i
-nput line 10.
-
-
-Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 76 undefined on
- input line 10.
-
-) [76
-
-]
-CHAPTER V.
-(./Chapter_4_Abstract.tex) (./Chapter_4_Introduction.tex [77
-
-])
-(./Chapter_4_Materials_and_Methods.tex [78] [79]) (./Chapter_4_Results.tex
-[80]) (./Chapter_4_Discussion.tex) [81]
+) [41] [42] [43] [44] [45]) [46] [47]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
-Underfull \hbox (badness 1924) in paragraph at lines 48--52
-[]\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
-., HOEFER, M.,
- []
-
-[82
+[48
 
 
-] [83] [84] [85] [86] [87])
+] [49] [50] [51] [52])
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[88]
+[53]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
 \openout3 = `main.maf'.
+
+
+
+Package minitoc(hints) Warning: W0033
+(minitoc(hints))                The caption package should be 
+(minitoc(hints))                loaded BEFORE the minitoc package.
 
 Package minitoc(hints) Info: I0053
 (minitoc(hints))             You have loaded the float package; 
@@ -1462,12 +1316,11 @@ Package minitoc(hints) Info: I0053
 (minitoc(hints))             facilities can not be used for new types 
 (minitoc(hints))             of floats defined by the float package.
 
-
 Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[89
+[54
 
 ] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 
@@ -1478,13 +1331,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21785 strings out of 493706
- 445788 string characters out of 6145769
- 489975 words of memory out of 5000000
- 24630 multiletter control sequences out of 15000+600000
+ 22725 strings out of 493706
+ 462540 string characters out of 6145769
+ 509087 words of memory out of 5000000
+ 25596 multiletter control sequences out of 15000+600000
  8517 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,11n,58p,10377b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,58p,10377b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (93 pages).
+tmp/main.pdf (57 pages).
