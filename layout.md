@@ -10,7 +10,6 @@ table_survey_data.tex
 Chapter_3_Discussion.tex
 Chapter_4_Abstract.tex
 chapter_4_Introduction.tex
-chapter_4_Materials_and_Methods.tex
 chapter_4_Discussion.tex
 table_variable_desc.tex
 table_summary_injuries.tex
