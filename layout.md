@@ -1,6 +1,5 @@
 Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
-figures/distriangle/distriangle.PNG
 chapter3.tex
 figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
