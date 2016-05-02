@@ -4,7 +4,6 @@ figures/distriangle/distriangle.PNG
 chapter_evaluation_1.tex
 figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
-Chapter_3_Materials_and_Methods.tex
 figures/pipeline2/pipeline2.png
 table_survey_data.tex
 chapter_4_Discussion.tex
