@@ -10,4 +10,4 @@ table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto1/allhisto1.png
 figures/heatmap/heatmap.png
-chapter_4_Using.tex
+Chapter_4_Using.tex
