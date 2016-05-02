@@ -7,7 +7,6 @@ Chapter_3_Abstract.tex
 Chapter_3_Materials_and_Methods.tex
 figures/pipeline2/pipeline2.png
 table_survey_data.tex
-Chapter_3_Discussion.tex
 chapter_4_Discussion.tex
 table_variable_desc.tex
 table_summary_injuries.tex
