@@ -10,7 +10,6 @@ figures/pipeline2/pipeline2.png
 Chapter_3_Results.tex
 table_survey_data.tex
 Chapter_3_Discussion.tex
-table_network_stat.tex
 Chapter_4_Abstract.tex
 chapter_4_Introduction.tex
 chapter_4_Materials_and_Methods.tex
