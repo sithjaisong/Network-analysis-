@@ -3,7 +3,6 @@ Chapter_2_Literature-review.tex
 chapter_3_Evaluation.tex
 figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
-figures/pipeline2/pipeline2.png
 table_survey_data.tex
 chapter_4_Discussion.tex
 table_variable_desc.tex
