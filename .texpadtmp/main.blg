@@ -8,51 +8,55 @@ Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
 I'm skipping whatever remains of this command
 The style file: ../apalike2.bst
 Database file #1: ../bibliography/biblio.bib
-Warning--I didn't find a database entry for "2008"
+Warning--entry type for "Worldbank_2008" isn't style-file defined
+--line 11 of file ../bibliography/biblio.bib
 Warning--I didn't find a database entry for "Moslonka_2010_"
 Warning--I didn't find a database entry for "Shaw_2014_Network"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Liu_2014_Detecting"
+Warning--I didn't find a database entry for "Krishnaiah_2004_Rice"
 Warning--empty journal in Borgatti_2013_Analyzing
 Warning--empty journal in Singleton_2003_Impacts
 Warning--there's a number but no volume in Tanaka_2008_Villosiclava
-You've used 78 entries,
+You've used 90 entries,
             1971 wiz_defined-function locations,
-            1015 strings with 19944 characters,
-and the built_in function-call counts, 32409 in all, are:
-= -- 3143
-> -- 1559
-< -- 44
-+ -- 542
-- -- 537
-* -- 2807
-:= -- 5746
-add.period$ -- 236
-call.type$ -- 78
-change.case$ -- 720
-chr.to.int$ -- 77
-cite$ -- 81
-duplicate$ -- 1086
-empty$ -- 2114
-format.name$ -- 654
-if$ -- 6213
+            1091 strings with 22750 characters,
+and the built_in function-call counts, 37780 in all, are:
+= -- 3653
+> -- 1873
+< -- 48
++ -- 654
+- -- 649
+* -- 3305
+:= -- 6715
+add.period$ -- 271
+call.type$ -- 90
+change.case$ -- 847
+chr.to.int$ -- 89
+cite$ -- 93
+duplicate$ -- 1239
+empty$ -- 2427
+format.name$ -- 782
+if$ -- 7214
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 89
-newline$ -- 391
-num.names$ -- 236
-pop$ -- 560
+missing$ -- 99
+newline$ -- 450
+num.names$ -- 272
+pop$ -- 653
 preamble$ -- 1
-purify$ -- 653
+purify$ -- 769
 quote$ -- 0
-skip$ -- 863
+skip$ -- 983
 stack$ -- 0
-substring$ -- 2200
-swap$ -- 63
+substring$ -- 2558
+swap$ -- 66
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 446
+type$ -- 518
 warning$ -- 3
-while$ -- 263
+while$ -- 303
 width$ -- 0
-write$ -- 997
+write$ -- 1149
 (There was 1 error message)

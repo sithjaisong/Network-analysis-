@@ -10,6 +10,12 @@ BARAB{\'A}SI, A.-L. {and} OLTVAI, Z.~N. 2004.
 \newblock {Network biology: understanding the cell's functional organization}.
 \newblock Nature Reviews Genetics, 5(2):101--113.
 
+\bibitem[Barber{\'a}n et~al., 2012]{Barberan_2012_Network}
+BARBER{\'A}N, ALBERT, BATES, T, S., CASAMAYOR, E.~O., {and} FIERER, N. 2012.
+\newblock {Using network analysis to explore co-occurrence patterns in soil
+  microbial communities}.
+\newblock The ISME journal, 6(2):343--351.
+
 \bibitem[Barnwal et~al., 2013]{Barnwal_2013_Review}
 BARNWAL, M., KOTASTHANE, A., MAGCULIA, N., MUKHERJEE, P., SAVARY, S., SHARMA,
   A., SINGH, H., SINGH, U., SPARKS, A., VARIAR, M., ET~AL. 2013.
@@ -38,6 +44,12 @@ BOTTRELL, D.~G. {and} SCHOENLY, K.~G. 2012.
   tropical Asia}.
 \newblock Journal of Asia-Pacific Entomology, 15(1):122--140.
 
+\bibitem[Brandes et~al., 2008]{Brandes_2008_Modularity}
+BRANDES, U., DELLING, D., GAERTLER, M., G{\"O}RKE, R., HOEFER, M., NIKOLOSKI,
+  Z., {and} WAGNER, D. 2008.
+\newblock {On modularity clustering}.
+\newblock Knowledge and Data Engineering, IEEE Transactions on, 20(2):172--188.
+
 \bibitem[Campbell et~al., 1990]{Campbell_1990_Introduction}
 CAMPBELL, C.~L., MADDEN, L.~V., ET~AL. 1990.
 \newblock {\em {\em {Introduction to plant disease epidemiology.}}}
@@ -47,6 +59,17 @@ CAMPBELL, C.~L., MADDEN, L.~V., ET~AL. 1990.
 CASTELLS, M. 2001.
 \newblock {\em {\em {The rise of network society}}}.
 \newblock Oxford: Blackwell Publishers.
+
+\bibitem[Crowston {and} Howison, 2006]{Crowston_2006_Hierarchy}
+CROWSTON, K. {and} HOWISON, J. 2006.
+\newblock {Hierarchy and centralization in free and open source software team
+  communications}.
+\newblock Knowledge, Technology \&amp; Policy, 18(4):65--85.
+
+\bibitem[Csardi {and} Nepusz, 2006]{Csardi_2010_igraph}
+CSARDI, G. {and} NEPUSZ, T. 2006.
+\newblock {The igraph software package for complex network research}.
+\newblock InterJournal, Complex Systems:1695.
 
 \bibitem[Deng et~al., 2012]{Deng_2012_Molecular}
 DENG, Y., JIANG, Y.-H., YANG, Y., HE, Z., LUO, F., {and} ZHOU, J. 2012.
@@ -63,6 +86,12 @@ DOANE, D.~P. {and} SEWARD, L.~E. 2011.
 \newblock Measuring skewness: a forgotten statistic.
 \newblock Journal of Statistics Education, 19(2):1--18.
 
+\bibitem[Dong et~al., 2010]{Dong_2010_Characterization}
+DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
+\newblock {A characterization of rice pests and quantification of yield losses
+  in the japonica rice zone of Yunnan China}.
+\newblock Crop Protection, 29(6):603--611.
+
 \bibitem[Eagling, 2007]{Eagling_2007_Australian}
 EAGLING, D. 2007.
 \newblock {Australian trade in agricultural food products -- the challenge for
@@ -73,6 +102,12 @@ EAGLING, D. 2007.
 FAUST, K. {and} RAES, J. 2012.
 \newblock {Microbial interactions: from networks to models}.
 \newblock Nature Reviews Microbiology, 10(8):538--550.
+
+\bibitem[Faust et~al., 2012]{Faust_2012_Microbial_co}
+FAUST, K., SATHIRAPONGSASUTI, J.~F., IZARD, J., SEGATA, N., GEVERS, D., RAES,
+  J., {and} HUTTENHOWER, C. 2012.
+\newblock {Microbial co-occurrence relationships in the human microbiome}.
+\newblock PLoS Computational Biology, 8(7):e1002606--e1002606.
 
 \bibitem[Freilich et~al., 2010]{Freilich_2010_Large}
 FREILICH, S., KREIMER, A., MEILIJSON, I., GOPHNA, U., SHARAN, R., {and} RUPPIN,
@@ -153,6 +188,13 @@ LAZEGA, E. {and} PATTISON, P.~E. 1999.
 LING, K. ET~AL. 1972.
 \newblock {\em {\em {Rice virus diseases}}}.
 \newblock International Rice Research Institute Los Banos, Philippines.
+
+\bibitem[Ma et~al., 2016]{Ma_2016_Geographic}
+MA, B., WANG, H., DSOUZA, M., LOU, J., HE, Y., DAI, Z., BROOKES, P.~C., XU, J.,
+  {and} GILBERT, J.~A. 2016.
+\newblock {Geographic patterns of co-occurrence network topological features
+  for soil microbiota at continental scale in eastern China}.
+\newblock The ISME Journal.
 
 \bibitem[Meng et~al., 2015]{Meng_2015_Main}
 MENG, J., SUN, W., MAO, Z., XU, D., WANG, X., LU, S., LAI, D., LIU, Y., ZHOU,
@@ -286,11 +328,25 @@ PROULX, S., PROMISLOW, D., {and} PHILLIPS, P. 2005.
 \newblock {Network thinking in ecology and evolution}.
 \newblock Trends in Ecology {\&} Evolution, 20(6):345--353.
 
+\bibitem[{R Core Team}, 2015]{R_2015}
+{R Core Team} 2015.
+\newblock {\em {\em {R: A Language and Environment for Statistical
+  Computing}}}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
 \bibitem[Ray et~al., 2013]{Ray_2013_Yield}
 RAY, D.~K., MUELLER, N.~D., WEST, P.~C., {and} FOLEY, J.~A. 2013.
 \newblock {Yield trends are insufficient to double global crop production by
   2050}.
 \newblock {PLoS ONE}, 8(6):e66428.
+
+\bibitem[Reddy et~al., 2011]{Reddy_2011_Characterizing}
+REDDY, C., LAHA, G., PRASAD, M., KRISHNAVENI, D., CASTILLA, N., NELSON, A.,
+  {and} SAVARY, S. 2011.
+\newblock {Characterizing multiple linkages between individual diseases crop
+  health syndromes, germplasm deployment, and rice production situations in
+  India}.
+\newblock Field Crops Research, 120(2):241--253.
 
 \bibitem[Rossman et~al., 1990]{Rossman_1990_Pyricularia}
 ROSSMAN, A.~Y., HOWARD, R.~J., {and} VALENT, B. 1990.
@@ -393,6 +449,19 @@ WILCOX, R.~R. 2012.
 \newblock {\em {\em Introduction to robust estimation and hypothesis testing}}.
 \newblock Academic Press.
 
+\bibitem[Williams et~al., 2014]{Williams_2014_demonstrating}
+WILLIAMS, R.~J., HOWE, A.~C., {and} HOFMOCKEL, K.~S. 2014.
+\newblock {Demonstrating microbial co-occurrence pattern analyses within and
+  between ecosystems}.
+\newblock Frontiers in microbiology, 5:358.
+
+\bibitem[Willocquet et~al., 2008]{Willocquet_2008_Simulating}
+WILLOCQUET, L., AUBERTOT, J., LEBARD, S., ROBERT, C., LANNOU, C., {and} SAVARY,
+  S. 2008.
+\newblock {Simulating multiple pest damage in varying winter wheat production
+  situations}.
+\newblock Field Crops Research, 107(1):12--28.
+
 \bibitem[Willocquet et~al., 2004]{Willocquet_2004_Research}
 WILLOCQUET, L., ELAZEGUI, F.~A., CASTILLA, N., FERNANDEZ, L., FISCHER, K.~S.,
   PENG, S., TENG, P.~S., SRIVASTAVA, R.~K., SINGH, H.~M., ZHU, D., {and}
@@ -405,6 +474,10 @@ WILLOCQUET, L., ELAZEGUI, F.~A., CASTILLA, N., FERNANDEZ, L., FISCHER, K.~S.,
 WINDRAM, O., PENFOLD, C.~A., {and} DENBY, K.~J. 2014.
 \newblock {Network modeling to understand plant immunity}.
 \newblock Annual Review of Phytopathology, 52(1):93--111.
+
+\bibitem[{World Bank}, 2008]{Worldbank_2008}
+{World Bank} 2008.
+\newblock World development report 2008:agriculture for development.
 
 \bibitem[Wu et~al., 2007]{Wu_2007_Gene}
 WU, X.~M., LI, Y.~R., ZOU, L.~F., {and} CHEN, G.~Y. 2007.

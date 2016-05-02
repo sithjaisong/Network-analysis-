@@ -15,3 +15,17 @@
 \contentsline {section}{\numberline {III.1}Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}{38}
 \contentsline {subsection}{\numberline {III.1.1}Discussion}{45}
 \contentsline {subsection}{\numberline {III.1.2}Conclusions}{46}
+\contentsline {section}{\numberline {III.2}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{47}
+\contentsline {subsection}{\numberline {III.2.1}Introduction}{47}
+\contentsline {subsection}{\numberline {III.2.2}Materials and methods}{49}
+\contentsline {subsubsection}{Network construction}{50}
+\contentsline {subsubsection}{Topological feature analysis}{50}
+\contentsline {subsection}{\numberline {III.2.3}Result}{52}
+\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{52}
+\contentsline {paragraph}{Central Plain, Thailand}{52}
+\contentsline {paragraph}{Odisha, India (OR)}{53}
+\contentsline {paragraph}{West Java, Indonesia (WJV)}{56}
+\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{59}
+\contentsline {paragraph}{Red Rive Delta, Vietnam}{62}
+\contentsline {subsection}{\numberline {III.2.4}Discussion}{65}
+\contentsline {subsection}{\numberline {III.2.5}Conclusion}{70}
