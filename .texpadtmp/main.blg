@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
----line 142 of file main.aux
+---line 143 of file main.aux
  : \citation{Usadel_2009_Co
  :                         ,Horvath_2011_Weighted}
 I'm skipping whatever remains of this command
@@ -12,7 +12,6 @@ Warning--entry type for "Worldbank_2008" isn't style-file defined
 --line 11 of file ../bibliography/biblio.bib
 Warning--I didn't find a database entry for "Moslonka_2010_"
 Warning--I didn't find a database entry for "Shaw_2014_Network"
-Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "Liu_2014_Detecting"
 Warning--I didn't find a database entry for "Krishnaiah_2004_Rice"
 Warning--empty journal in Borgatti_2013_Analyzing
@@ -20,7 +19,7 @@ Warning--empty journal in Singleton_2003_Impacts
 Warning--there's a number but no volume in Tanaka_2008_Villosiclava
 You've used 90 entries,
             1971 wiz_defined-function locations,
-            1091 strings with 22750 characters,
+            1091 strings with 22748 characters,
 and the built_in function-call counts, 37780 in all, are:
 = -- 3653
 > -- 1873

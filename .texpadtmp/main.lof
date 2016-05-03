@@ -5,13 +5,14 @@
 \contentsline {xchapter}{REVIEW OF LITERATURE}{6}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{38}
-\contentsline {figure}{\numberline {3-1}{\ignorespaces Rice injuries in dry season in Central Plain, Thailand\relax }}{54}
-\contentsline {figure}{\numberline {3-2}{\ignorespaces Injuries in Central Plain, Thailand\relax }}{55}
-\contentsline {figure}{\numberline {3-3}{\ignorespaces Injuries in dry season at Odisha, India\relax }}{57}
-\contentsline {figure}{\numberline {3-4}{\ignorespaces Injuries in wer season at Odisha, India\relax }}{58}
-\contentsline {figure}{\numberline {3-5}{\ignorespaces Pictures of animals\relax }}{60}
-\contentsline {figure}{\numberline {3-6}{\ignorespaces Pictures of animals\relax }}{61}
-\contentsline {figure}{\numberline {3-7}{\ignorespaces Rice injuries in dry season in Tamil Nadu, India\relax }}{63}
-\contentsline {figure}{\numberline {3-8}{\ignorespaces Rice injuries in wet season in Tamil Nadu, India\relax }}{64}
-\contentsline {figure}{\numberline {3-9}{\ignorespaces Rice injuries in dry season in West Java, Indonesia\relax }}{66}
-\contentsline {figure}{\numberline {3-10}{\ignorespaces Rice injuries in wet season in West Java, Indonesia\relax }}{67}
+\contentsline {figure}{\numberline {3-1}{\ignorespaces Selecting of correlation methods for constructing network model. The plots on the left show sample survey data taken over 29 rice injuries at 5 production environments. The next step is to compute pair-wise correlations to obtain a cross-correlation matrix (the middle plot, rows and columns represent the nodes). Then, the matrix will be used for network analysis.\relax }}{40}
+\contentsline {figure}{\numberline {3-2}{\ignorespaces Rice injuries in dry season in Central Plain, Thailand\relax }}{56}
+\contentsline {figure}{\numberline {3-3}{\ignorespaces Injuries in Central Plain, Thailand\relax }}{57}
+\contentsline {figure}{\numberline {3-4}{\ignorespaces Injuries in dry season at Odisha, India\relax }}{59}
+\contentsline {figure}{\numberline {3-5}{\ignorespaces Injuries in wer season at Odisha, India\relax }}{60}
+\contentsline {figure}{\numberline {3-6}{\ignorespaces Pictures of animals\relax }}{62}
+\contentsline {figure}{\numberline {3-7}{\ignorespaces Pictures of animals\relax }}{63}
+\contentsline {figure}{\numberline {3-8}{\ignorespaces Rice injuries in dry season in Tamil Nadu, India\relax }}{65}
+\contentsline {figure}{\numberline {3-9}{\ignorespaces Rice injuries in wet season in Tamil Nadu, India\relax }}{66}
+\contentsline {figure}{\numberline {3-10}{\ignorespaces Rice injuries in dry season in West Java, Indonesia\relax }}{68}
+\contentsline {figure}{\numberline {3-11}{\ignorespaces Rice injuries in wet season in West Java, Indonesia\relax }}{69}

@@ -13,6 +13,17 @@ Network analysis is a promising tool frequently used to describe the pairwise re
 In this chapter, selecting the most suitable correlation methods for correlation network construction is important since different correlation measures lead to different network structure and provide different information. I evaluated four correlation methods, including Pearson, Spearman rank correlation, Kendall correlation \citep{Prokhorov_2001_Kendall} and Biweight mid-correlation, to associate rice injuries. 
 
 \subsection*{Materials and methods}
+
+The method for evaluating and selecting correlation methods to construct correlation network of rice injuries in crop health survey data was showed in Fig. Finally, correlation metrics were used for the network analysis in next chapter.
+
+\begin{figure}
+    \centering
+     \includegraphics[width = 1\textwidth]{figures/pipeline4/pipeline4.pdf}
+    \caption{Selecting of correlation methods for constructing network model. The plots on the left show sample survey data taken over 29 rice injuries at 5 production environments. The next step is to compute pair-wise correlations to obtain a cross-correlation matrix (the middle plot, rows and columns represent the nodes). Then, the matrix will be used for network analysis.}
+    \label{fig:pipeline1}
+\end{figure}
+
+
 \textbf{Survey data}
 
 Survey data collected in 450 farmers’ fields in irrigated lowland rice growing areas across South and Southeast Asia, Central Plain; Thailand (CTP), Odisha; India (ODS), Red River Delta; Vietnam (RRD), Tamil Nadu; India (TMN), and West Java; Indonesia (WJV) were collected from 2013 - 2015. The number of survey were summerize in Table \ref{table:Survey_data}.

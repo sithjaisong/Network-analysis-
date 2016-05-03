@@ -5,6 +5,10 @@ ALEXANDRATOS, N., BRUINSMA, J., ET~AL. 2012.
 \newblock {World agriculture towards 2030/2050: the 2012 revision}.
 \newblock ESA Work. Pap, 3.
 
+\bibitem[Bank, 2016]{Worldbank_2008}
+BANK, W. 2016.
+\newblock World development report 2008:agriculture for development.
+
 \bibitem[Barab{\'a}si {and} Oltvai, 2004]{Barabasi_2004_Network}
 BARAB{\'A}SI, A.-L. {and} OLTVAI, Z.~N. 2004.
 \newblock {Network biology: understanding the cell's functional organization}.
@@ -474,10 +478,6 @@ WILLOCQUET, L., ELAZEGUI, F.~A., CASTILLA, N., FERNANDEZ, L., FISCHER, K.~S.,
 WINDRAM, O., PENFOLD, C.~A., {and} DENBY, K.~J. 2014.
 \newblock {Network modeling to understand plant immunity}.
 \newblock Annual Review of Phytopathology, 52(1):93--111.
-
-\bibitem[{World Bank}, 2008]{Worldbank_2008}
-{World Bank} 2008.
-\newblock World development report 2008:agriculture for development.
 
 \bibitem[Wu et~al., 2007]{Wu_2007_Gene}
 WU, X.~M., LI, Y.~R., ZOU, L.~F., {and} CHEN, G.~Y. 2007.
