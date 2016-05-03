@@ -10,3 +10,4 @@ table_summary_injuries.tex
 figures/allhisto2/allhisto2.png
 figures/heatmap/heatmap.png
 Chapter_4_Using.tex
+table_network_prop.tex
