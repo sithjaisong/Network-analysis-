@@ -1,61 +1,49 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-Case mismatch error between cite keys Usadel_2009_Co and usadel_2009_Co
----line 143 of file main.aux
- : \citation{Usadel_2009_Co
- :                         ,Horvath_2011_Weighted}
-I'm skipping whatever remains of this command
 The style file: ../apalike2.bst
 Database file #1: ../bibliography/biblio.bib
-Warning--entry type for "Worldbank_2008" isn't style-file defined
---line 11 of file ../bibliography/biblio.bib
-Warning--I didn't find a database entry for "Moslonka_2010_"
-Warning--I didn't find a database entry for "Shaw_2014_Network"
 Warning--I didn't find a database entry for "Liu_2014_Detecting"
 Warning--I didn't find a database entry for "Krishnaiah_2004_Rice"
-Warning--empty journal in Borgatti_2013_Analyzing
-Warning--empty journal in Singleton_2003_Impacts
-Warning--there's a number but no volume in Tanaka_2008_Villosiclava
-You've used 90 entries,
+You've used 16 entries,
             1971 wiz_defined-function locations,
-            1091 strings with 22748 characters,
-and the built_in function-call counts, 37780 in all, are:
-= -- 3653
-> -- 1873
-< -- 48
-+ -- 654
-- -- 649
-* -- 3305
-:= -- 6715
-add.period$ -- 271
-call.type$ -- 90
-change.case$ -- 847
-chr.to.int$ -- 89
-cite$ -- 93
-duplicate$ -- 1239
-empty$ -- 2427
-format.name$ -- 782
-if$ -- 7214
+            608 strings with 7861 characters,
+and the built_in function-call counts, 7548 in all, are:
+= -- 720
+> -- 436
+< -- 5
++ -- 157
+- -- 156
+* -- 711
+:= -- 1350
+add.period$ -- 48
+call.type$ -- 16
+change.case$ -- 173
+chr.to.int$ -- 15
+cite$ -- 16
+duplicate$ -- 208
+empty$ -- 447
+format.name$ -- 178
+if$ -- 1411
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 99
-newline$ -- 450
-num.names$ -- 272
-pop$ -- 653
+missing$ -- 15
+newline$ -- 83
+num.names$ -- 48
+pop$ -- 125
 preamble$ -- 1
-purify$ -- 769
+purify$ -- 158
 quote$ -- 0
-skip$ -- 983
+skip$ -- 163
 stack$ -- 0
-substring$ -- 2558
-swap$ -- 66
-text.length$ -- 5
+substring$ -- 540
+swap$ -- 3
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 518
-warning$ -- 3
-while$ -- 303
+type$ -- 96
+warning$ -- 0
+while$ -- 58
 width$ -- 0
-write$ -- 1149
-(There was 1 error message)
+write$ -- 209
+(There were 2 warnings)

@@ -36,7 +36,7 @@
 %----- Adjust the style ----
 \renewcommand{\chaptername}{CHAPTER}
 \renewcommand{\thechapter}{\Roman{chapter}}
-\renewcommand{\thefigure}{\arabic{chapter}-\arabic{figure}}
+\renewcommand{\thefigure}{\Roman{chapter}-\arabic{figure}}
 %\renewcommand{\thefigure}{\Roman{figure}}
 %\renewcommand{\chaptername}{}
 %\renewcommand{\thechapter}{}
@@ -97,6 +97,7 @@
 %======================================================================
 \begin{document}
 
+\setcounter{secnumdepth}{1}
 % For a large document, it is a good idea to divide your thesis
 % into several files, each one containing one chapter.
 % To illustrate this idea, the "front pages" (i.e., title page,
@@ -192,23 +193,22 @@
 
 %======================================================================
 % INTRODUCTION
-\chapter{INTRODUCTION}
+%\chapter{INTRODUCTION}
 %======================================================================
-\input{Chapter_1_Introduction.tex}
+%\input{Chapter_1_Introduction.tex}
 
-\chapter{REVIEW OF LITERATURE}
+%\chapter{REVIEW OF LITERATURE}
 %====================================
-\input{Chapter_2_Literature-review.tex}
+%\input{Chapter_2_Literature-review.tex}
 
-\chapter{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}
+%\chapter{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}
 %====================================
-\input{Chapter_3_Evaluation.tex}
+%\input{Chapter_3_Evaluation.tex}
 %======================================================================
 
 %\chapter{Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}
 %======================================================================
 \input{Chapter_4_Using.tex}
-
 
 %\chapter{Differential networks reveal the dynamics of animal pests and disease co-occurrences}
 

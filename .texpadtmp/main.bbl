@@ -1,68 +1,16 @@
 \begin{thebibliography}{}
 
-\bibitem[Alexandratos et~al., 2012]{Alexandratos_2012_World}
-ALEXANDRATOS, N., BRUINSMA, J., ET~AL. 2012.
-\newblock {World agriculture towards 2030/2050: the 2012 revision}.
-\newblock ESA Work. Pap, 3.
-
-\bibitem[Bank, 2016]{Worldbank_2008}
-BANK, W. 2016.
-\newblock World development report 2008:agriculture for development.
-
-\bibitem[Barab{\'a}si {and} Oltvai, 2004]{Barabasi_2004_Network}
-BARAB{\'A}SI, A.-L. {and} OLTVAI, Z.~N. 2004.
-\newblock {Network biology: understanding the cell's functional organization}.
-\newblock Nature Reviews Genetics, 5(2):101--113.
-
 \bibitem[Barber{\'a}n et~al., 2012]{Barberan_2012_Network}
 BARBER{\'A}N, ALBERT, BATES, T, S., CASAMAYOR, E.~O., {and} FIERER, N. 2012.
 \newblock {Using network analysis to explore co-occurrence patterns in soil
   microbial communities}.
 \newblock The ISME journal, 6(2):343--351.
 
-\bibitem[Barnwal et~al., 2013]{Barnwal_2013_Review}
-BARNWAL, M., KOTASTHANE, A., MAGCULIA, N., MUKHERJEE, P., SAVARY, S., SHARMA,
-  A., SINGH, H., SINGH, U., SPARKS, A., VARIAR, M., ET~AL. 2013.
-\newblock A review on crop losses, epidemiology and disease management of rice
-  brown spot to identify research priorities and knowledge gaps.
-\newblock European Journal of Plant Pathology, 136(3):443--457.
-
-\bibitem[Basilio, 1991]{Basilio_1991_Problems}
-BASILIO, R. 1991.
-\newblock {Problems of golden snail infestation in rice farming}.
-\newblock In ICLARM Conference Proceedings (Philippines). FAC-ICLARM.
-
-\bibitem[Bennett, 2004]{Bennett_2004_New}
-BENNETT, J. 2004.
-\newblock {\em {\em {New approaches to gall midge resistance in rice}}}.
-\newblock Int. Rice Res. Inst.
-
-\bibitem[Borgatti et~al., 2013]{Borgatti_2013_Analyzing}
-BORGATTI, S.~P., EVERETT, M.~G., {and} JOHNSON, J.~C. 2013.
-\newblock {Analyzing social networks}.
-
-\bibitem[Bottrell {and} Schoenly, 2012]{Bottrell_2012_Resurrecting}
-BOTTRELL, D.~G. {and} SCHOENLY, K.~G. 2012.
-\newblock {Resurrecting the ghost of green revolutions past: the brown
-  planthopper as a recurring threat to high-yielding rice production in
-  tropical Asia}.
-\newblock Journal of Asia-Pacific Entomology, 15(1):122--140.
-
 \bibitem[Brandes et~al., 2008]{Brandes_2008_Modularity}
 BRANDES, U., DELLING, D., GAERTLER, M., G{\"O}RKE, R., HOEFER, M., NIKOLOSKI,
   Z., {and} WAGNER, D. 2008.
 \newblock {On modularity clustering}.
 \newblock Knowledge and Data Engineering, IEEE Transactions on, 20(2):172--188.
-
-\bibitem[Campbell et~al., 1990]{Campbell_1990_Introduction}
-CAMPBELL, C.~L., MADDEN, L.~V., ET~AL. 1990.
-\newblock {\em {\em {Introduction to plant disease epidemiology.}}}
-\newblock John Wiley \& Sons.
-
-\bibitem[Castells, 2001]{Castells_2001_Rise}
-CASTELLS, M. 2001.
-\newblock {\em {\em {The rise of network society}}}.
-\newblock Oxford: Blackwell Publishers.
 
 \bibitem[Crowston {and} Howison, 2006]{Crowston_2006_Hierarchy}
 CROWSTON, K. {and} HOWISON, J. 2006.
@@ -75,37 +23,11 @@ CSARDI, G. {and} NEPUSZ, T. 2006.
 \newblock {The igraph software package for complex network research}.
 \newblock InterJournal, Complex Systems:1695.
 
-\bibitem[Deng et~al., 2012]{Deng_2012_Molecular}
-DENG, Y., JIANG, Y.-H., YANG, Y., HE, Z., LUO, F., {and} ZHOU, J. 2012.
-\newblock {Molecular ecological network analyses}.
-\newblock BMC Bioinformatics, 13:113.
-
-\bibitem[Dietz et~al., 2010]{Dietz_2010_Hubs}
-DIETZ, K.~J., JACQUOT, J.~P., {and} HARRIS, G. 2010.
-\newblock {Hubs and bottlenecks in plant molecular signalling networks}.
-\newblock New Phytologist, 188(4):919--938.
-
-\bibitem[Doane {and} Seward, 2011]{Doane_2011_Measuring}
-DOANE, D.~P. {and} SEWARD, L.~E. 2011.
-\newblock Measuring skewness: a forgotten statistic.
-\newblock Journal of Statistics Education, 19(2):1--18.
-
 \bibitem[Dong et~al., 2010]{Dong_2010_Characterization}
 DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
 \newblock {A characterization of rice pests and quantification of yield losses
   in the japonica rice zone of Yunnan China}.
 \newblock Crop Protection, 29(6):603--611.
-
-\bibitem[Eagling, 2007]{Eagling_2007_Australian}
-EAGLING, D. 2007.
-\newblock {Australian trade in agricultural food products -- the challenge for
-  plant pathologists}.
-\newblock Australasian Plant Pathology, 36(6):539--542.
-
-\bibitem[Faust {and} Raes, 2012]{Faust_2012_Microbial}
-FAUST, K. {and} RAES, J. 2012.
-\newblock {Microbial interactions: from networks to models}.
-\newblock Nature Reviews Microbiology, 10(8):538--550.
 
 \bibitem[Faust et~al., 2012]{Faust_2012_Microbial_co}
 FAUST, K., SATHIRAPONGSASUTI, J.~F., IZARD, J., SEGATA, N., GEVERS, D., RAES,
@@ -113,85 +35,10 @@ FAUST, K., SATHIRAPONGSASUTI, J.~F., IZARD, J., SEGATA, N., GEVERS, D., RAES,
 \newblock {Microbial co-occurrence relationships in the human microbiome}.
 \newblock PLoS Computational Biology, 8(7):e1002606--e1002606.
 
-\bibitem[Freilich et~al., 2010]{Freilich_2010_Large}
-FREILICH, S., KREIMER, A., MEILIJSON, I., GOPHNA, U., SHARAN, R., {and} RUPPIN,
-  E. 2010.
-\newblock {The large-scale organization of the bacterial network of ecological
-  co--occurrence interactions}.
-\newblock Nucleic Acids Research, 38(12):3857--3868.
-
-\bibitem[Ghasemi et~al., 2012]{Ghasemi_2012_Normality}
-GHASEMI, A., ZAHEDIASL, S., ET~AL. 2012.
-\newblock Normality tests for statistical analysis: a guide for
-  non-statisticians.
-\newblock International journal of endocrinology and metabolism,
-  10(2):486--489.
-
-\bibitem[Guimera {and} Amaral, 2005]{Guimera_2005_Functional}
-GUIMERA, R. {and} AMARAL, L. A.~N. 2005.
-\newblock {Functional cartography of complex metabolic networks}.
-\newblock {Nature}, 433(7028):895--900.
-
-\bibitem[Harwood et~al., 2009]{Harwood_2009_Epidemiological}
-HARWOOD, T.~D., XU, X., PAUTASSO, M., JEGER, M.~J., {and} SHAW, M.~W. 2009.
-\newblock {Epidemiological risk assessment using linked network and grid based
-  modelling: \textit{Phytophthora ramorum} and \textit{Phytophthora kernoviae}
-  in the {UK}}.
-\newblock Ecological Modelling, 220(23):3353--3361.
-
-\bibitem[Ideker {and} Krogan, 2012]{Ideker_2012_Differential}
-IDEKER, T. {and} KROGAN, N.~J. 2012.
-\newblock {Differential network biology}.
-\newblock {Molecular Systems Biology}, 8(1):565.
-
-\bibitem[Jeger et~al., 2007]{Jeger_2007_Modelling}
-JEGER, M.~J., PAUTASSO, M., HOLDENRIEDER, O., {and} SHAW, M.~W. 2007.
-\newblock {Modelling disease spread and control in networks: implications for
-  plant sciences}.
-\newblock {New Phytologist}, 174(2):279--297.
-
-\bibitem[Joshi, 2007]{Joshi_2007_Problems}
-JOSHI, R. 2007.
-\newblock {Problems with the management of the golden apple snail Pomacea
-  canaliculata: an important exotic pest of rice in Asia}.
-\newblock In Area-wide control of insect pests, pages 257--264. Springer.
-
-\bibitem[Juraimi et~al., 2013]{Juraimi_2013_Sustainable}
-JURAIMI, A.~S., UDDIN, M.~K., ANWAR, M.~P., MOHAMED, M. T.~M., ISMAIL, M.~R.,
-  {and} MAN, A. 2013.
-\newblock {Sustainable weed management in direct seeded rice culture: a
-  review}.
-\newblock Australian Journal of Crop Science, 7(7):989.
-
-\bibitem[Kasari et~al., 2011]{Kasari_2011_Social}
-KASARI, C., LOCKE, J., GULSRUD, A., {and} ROTHERAM-FULLER, E. 2011.
-\newblock {Social networks and friendships at school: comparing children with
-  and without {ASD}}.
-\newblock {Journal of Autism and Developmental Disorders}, 41(5):533--544.
-
-\bibitem[Krause et~al., 2003]{Krause_2003_Compartments}
-KRAUSE, A.~E., FRANK, K.~A., MASON, D.~M., ULANOWICZ, R.~E., {and} TAYLOR,
-  W.~W. 2003.
-\newblock {Compartments revealed in food-web structure}.
-\newblock Nature, 426(6964):282--285.
-
-\bibitem[Kumari et~al., 2012]{Kumari_2012_Evaluation}
-KUMARI, S., NIE, J., CHEN, H.-S., MA, H., STEWART, RON, L., XIANG, LU, M.-Z.,
-  TAYLOR, W.~M., {and} WEI, H. 2012.
-\newblock {Evaluation of gene association methods for coexpression Network
-  construction and biological knowledge discovery}.
-\newblock PLoS ONE, 7(11).
-
-\bibitem[Lazega {and} Pattison, 1999]{Lazega_1999_Multiplexity}
-LAZEGA, E. {and} PATTISON, P.~E. 1999.
-\newblock {Multiplexity, generalized exchange and cooperation in organizations:
-  a case study}.
-\newblock {Social Networks}, 21(1):67--90.
-
-\bibitem[Ling et~al., 1972]{Ling_1972_Rice}
-LING, K. ET~AL. 1972.
-\newblock {\em {\em {Rice virus diseases}}}.
-\newblock International Rice Research Institute Los Banos, Philippines.
+\bibitem[Fruchterman {and} Reingold, 1991]{Fruchterman_1991_Graph}
+FRUCHTERMAN, T.~M. {and} REINGOLD, E.~M. 1991.
+\newblock Graph drawing by force-directed placement.
+\newblock Software: Practice and experience, 21(11):1129--1164.
 
 \bibitem[Ma et~al., 2016]{Ma_2016_Geographic}
 MA, B., WANG, H., DSOUZA, M., LOU, J., HE, Y., DAI, Z., BROOKES, P.~C., XU, J.,
@@ -200,149 +47,17 @@ MA, B., WANG, H., DSOUZA, M., LOU, J., HE, Y., DAI, Z., BROOKES, P.~C., XU, J.,
   for soil microbiota at continental scale in eastern China}.
 \newblock The ISME Journal.
 
-\bibitem[Meng et~al., 2015]{Meng_2015_Main}
-MENG, J., SUN, W., MAO, Z., XU, D., WANG, X., LU, S., LAI, D., LIU, Y., ZHOU,
-  L., {and} ZHANG, G. 2015.
-\newblock {Main Ustilaginoidins and Their Distribution in Rice False Smut
-  Balls}.
-\newblock Toxins, 7(10):4023--4034.
-
-\bibitem[Mew {and} Gonzales, 2002]{Mew_2002_Handbook}
-MEW, T.-W. {and} GONZALES, P. 2002.
-\newblock {\em {\em {A handbook of rice seedborne fungi}}}.
-\newblock Int. Rice Res. Inst.
-
-\bibitem[Mew et~al., 2004]{Mew_2004_Looking}
-MEW, T.~W., LEUNG, H., SAVARY, S., VERA~CRUZ, C.~M., {and} LEACH, J.~E. 2004.
-\newblock {Looking ahead in rice disease research and management}.
-\newblock Critical Reviews in Plant Sciences, 23(2):103--127.
-
-\bibitem[Moody, 2001]{Moody_2001_Race}
-MOODY, J. 2001.
-\newblock {Race, school integration, and friendship segregation in {America}}.
-\newblock {American Journal of Sociology}, 107(3):679--716.
-
-\bibitem[Moody, 1991]{Litsinger_1991_Crop}
-MOODY, K. 1991.
-\newblock {Crop loss assessment in rice}.
-\newblock In Litsinger, J.~A., editor, Yield losses due to weed in rice in the
-  Philippines, pages 1--65. Springer.
-
-\bibitem[Moslonka-Lefebvre et~al., 2011]{Moslonka_Lefebvre_2011}
-MOSLONKA-LEFEBVRE, M., FINLEY, A., DORIGATTI, I., DEHNEN-SCHMUTZ, K., HARWOOD,
-  T., JEGER, M.~J., XU, X., HOLDENRIEDER, O., {and} PAUTASSO, M. 2011.
-\newblock {Networks in Plant Epidemiology: From Genes to Landscapes Countries,
-  and Continents}.
-\newblock Phytopathology, 101(4):392--403.
-
-\bibitem[Moslonka-Lefebvre et~al., 2009]{Moslonka_2008_Disease}
-MOSLONKA-LEFEBVRE, M., MATHIEU~PAUTASSO, M., {and} JEGER, M.~J. 2009.
-\newblock {Disease spread in small-size directed networks:epidemic threshold,
-  correlation between links to and form nodes, and clustering}.
-\newblock {Journal of Theoretical Biology}, 206:402--411.
-
-\bibitem[Mutert {and} Fairhurst, 2002]{Mutert_2002_Developments}
-MUTERT, E. {and} FAIRHURST, T. 2002.
-\newblock {Developments in rice production in Southeast Asia}.
-\newblock Better Crops International, 15:12--17.
-
-\bibitem[Newman, 2003]{Newman_2003_Structure}
-NEWMAN, M. E.~J. 2003.
-\newblock {The structure and function of complex networks}.
-\newblock {SIAM review}, 45(2):167--256.
-
 \bibitem[Newman, 2006]{Newman_2006_Modularity}
 NEWMAN, M. E.~J. 2006.
 \newblock {Modularity and community structure in networks}.
 \newblock {Proceedings of the National Academy of Sciences},
   103(23):8577--8582.
 
-\bibitem[Norton et~al., 2010]{Norton_2010_Rice}
-NORTON, G.~W., HEONG, K., JOHNSON, D., {and} SAVARY, S. 2010.
-\newblock {Rice pest management: Issues and opportunities}.
-\newblock Rice in the Global Economy.
-
-\bibitem[OECD/FAO, 2012]{OECD_2012_Agricultural}
-OECD/FAO 2012.
-\newblock {{OECD} and {FAO} Report {\textendash} Agricultural Outlook
-  2012-2021}.
-\newblock Management of Env Quality, 24(1).
-
-\bibitem[Oerke, 2005]{Oerke_2005_Crop}
-OERKE, E.~C. 2005.
-\newblock {Crop losses to pests}.
-\newblock J. Agric. Sci., 144(01):31.
-
-\bibitem[Ooi {and} Shepard, 1994]{Ooi_1994_Predators}
-OOI, P. {and} SHEPARD, B. 1994.
-\newblock {Predators and parasitoids of rice insect pests}.
-\newblock Biology and management of rice insects, pages 586--612.
-
-\bibitem[Ou, 1985]{Ou_1985_Rice}
-OU, S.~H. 1985.
-\newblock {\em {\em {Rice diseases}}}.
-\newblock International Rice Research Institute (IRRI).
-
-\bibitem[Pastor-Satorras {and} Vespignani, 2001]{Pastor_2001_Epidemic}
-PASTOR-SATORRAS, R. {and} VESPIGNANI, A. 2001.
-\newblock {Epidemic spreading in scale--free networks}.
-\newblock {Physical Review Letters}, 86(14):3200.
-
-\bibitem[Pathak {and} Khan, 1994]{Pathak_1994_Insect}
-PATHAK, M. {and} KHAN, Z.~R. 1994.
-\newblock {\em {\em {Insect pests of rice}}}.
-\newblock Int. Rice Res. Inst.
-
-\bibitem[Pautasso, 2015]{Pautasso_2015_Network}
-PAUTASSO, M. 2015.
-\newblock {Network simulations to study seed exchange for agrobiodiversity
-  conservation}.
-\newblock {Agronomy for Sustainable Development}, 35(1):145--150.
-
-\bibitem[Pautasso et~al., 2008]{Pautasso_2008_Epidemiological}
-PAUTASSO, M., HARWOOD, T., SHAW, M., XU, X., {and} JEGER, M. 2008.
-\newblock {Epidemiological Modeling of \textit{Phytophthora ramorum}: network
-  Properties of Susceptible Plant Genera Movements in the Nursery Sector of
-  {England} and {Wales}}.
-\newblock In Proceedings of the Sudden Oak Death Third Science Symposium.
-
-\bibitem[Pautasso et~al., 2010]{Pautasso_2010_Number}
-PAUTASSO, M., MOSLONKA-LEFEBVRE, M., {and} JEGER, M.~J. 2010.
-\newblock {The number of links to and from the starting node as a predictor of
-  epidemic size in small-size directed networks}.
-\newblock Ecological Complexity, 7(4):424--432.
-
-\bibitem[Peat {and} Barton, 2005]{Peat_2005_Guide}
-PEAT, J. {and} BARTON, B. 2005.
-\newblock {\em {\em A guide to data analysis and critical appraisal}}.
-\newblock Wiley Online Library.
-
-\bibitem[Pe'er {and} Hacohen, 2011]{Peer_2011_Principles}
-PE'ER, D. {and} HACOHEN, N. 2011.
-\newblock {Principles and strategies for developing network models in cancer}.
-\newblock {Cell}, 144(6):864--873.
-
-\bibitem[Prokhorov, 2001]{Prokhorov_2001_Kendall}
-PROKHOROV, A. 2001.
-\newblock Kendall coefficient of rank correlation.
-\newblock Online Encyclopedia of Mathematics.
-
-\bibitem[Proulx et~al., 2005]{Proulx_2005_Network}
-PROULX, S., PROMISLOW, D., {and} PHILLIPS, P. 2005.
-\newblock {Network thinking in ecology and evolution}.
-\newblock Trends in Ecology {\&} Evolution, 20(6):345--353.
-
 \bibitem[{R Core Team}, 2015]{R_2015}
 {R Core Team} 2015.
 \newblock {\em {\em {R: A Language and Environment for Statistical
   Computing}}}.
 \newblock R Foundation for Statistical Computing, Vienna, Austria.
-
-\bibitem[Ray et~al., 2013]{Ray_2013_Yield}
-RAY, D.~K., MUELLER, N.~D., WEST, P.~C., {and} FOLEY, J.~A. 2013.
-\newblock {Yield trends are insufficient to double global crop production by
-  2050}.
-\newblock {PLoS ONE}, 8(6):e66428.
 
 \bibitem[Reddy et~al., 2011]{Reddy_2011_Characterizing}
 REDDY, C., LAHA, G., PRASAD, M., KRISHNAVENI, D., CASTILLA, N., NELSON, A.,
@@ -351,34 +66,6 @@ REDDY, C., LAHA, G., PRASAD, M., KRISHNAVENI, D., CASTILLA, N., NELSON, A.,
   health syndromes, germplasm deployment, and rice production situations in
   India}.
 \newblock Field Crops Research, 120(2):241--253.
-
-\bibitem[Rossman et~al., 1990]{Rossman_1990_Pyricularia}
-ROSSMAN, A.~Y., HOWARD, R.~J., {and} VALENT, B. 1990.
-\newblock {Pyricularia grisea, the correct name for the rice blast disease
-  fungus}.
-\newblock Mycologia, pages 509--512.
-
-\bibitem[Savary {and} Castilla, 2009]{Savary_2009_Survey}
-SAVARY, S. {and} CASTILLA, N. 2009.
-\newblock {A survey portfolio to characterize yield-reducing factors in rice}.
-\newblock {IRRI Discussion Paper No 18}.
-
-\bibitem[Savary et~al., 2005]{Savary_2005_Multiple}
-SAVARY, S., CASTILLA, N.~P., ELAZEGUI, F., {and} TENG, P.~S. 2005.
-\newblock {Multiple effects of two drivers of agricultural change labour
-  shortage and water scarcity, on rice pest profiles in tropical Asia}.
-\newblock Field Crops Research, 91(2-3):263--271.
-
-\bibitem[Savary et~al., 2012]{Savary_2012_Review}
-SAVARY, S., HORGAN, F., WILLOCQUET, L., {and} HEONG, K.~L. 2012.
-\newblock {A review of principles for sustainable pest management in rice}.
-\newblock Crop Protection, 32:54--63.
-
-\bibitem[Savary et~al., 1995]{Savary_1995_Use}
-SAVARY, S., MADDEN, L., ZADOKS, J., {and} KLEIN-GEBBINCK, H. 1995.
-\newblock {Use of Categorical Information and Correspondence Analysis in Plant
-  Disease Epidemiology}.
-\newblock In Advances in Botanical Research, pages 213--240. Elsevier {BV}.
 
 \bibitem[Savary et~al., 2006]{Savary_2006_Quantification}
 SAVARY, S., TENG, P.~S., WILLOCQUET, L., {and} NUTTER, F.~W. 2006.
@@ -399,60 +86,6 @@ SAVARY, S., WILLOCQUET, L., ELAZEGUI, F.~A., TENG, P.~S., DU, P.~V., ZHU, D.,
   Profiles in Relation to Production Situations}.
 \newblock Plant Disease, 84(3):341--356.
 
-\bibitem[Shaw {and} Pautasso, 2014]{Shaw_2014_Networks}
-SHAW, M.~W. {and} PAUTASSO, M. 2014.
-\newblock {Networks and plant disease management: concepts and applications}.
-\newblock Annual Review of Phytopathology, 52(1):477--493.
-
-\bibitem[Shepard et~al., 1995]{Shepard_1995_Rice}
-SHEPARD, B.~M., BARRION, A., {and} LITSINGER, J. 1995.
-\newblock {\em {\em {Rice-feeding insects of tropical Asia}}}.
-\newblock Int. Rice Res. Inst.
-
-\bibitem[Sin, 2003]{Sin_2003_Damage}
-SIN, T.~S. 2003.
-\newblock {Damage potential of the golden apple snail Pomacea canaliculata
-  (Lamarck) in irrigated rice and its control by cultural approaches}.
-\newblock International Journal of Pest Management, 49(1):49--55.
-
-\bibitem[Singleton, 2003]{Singleton_2003_Impacts}
-SINGLETON, G.~R. 2003.
-\newblock {Impacts of rodents on rice production in Asia}.
-
-\bibitem[Skamnioti {and} Gurr, 2009]{Skamnioti_2009_Against}
-SKAMNIOTI, P. {and} GURR, S.~J. 2009.
-\newblock {Against the grain: safeguarding rice from rice blast disease}.
-\newblock Trends in Biotechnology, 27(3):141--150.
-
-\bibitem[Sonti, 1998]{Sonti_1998_Bacterial}
-SONTI, R.~V. 1998.
-\newblock {Bacterial leaf blight of rice: new insights from molecular
-  genetics}.
-\newblock CURRENT SCIENCE-BANGALORE-, 74:206--212.
-
-\bibitem[Tanaka et~al., 2008]{Tanaka_2008_Villosiclava}
-TANAKA, E., ASHIZAWA, T., SONODA, R., {and} TANAKA, C. 2008.
-\newblock {Villosiclava virens gen. nov., comb. nov., teleomorph of
-  Ustilaginoidea virens, the causal agent of rice false smut}.
-\newblock Mycotaxon, (106):491--501.
-
-\bibitem[Toubiana et~al., 2013]{Toubiana_2013_Net}
-TOUBIANA, D., FERNIE, A.~R., NIKOLOSKI, Z., {and} FAIT, A. 2013.
-\newblock {Network analysis: tackling complex data to study plant metabolism.}
-\newblock Trends in Biotechnology, 31(1):29--36.
-
-\bibitem[Usadel et~al., 2009]{usadel_2009_Co}
-USADEL, B., OBAYASHI, T., MUTWIL, M., GIORGI, F.~M., BASSEL, G.~W., TANIMOTO,
-  M., CHOW, A., STEINHAUSER, D., PERSSON, S., {and} PROVART, N.~J. 2009.
-\newblock {Co--expression tools for plant biology: opportunities for hypothesis
-  generation and caveats}.
-\newblock Plant, Cell \& Environment, 32(12):1633--1651.
-
-\bibitem[Wilcox, 2012]{Wilcox_2012_Introduction}
-WILCOX, R.~R. 2012.
-\newblock {\em {\em Introduction to robust estimation and hypothesis testing}}.
-\newblock Academic Press.
-
 \bibitem[Williams et~al., 2014]{Williams_2014_demonstrating}
 WILLIAMS, R.~J., HOWE, A.~C., {and} HOFMOCKEL, K.~S. 2014.
 \newblock {Demonstrating microbial co-occurrence pattern analyses within and
@@ -465,53 +98,5 @@ WILLOCQUET, L., AUBERTOT, J., LEBARD, S., ROBERT, C., LANNOU, C., {and} SAVARY,
 \newblock {Simulating multiple pest damage in varying winter wheat production
   situations}.
 \newblock Field Crops Research, 107(1):12--28.
-
-\bibitem[Willocquet et~al., 2004]{Willocquet_2004_Research}
-WILLOCQUET, L., ELAZEGUI, F.~A., CASTILLA, N., FERNANDEZ, L., FISCHER, K.~S.,
-  PENG, S., TENG, P.~S., SRIVASTAVA, R.~K., SINGH, H.~M., ZHU, D., {and}
-  SAVARY, S. 2004.
-\newblock {Research Priorities for Rice Pest Management in Tropical Asia: A
-  Simulation Analysis of Yield Losses and Management Efficiencies}.
-\newblock Phytopathology, 94(7):672--682.
-
-\bibitem[Windram et~al., 2014]{Windram_2014_Network}
-WINDRAM, O., PENFOLD, C.~A., {and} DENBY, K.~J. 2014.
-\newblock {Network modeling to understand plant immunity}.
-\newblock Annual Review of Phytopathology, 52(1):93--111.
-
-\bibitem[Wu et~al., 2007]{Wu_2007_Gene}
-WU, X.~M., LI, Y.~R., ZOU, L.~F., {and} CHEN, G.~Y. 2007.
-\newblock {Gene--for--gene relationships between rice and diverse avrBs3/pthA
-  avirulence genes in \textit{Xanthomonas oryzae} pv.\textit{oryzae}}.
-\newblock Plant Pathology, 56(1):26--34.
-
-\bibitem[Yang et~al., 2014]{Yang_2014_Gene}
-YANG, Y., HAN, L., YUAN, Y., LI, J., HEI, N., {and} LIANG, H. 2014.
-\newblock {Gene CO--expression network analysis reveals common system-level
-  properties of prognostic genes across cancer types}.
-\newblock Nature Communications, 5.
-
-\bibitem[Zadoks, 1985]{Zadok_1985_Crop}
-ZADOKS, J.~C. 1985.
-\newblock {Crop loss assessment}.
-\newblock Annual Review.
-
-\bibitem[Zadoks {and} Schein, 1979]{Zadoks_1979_Epidem}
-ZADOKS, J.~C. {and} SCHEIN, R.~D. 1979.
-\newblock {\em {\em {Epidemiology and plant disease management}}}.
-\newblock Oxford University Press, USA.
-
-\bibitem[Zhang {and} Horvath, 2005]{Zhang_2005_General}
-ZHANG, B. {and} HORVATH, S. 2005.
-\newblock {A general framework for weighted gene co-expression network
-  analysis}.
-\newblock Statistical Applications in Genetics and Molecular Biology, 4(1).
-
-\bibitem[Zhang et~al., 2014]{Zhang_2014_Small}
-ZHANG, W., DONG, Y., YANG, L., MA, B., MA, R., HUANG, F., WANG, C., HU, H., LI,
-  C., YAN, C., {and} CHEN, J. 2014.
-\newblock {Small brown planthopper resistance loci in wild rice (Oryza
-  officinalis)}.
-\newblock Molecular Genetics and Genomics, 289(3):373--382.
 
 \end{thebibliography}

@@ -23,7 +23,6 @@ The method for evaluating and selecting correlation methods to construct correla
     \label{fig:pipeline1}
 \end{figure}
 
-
 \textbf{Survey data}
 
 Survey data collected in 450 farmers’ fields in irrigated lowland rice growing areas across South and Southeast Asia, Central Plain; Thailand (CTP), Odisha; India (ODS), Red River Delta; Vietnam (RRD), Tamil Nadu; India (TMN), and West Java; Indonesia (WJV) were collected from 2013 - 2015. The number of survey were summerize in Table \ref{table:Survey_data}.
@@ -57,13 +56,31 @@ In this study, correlation measures including, Pearson, Spearman, Kendal and Biw
 
 \textbf{Checking and testing the distribution of crop health survey data}
 
-To determine normality of the survey data, I presented the histograms showing distribution of value of rice injuries, calculated summary statistics, and performed Shapiro-Wilk test. The distribution of value of rice injuries were visualized in histogram in Fig. The histograms depicted the distribution of values of injuries. Apparently, histograms showed that values of injuries were skewed to the left. Common values of the injuries were 0. A few farmers’ fields presenting in high values of injuries were relatively low. The distribution of most injuries are described power low or long tails. 
+To determine normality of the survey data, I presented the histograms showing distribution of value of rice injuries, calculated summary statistics, and performed Shapiro-Wilk test. The distribution of value of rice injuries were visualized in histogram in Fig \ref{fig:allhisto}. The histograms depicted the distribution of values of injuries. Apparently, histograms showed that values of injuries were skewed to the left. Common values of the injuries were 0. A few farmers’ fields presenting in high values of injuries were relatively low. The distribution of most injuries are described power low or long tails. 
 
-The summary statistics, and the result of Shapiro-Wick test of each injury were calculated and summarized in Table.  As can be seen, from the previous observations that rice injuries histograms tend to be positively skewed, the median values of injuries were considered due to their insensitivity to outliers. Median of injuries were almost 0, except LF. According to \citet{Doane_2011_Measuring}, skewness and kurtosis values were more than 0, which mean that the values of injuries were asymmetrically distributed with a long tail to the right. The normality is defined as $p$ value 0.01 in Shapiro-Wilk testing. That test indicates that values of injuries were not normally distributed.
+\begin{landscape}
+\begin{figure}[!h]
+\centering
+\includegraphics[width = 1\textwidth]{figures/allhisto2/allhisto2.png}
+\caption{Histograms showing the distribution of rice injury values in crop health survey data. BB:Bug burn, BLB:Bacterial leaf blight, BLS: Bacterial leaf streak, BS:Brown spot, DH:Deadheart, DP: Dirty panicle, FS:False smut, GS:Gressy stunt, HB:Hopper burn, LB: Leaf blast, LF: Leaffolder injury, LM: Leaf miner injury, LS: :Leaf scald, NB:Neck blast, NBS:Nerrow brown spot, PM: Panicle mite injury, RB: Rice bug injuries, RGS:Ragged stunt, RH:Rice hispa injury, RS: Red stripe, RT:Rat damage, RTG: Tungro, RTH:Rice thrip injury, SHB:Sheath blight, SHR:Sheath rot, SNL:Snail damage, SR:Stem rot, SS:Silver shoot, WH:White head, WM:Whorl maggot injury.}
+\label{fig:allhisto}
+\end{figure}
+\end{landscape}
+
+\input{table_summary_injuries.tex}
+
+The summary statistics, and the result of Shapiro-Wick test of each injury were calculated and summarized in Table \ref{table:summary_injuries}.  As can be seen, from the previous observations that rice injuries histograms tend to be positively skewed, the median values of injuries were considered due to their insensitivity to outliers. Median of injuries were almost 0, except LF. According to \citet{Doane_2011_Measuring}, skewness and kurtosis values were more than 0, which mean that the values of injuries were asymmetrically distributed with a long tail to the right. The normality is defined as $p$ value 0.01 in Shapiro-Wilk testing. That test indicates that values of injuries were not normally distributed.
 
 \textbf{Comparing correlation coefficients of rice injuries from four correlation methods }
 
-I performed pair-wise analysis between each of injuries using all four correlation methods (Pearson, Spearman, Kendall correlation, and Biweight mid-correlation). I examined the similarity of correlation coefficients and clustered according to hierarchical clustering using Euclidean distance. The result was shown in Figure. Two groups of correlation methods. The first is parametric correlation measures (Pearson correlation and Biweight mid-correlation) and the second group is nonparametric correlation measure (Spearman correlation and Kendall correlation). Next, output for each method was sorted by $P$-values in ascending order and cut off at $P$-value < 0.05 (Table to).  Spearman method could capture 193 pairwise relationships, following with Biweight-mid correlation Pearson method captures and Kendall, which could captured 128, 122, and 72, respectively.
+I performed pair-wise analysis between each of injuries using all four correlation methods (Pearson, Spearman, Kendall correlation, and Biweight mid-correlation). I examined the similarity of correlation coefficients and clustered according to hierarchical clustering using Euclidean distance. The result was shown in Figure \ref{fig:heatmap}. Two groups of correlation methods. The first is parametric correlation measures (Pearson correlation and Biweight mid-correlation) and the second group is nonparametric correlation measure (Spearman correlation and Kendall correlation). Next, output for each method was sorted by $P$-values in ascending order and cut off at $P$-value < 0.05 (Table to).  Spearman method could capture 193 pairwise relationships, following with Biweight-mid correlation Pearson method captures and Kendall, which could captured 128, 122, and 72, respectively.
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width = 1\textwidth]{figures/heatmap/heatmap.png}
+\caption{Heatmap and dendrogram showing hierarchical unsupervised clustering analysis correlation measures of survey data}
+\label{fig:heatmap}
+\end{figure}
 
 \textbf{Identify the most suitable correlation measure}
 
@@ -71,7 +88,7 @@ According to the previous results, the group of parametric correlation measures 
 
 \subsection{Discussion}
 
-An important criteria to select the suitable correlation measures is to check normality of the variables analysed because an vital assumption in Pearson’s contribution is the normality of the variables analysed, which could be true only for quantitative variables. Pearson’s correlation coefficient is a measure of the strength of the linear relationship between two such variables. Thus, it is worth to check and test this assumption. Based on visual assessment by histograms, all the variables show left skewed clearly. Skewness and kurtosis values were higher than zero. These indicated that the populations were not non-normal distribution \citet{Doane_2011_Measuring}. Visual inspection of the distribution may be used for assessing normality, although this approach is usually unreliable and does not guarantee that the distribution is normal\citep{Ghasemi_2012_Normality}. So normality tests were suggested such as Kolmogorov-Smirnov test, Shapiro-Wilk test. Some researchers recommend the Shapiro-Wilk test as the best choice for testing the normality of data\citep{Peat_2005_Guide}. Shapiro-Wilk test showed that these results were in accord with skewness and kurtosis values.
+An important criteria to select the suitable correlation measures is to check normality of the variables analysed because an vital assumption in Pearson’s contribution is the normality of the variables analysed, which could be true only for quantitative variables. Pearson’s correlation coefficient is a measure of the strength of the linear relationship between two such variables. Thus, it is worth to check and test this assumption. Based on visual assessment by histograms, all the variables show left skewed clearly. Skewness and kurtosis values were higher than zero. These indicated that the populations were not non-normal distribution  \citet{Doane_2011_Measuring}. Visual inspection of the distribution may be used for assessing normality, although this approach is usually unreliable and does not guarantee that the distribution is normal \citep{Ghasemi_2012_Normality}. So normality tests were suggested such as Kolmogorov-Smirnov test, Shapiro-Wilk test. Some researchers recommend the Shapiro-Wilk test as the best choice for testing the normality of data \citep{Peat_2005_Guide}. Shapiro-Wilk test showed that these results were in accord with skewness and kurtosis values.
 
 Evaluation of four correlation measures, including Pearson, Spearman, Kendall correlation, and Biweight mid-correlation by determining similarity of correlation coefficients from each methods. The results showed two groups clustered according to hierarchical clustering using Euclidean distance. The Spearman and Kendall correlation were grouped in rank-base methods, and another group is non-rank-based correlations including Pearson correlation and Biweight mid-correlation. From the previous result of testing normality of data, it suggested that the data did not meet the assumption of parametric correlation methods, such as Pearson' method. However, Pearson correlation coefficient is sensitive to outliers. Biweight midcorrelation is considered to be a good alternative to Pearson correlation since it is more robust to outliers\citep{Wilcox_2012_Introduction}. Among the four correlation methods, Spearman and Kendall are nonparametric rank-based methods. The rank-base methods are nonparametric (distribution-free) statistics,which uses ranks for correlation and therefore provides a robust measure of a monotonic relationship between two continuous random variables. For this reason, they are particularly suitable for identifying the injuries that increase or decline in monotonic trends in survey data collected during a biological process or developmental stage.
 
