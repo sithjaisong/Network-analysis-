@@ -9,5 +9,4 @@ table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto2/allhisto2.png
 figures/heatmap/heatmap.png
-table_spearman_cor.tex
 Chapter_4_Using.tex
