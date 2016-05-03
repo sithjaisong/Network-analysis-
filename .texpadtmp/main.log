@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  3 MAY 2016 17:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  3 MAY 2016 20:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1248,124 +1248,133 @@ Overfull \hbox (13.2265pt too wide) in paragraph at lines 67--68
 e injuries had 4 syndromes (groups).
  []
 
-File: figures/networkCP_ds.pdf Graphic file (type QTm)
-<use  "figures/networkCP_ds.pdf" >
-File: figures/nodepropCP_ds.pdf Graphic file (type QTm)
- <use  "figures/nodepropCP_ds.pdf" >
+File: figures/networkCP_ds/networkCP_ds.pdf Graphic file (type QTm)
+<use  "figures/networkCP_ds/networkCP_ds.pdf" >
+File: figures/nodepropCP_ds/nodepropCP_ds.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropCP_ds/nodepropCP_ds.pdf" >
 
 LaTeX Warning: Float too large for page by 50.05812pt on input line 83.
 
-File: figures/networkCP_ws.pdf Graphic file (type QTm)
-<use  "figures/networkCP_ws.pdf" >
-File: figures/nodepropCP_ws.pdf Graphic file (type QTm)
- <use  "figures/nodepropCP_ws.pdf" >
+File: figures/networkCP_ws/networkCP_ws.pdf Graphic file (type QTm)
+<use  "figures/networkCP_ws/networkCP_ws.pdf" >
+File: figures/nodepropCP_ws/nodepropCP_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropCP_ws/nodepropCP_ws.pdf" >
 
 LaTeX Warning: Float too large for page by 50.05812pt on input line 99.
 
 
 LaTeX Warning: Reference `table:nodepropOR_ds' on page 9 undefined on input lin
-e 116.
+e 103.
 
 [9] [10] [11]
 
 LaTeX Warning: Reference `fig:networkOR_ws' on page 12 undefined on input line 
-118.
+105.
 
 
 LaTeX Warning: Reference `table:nodepropOR_ws' on page 12 undefined on input li
-ne 118.
+ne 105.
 
-File: figures/networkOR_ds.pdf Graphic file (type QTm)
-<use  "figures/networkOR_ds.pdf" >
-File: figures/nodepropOR_ds.pdf Graphic file (type QTm)
- <use  "figures/nodepropOR_ds.pdf" >
+File: figures/networkOR_ds/networkOR_ds.pdf Graphic file (type QTm)
+<use  "figures/networkOR_ds/networkOR_ds.pdf" >
+File: figures/nodepropOR_ds/nodepropOR_ds.pdf Graphic file (type QTm)
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 134.
+<use  "figures/nodepropOR_ds/nodepropOR_ds.pdf" >
 
-File: figures/networkOR_ws.pdf Graphic file (type QTm)
-<use  "figures/networkOR_ws.pdf" >
-File: figures/nodepropOR_ws.pdf Graphic file (type QTm)
- <use  "figures/nodepropOR_ws.pdf" >
+LaTeX Warning: Float too large for page by 50.05812pt on input line 121.
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 150.
+File: figures/networkOR_ws/networkOR_ws.pdf Graphic file (type QTm)
+<use  "figures/networkOR_ws/networkOR_ws.pdf" >
+File: figures/nodepropOR_ws/nodepropOR_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropOR_ws/nodepropOR_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 137.
 
 
 LaTeX Warning: Reference `fig:networkRR_ds' on page 12 undefined on input line 
-155.
+142.
 
 
 LaTeX Warning: Reference `table:nodepropRR_ds' on page 12 undefined on input li
-ne 155.
+ne 142.
 
 
 LaTeX Warning: Reference `fig:networkRR_ws' on page 12 undefined on input line 
-157.
+144.
 
 
 LaTeX Warning: Reference `table:nodepropRR_ws' on page 12 undefined on input li
-ne 157.
+ne 144.
 
-File: figures/networkRR_ds.pdf Graphic file (type QTm)
-<use  "figures/networkRR_ds.pdf" >
-File: figures/nodepropRR_ds.pdf Graphic file (type QTm)
- <use  "figures/nodepropRR_ds.pdf" >
+File: figures/networkRR_ds/networkRR_ds.pdf Graphic file (type QTm)
+<use  "figures/networkRR_ds/networkRR_ds.pdf" >
+File: figures/nodepropRR_ds/nodepropRR_ds.pdf Graphic file (type QTm)
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 174.
+<use  "figures/nodepropRR_ds/nodepropRR_ds.pdf" >
 
-File: figures/networkRR_ws.pdf Graphic file (type QTm)
-<use  "figures/networkRR_ws.pdf" >
-File: figures/nodepropRR_ws.pdf Graphic file (type QTm)
- <use  "figures/nodepropRR_ws.pdf" >
+LaTeX Warning: Float too large for page by 50.05812pt on input line 161.
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 190.
+File: figures/networkRR_ws/networkRR_ws.pdf Graphic file (type QTm)
+<use  "figures/networkRR_ws/networkRR_ws.pdf" >
+File: figures/nodepropRR_ws/nodepropRR_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropRR_ws/nodepropRR_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 177.
 
 [12] [13] [14] [15] [16]
-File: figures/networkTM_ds.pdf Graphic file (type QTm)
- <use  "figures/networkTM_ds.pdf" >
-File: figures/nodepropTM_ds.pdf Graphic file (type QTm)
+File: figures/networkTM_ds/networkTM_ds.pdf Graphic file (type QTm)
+ <use  "figures/networkTM_ds/networkTM_ds.pdf" >
+File: figures/nodepropTM_ds/nodepropTM_ds.pdf Graphic file (type QTm)
 
-<use  "figures/nodepropTM_ds.pdf" >
+<use  "figures/nodepropTM_ds/nodepropTM_ds.pdf" >
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 214.
+LaTeX Warning: Float too large for page by 50.05812pt on input line 201.
 
-File: figures/networkTM_ws.pdf Graphic file (type QTm)
-<use  "figures/networkTM_ws.pdf" >
-File: figures/nodepropTM_ws.pdf Graphic file (type QTm)
- <use  "figures/nodepropTM_ws.pdf" >
+File: figures/networkTM_ws/networkTM_ws.pdf Graphic file (type QTm)
+<use  "figures/networkTM_ws/networkTM_ws.pdf" >
+File: figures/nodepropTM_ws/nodepropTM_ws.pdf Graphic file (type QTm)
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 230.
+<use  "figures/nodepropTM_ws/nodepropTM_ws.pdf" >
 
-File: figures/networkWJ_ds.pdf Graphic file (type QTm)
-<use  "figures/networkWJ_ds.pdf" >
-File: figures/nodepropWJ_ds.pdf Graphic file (type QTm)
- <use  "figures/nodepropWJ_ds.pdf" >
+LaTeX Warning: Float too large for page by 50.05812pt on input line 217.
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 252.
+File: figures/networkWJ_ds/networkWJ_ds.pdf Graphic file (type QTm)
+<use  "figures/networkWJ_ds/networkWJ_ds.pdf" >
+File: figures/nodepropWJ_ds/nodepropWJ_ds.pdf Graphic file (type QTm)
 
-File: figures/networkWJ_ws.pdf Graphic file (type QTm)
-<use  "figures/networkWJ_ws.pdf" >
-File: figures/nodepropWJ_ws.pdf Graphic file (type QTm)
- <use  "figures/nodepropWJ_ws.pdf" >
+<use  "figures/nodepropWJ_ds/nodepropWJ_ds.pdf" >
 
-LaTeX Warning: Float too large for page by 50.05812pt on input line 268.
+LaTeX Warning: Float too large for page by 50.05812pt on input line 239.
+
+File: figures/networkWJ_ws/networkWJ_ws.pdf Graphic file (type QTm)
+<use  "figures/networkWJ_ws/networkWJ_ws.pdf" >
+File: figures/nodepropWJ_ws/nodepropWJ_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropWJ_ws/nodepropWJ_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 255.
 
 [17] [18] [19] [20] [21] [22]
 
 Package natbib Warning: Citation `Liu_2014_Detecting' on page 23 undefined on i
-nput line 284.
+nput line 271.
 
 
 Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 23 undefined on
- input line 284.
+ input line 271.
 
 [23]
 
 Package natbib Warning: Citation `Liu_2014_Detecting' on page 24 undefined on i
-nput line 295.
+nput line 282.
 
 
 Package natbib Warning: Citation `Krishnaiah_2004_Rice' on page 24 undefined on
- input line 295.
+ input line 282.
 
 ) [24]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
@@ -1416,8 +1425,8 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 22608 strings out of 493706
- 458816 string characters out of 6145769
+ 22627 strings out of 493706
+ 459508 string characters out of 6145769
  507040 words of memory out of 5000000
  25475 multiletter control sequences out of 15000+600000
  8501 words of font info for 59 fonts, out of 8000000 for 9000
