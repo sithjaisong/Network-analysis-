@@ -22,3 +22,4 @@ figures/nodepropOR_ws/nodepropOR_ws.png
 figures/networkRR_ds/networkRR_ds.png
 figures/nodepropRR_ds/nodepropRR_ds.png
 figures/networkRR_ws/networkRR_ws.png
+figures/nodepropRR_ws/nodepropRR_ws.png
