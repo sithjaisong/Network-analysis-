@@ -30,3 +30,4 @@ figures/nodepropTM_ws/nodepropTM_ws.png
 figures/networkWJ_ds/networkWJ_ds.png
 figures/nodepropWJ_ds2/nodepropWJ_ds2.png
 figures/networkWJ_ws1/networkWJ_ws1.png
+figures/nodepropWJ_ws/nodepropWJ_ws.png
