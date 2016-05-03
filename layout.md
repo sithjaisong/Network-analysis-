@@ -13,3 +13,4 @@ Chapter_4_Using.tex
 table_network_prop.tex
 figures/networkCP_ds/networkCP_ds.png
 figures/nodepropCP_ds/nodepropCP_ds.png
+figures/networkCP_ws/networkCP_ws.png
