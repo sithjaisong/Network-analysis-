@@ -1,16 +1,16 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
-\contentsline {chapter}{\numberline {I}Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}{1}
+\contentsline {chapter}{\numberline {I}Using network analysis to examine co-occurrence patterns of animal pest injuries and diseases in farmers' fields in different production environments in South and South East Asia}{1}
 \contentsline {subsection}{Introduction}{1}
-\contentsline {subsection}{Materials and methods}{3}
+\contentsline {subsection}{Materials and methods}{4}
 \contentsline {subsubsection}{Network construction}{4}
-\contentsline {subsubsection}{Topological feature analysis}{4}
+\contentsline {subsubsection}{Topological feature analysis}{5}
 \contentsline {subsubsection}{Community detection}{6}
 \contentsline {subsection}{Result}{6}
 \contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{8}
 \contentsline {paragraph}{Central Plain, Thailand}{8}
-\contentsline {paragraph}{Odisha, India (OR)}{9}
-\contentsline {paragraph}{West Java, Indonesia (WJV)}{12}
-\contentsline {paragraph}{Central Luzon, Philippines (LAG)}{15}
-\contentsline {paragraph}{Red Rive Delta, Vietnam}{18}
-\contentsline {subsection}{Discussion}{21}
-\contentsline {subsection}{Conclusion}{26}
+\contentsline {paragraph}{Odisha, India}{9}
+\contentsline {paragraph}{Red River Delta, Vietnam}{12}
+\contentsline {paragraph}{Tamil Nadu, India}{12}
+\contentsline {paragraph}{West Java, Indonesia}{17}
+\contentsline {subsection}{Discussion}{17}
+\contentsline {subsection}{Conclusion}{24}
