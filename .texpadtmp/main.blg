@@ -3,47 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: ../apalike2.bst
 Database file #1: ../bibliography/biblio.bib
+Warning--I didn't find a database entry for "Fruchterman_1991_Graph"
 Warning--I didn't find a database entry for "Liu_2014_Detecting"
 Warning--I didn't find a database entry for "Krishnaiah_2004_Rice"
-You've used 16 entries,
+You've used 20 entries,
             1971 wiz_defined-function locations,
-            608 strings with 7861 characters,
-and the built_in function-call counts, 7548 in all, are:
-= -- 720
-> -- 436
-< -- 5
-+ -- 157
-- -- 156
-* -- 711
-:= -- 1350
-add.period$ -- 48
-call.type$ -- 16
-change.case$ -- 173
-chr.to.int$ -- 15
-cite$ -- 16
-duplicate$ -- 208
-empty$ -- 447
-format.name$ -- 178
-if$ -- 1411
+            637 strings with 8776 characters,
+and the built_in function-call counts, 9363 in all, are:
+= -- 902
+> -- 511
+< -- 7
++ -- 183
+- -- 182
+* -- 854
+:= -- 1654
+add.period$ -- 60
+call.type$ -- 20
+change.case$ -- 210
+chr.to.int$ -- 19
+cite$ -- 20
+duplicate$ -- 281
+empty$ -- 568
+format.name$ -- 204
+if$ -- 1778
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 15
-newline$ -- 83
-num.names$ -- 48
-pop$ -- 125
+missing$ -- 20
+newline$ -- 103
+num.names$ -- 60
+pop$ -- 156
 preamble$ -- 1
-purify$ -- 158
+purify$ -- 191
 quote$ -- 0
-skip$ -- 163
+skip$ -- 226
 stack$ -- 0
-substring$ -- 540
-swap$ -- 3
-text.length$ -- 0
+substring$ -- 671
+swap$ -- 23
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
+type$ -- 118
 warning$ -- 0
-while$ -- 58
+while$ -- 75
 width$ -- 0
-write$ -- 209
-(There were 2 warnings)
+write$ -- 262
+(There were 3 warnings)

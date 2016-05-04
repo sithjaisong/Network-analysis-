@@ -6,17 +6,18 @@ BARBER{\'A}N, ALBERT, BATES, T, S., CASAMAYOR, E.~O., {and} FIERER, N. 2012.
   microbial communities}.
 \newblock The ISME journal, 6(2):343--351.
 
+\bibitem[Borthagaray et~al., 2014]{Borthagaray_2014_Inferring}
+BORTHAGARAY, A.~I., ARIM, M., {and} MARQUET, P.~A. 2014.
+\newblock Inferring species roles in metacommunity structure from species
+  co-occurrence networks.
+\newblock Proceedings of the Royal Society of London B: Biological Sciences,
+  281(1792):20141425.
+
 \bibitem[Brandes et~al., 2008]{Brandes_2008_Modularity}
 BRANDES, U., DELLING, D., GAERTLER, M., G{\"O}RKE, R., HOEFER, M., NIKOLOSKI,
   Z., {and} WAGNER, D. 2008.
 \newblock {On modularity clustering}.
 \newblock Knowledge and Data Engineering, IEEE Transactions on, 20(2):172--188.
-
-\bibitem[Crowston {and} Howison, 2006]{Crowston_2006_Hierarchy}
-CROWSTON, K. {and} HOWISON, J. 2006.
-\newblock {Hierarchy and centralization in free and open source software team
-  communications}.
-\newblock Knowledge, Technology \&amp; Policy, 18(4):65--85.
 
 \bibitem[Csardi {and} Nepusz, 2006]{Csardi_2010_igraph}
 CSARDI, G. {and} NEPUSZ, T. 2006.
@@ -29,29 +30,51 @@ DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
   in the japonica rice zone of Yunnan China}.
 \newblock Crop Protection, 29(6):603--611.
 
-\bibitem[Faust et~al., 2012]{Faust_2012_Microbial_co}
-FAUST, K., SATHIRAPONGSASUTI, J.~F., IZARD, J., SEGATA, N., GEVERS, D., RAES,
-  J., {and} HUTTENHOWER, C. 2012.
-\newblock {Microbial co-occurrence relationships in the human microbiome}.
-\newblock PLoS Computational Biology, 8(7):e1002606--e1002606.
+\bibitem[Elazegui et~al., 1990]{Elazegui_1990_Methodology}
+ELAZEGUI, F., SORIANO, J., BANDONG, J., ESTORNINOS, L., JONSON, I., TENG, P.,
+  SHEPARD, B., LITSINGER, J., MOODY, K., {and} HIBINO, H. 1990.
+\newblock Methodology used in the irri integrated pest survey.
+\newblock Crop loss assessment in rice, pages 241--271.
 
-\bibitem[Fruchterman {and} Reingold, 1991]{Fruchterman_1991_Graph}
-FRUCHTERMAN, T.~M. {and} REINGOLD, E.~M. 1991.
-\newblock Graph drawing by force-directed placement.
-\newblock Software: Practice and experience, 21(11):1129--1164.
+\bibitem[{GRiSP}, 2013]{IRRI_2013_Rice}
+{GRiSP} 2013.
+\newblock {\em {\em {Rice almanac}}}.
+\newblock International Rice Research Institute (IRRI), 4 edition.
 
-\bibitem[Ma et~al., 2016]{Ma_2016_Geographic}
-MA, B., WANG, H., DSOUZA, M., LOU, J., HE, Y., DAI, Z., BROOKES, P.~C., XU, J.,
-  {and} GILBERT, J.~A. 2016.
-\newblock {Geographic patterns of co-occurrence network topological features
-  for soil microbiota at continental scale in eastern China}.
-\newblock The ISME Journal.
+\bibitem[Kasari et~al., 2011]{Kasari_2011_Social}
+KASARI, C., LOCKE, J., GULSRUD, A., {and} ROTHERAM-FULLER, E. 2011.
+\newblock {Social networks and friendships at school: comparing children with
+  and without {ASD}}.
+\newblock {Journal of Autism and Developmental Disorders}, 41(5):533--544.
+
+\bibitem[Lu et~al., 2013]{Lu_2013_Soil}
+LU, L., YIN, S., LIU, X., ZHANG, W., GU, T., SHEN, Q., {and} QIU, H. 2013.
+\newblock {Fungal networks in yield-invigorating and -debilitating soils
+  induced by prolonged potato monoculture}.
+\newblock Soil Biology and Biochemistry, 65:186--194.
+
+\bibitem[Newman, 2003]{Newman_2003_Structure}
+NEWMAN, M. E.~J. 2003.
+\newblock {The structure and function of complex networks}.
+\newblock {SIAM review}, 45(2):167--256.
 
 \bibitem[Newman, 2006]{Newman_2006_Modularity}
 NEWMAN, M. E.~J. 2006.
 \newblock {Modularity and community structure in networks}.
 \newblock {Proceedings of the National Academy of Sciences},
   103(23):8577--8582.
+
+\bibitem[Pinnschmidt et~al., 1995]{Pinnschmidt_1995_Characterization}
+PINNSCHMIDT, H., LONG, N.~D., VIET, T.~T., {and} LE~DINH~DON, T.~P. 1995.
+\newblock Characterization of pests, pest losses, and production patterns in
+  rainfed lowland rice of the mekong river delta.
+\newblock Vietnam and IRRI: a partnership in rice research.(Manila)
+  Philippines: International Rice Research Institute. p, pages 223--242.
+
+\bibitem[Proulx et~al., 2005]{Proulx_2005_Network}
+PROULX, S., PROMISLOW, D., {and} PHILLIPS, P. 2005.
+\newblock {Network thinking in ecology and evolution}.
+\newblock Trends in Ecology {\&} Evolution, 20(6):345--353.
 
 \bibitem[{R Core Team}, 2015]{R_2015}
 {R Core Team} 2015.
