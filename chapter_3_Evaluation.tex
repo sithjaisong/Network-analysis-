@@ -1,10 +1,10 @@
 \section{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
 
-\subsection*{Introduction}
+\subsection{Introduction}
 
 Rice is not threatened by one, but by many pests in a season. A combination of injuries caused by diseases and rice pests can be thought of as a crop health syndrome. The development a crop health syndrome depend on the production situation (\textit{i.e.}, the cultural practices, inputs used to produce a rice crop) as a range of agroecosystem \citep{Savary_2006_Quantification}.A characterization study based on survey data collected in South and South East Asia \citep{Savary_2000_Characterization} showed the patterns of crop health syndromes were common and different across sites. The study indicated that sheath blight, brown spot and leaf blast are the most important diseases and were commonly found in some sites, causing yield loss between 1 to 10%. Among insect injuries, stem borer caused yield losses of 2.3%. \citep{Savary_2000_Characterization} characterized patterns of injury profiles into five groups. For example, injury profile group1 (IN1) was characterized by comparatively high incidence of stem rot, sheath blight, plant hopper, and whorl maggot injuries, but low brown spot, and absence of bacterial leaf blight, leaf blast, and neck blast Asia.Networks are ubiquitous systems in nature, technology and society (Newman, 2003). A network is defined as one or more sets of nodes connected by links in various ways. A node can represent the individual units depending on the context. Links or edges are the connections between nodes, which may be directed or undirected. Network models are now becoming increasingly interesting and useful in social science, biology, and ecology. The network applications  are also relevant in plant pathology were also increasingly studied \citep{Moslonka_Lefebvre_2011}. And more citation.Network analysis is a promising tool frequently used to describe the pairwise relationships of a large number of variables. For example, association networks or correlation networks were represented by their association or correlation (adjacency) matrices, which rows and columns denote nodes, and matrix entries denote links. They were widely applied in biological studies \citep{Toubiana_2013_Net, Barabasi_2004_Network}Selecting the most suitable correlation methods for correlation network construction is important since different correlation measures lead to different network structure and provide different information. In this chapter, four correlation methods, including Pearson, Spearman rank correlation, Kendall correlation \citep{Prokhorov_2001_Kendall} and Biweight mid-correlation, to associate rice injuries. \todo{Search for the citation of correlation.} 
 
-\subsection*{Materials and methods}
+\subsection{Materials and methods}
 
 The method for evaluating and selecting correlation methods to construct correlation network of rice injuries in crop health survey data was showed in Fig. Finally, correlation metrics were used for the network analysis in next chapter.
 
@@ -41,7 +41,7 @@ In this study, correlation measures including, Pearson, Spearman, Kendal and Biw
 \begin{itemize}
 \item \textbf{Testing} whether or not the data are normally distributed by visual assessments and statistical tests. The distribution of values of rice injuries in crop health survey data was examined and tested the hypothesis hypothesis that the sample comes from a population which has a normal distribution by performed Shapiro-Wilk test.\item \textbf{Comparing} correlation measures by testing similarity of correlation coefficients. I evaluated the similarity of correlation coefficients of different correlation measures by using the Euclidean distance, and perform clustering analysis.\item \textbf{Identifying} the most suitable correlation measure that can capture biological relationships between variables confirm with the published relationships.\end{itemize}
 
-\subsection*{Result}
+\subsection{Result}
 
 \textbf{Checking and testing the distribution of crop health survey data}
 
@@ -50,7 +50,7 @@ To determine normality of the survey data, I presented the histograms (Fig \ref{
 \begin{landscape}
 \begin{figure}[!h]
 \centering
-\includegraphics[width = 1\textwidth]{figures/allhisto2/allhisto2.png}
+\includegraphics[height = 1\textheight]{figures/allhisto2/allhisto2.png}
 \caption{Histograms showing the distribution of rice injury values in crop health survey data. BB:Bug burn, BLB:Bacterial leaf blight, BLS: Bacterial leaf streak, BS:Brown spot, DH:Deadheart, DP: Dirty panicle, FS:False smut, GS:Gressy stunt, HB:Hopper burn, LB: Leaf blast, LF: Leaffolder injury, LM: Leaf miner injury, LS: :Leaf scald, NB:Neck blast, NBS:Nerrow brown spot, PM: Panicle mite injury, RB: Rice bug injuries, RGS:Ragged stunt, RH:Rice hispa injury, RS: Red stripe, RT:Rat damage, RTG: Tungro, RTH:Rice thrip injury, SHB:Sheath blight, SHR:Sheath rot, SNL:Snail damage, SR:Stem rot, SS:Silver shoot, WH:White head, WM:Whorl maggot injury.}
 \label{fig:allhisto}
 \end{figure}
@@ -58,7 +58,7 @@ To determine normality of the survey data, I presented the histograms (Fig \ref{
 
 \input{table_summary_injuries.tex}
 
-The summary statistics, and the result of Shapiro-Wick test of each injury were calculated and summarized in Table \ref{table:summary_injuries}.  As can be seen, from the previous observations that rice injuries histograms tend to be positively skewed, the median values of injuries were considered due to their insensitivity to outliers. Median of injuries were almost 0, except LF. According to \citet{Doane_2011_Measuring}, skewness and kurtosis values were more than 0, which mean that the values of injuries were asymmetrically distributed with a long tail to the right. The normality is defined as $p$ value 0.01 in Shapiro-Wilk testing. That test indicates that values of injuries were not normally distributed.
+The summary statistics, and the result of Shapiro-Wick test of each injury were calculated and summarized in Table \ref{table:summary_injuries}. As can be seen, from the previous observations that rice injuries histograms tend to be positively skewed, the median values of injuries were considered due to their insensitivity to outliers. Median of injuries were almost 0, except LF. According to \citet{Doane_2011_Measuring}, skewness and kurtosis values were more than 0, which mean that the values of injuries were asymmetrically distributed with a long tail to the right. The normality is defined as $p$ value 0.01 in Shapiro-Wilk testing. That test indicates that values of injuries were not normally distributed.
 
 \textbf{Comparing correlation coefficients of rice injuries from four correlation methods }
 
@@ -71,12 +71,12 @@ I performed pair-wise analysis between each of injuries using all four correlati
 \end{figure}
 
 \textbf{Identify the most suitable correlation measure}
-% not clear give more explaination
-% show the examples that Spearmen show better than Kendall
 
-Although examination of correlation coefficients from correlation methods, it was also interested in learning the efficiency of each method if the output of each method were cut off by a threshold $p$-value. Since the resultant $p$-values from different methods can be different, I obtain the a higher number of significant injury pairs and a small number of significant injury pairs when implementing the same cut-off $p$-value threshold (e.g. $p$-value, 0.05) on different methods, making it difficult to compare the efficiency of different methods (see Table \ref{table:allhisto}). Outputs for each method was sorted by $p$-values in ascending order and cut off at $p$-value < 0.05.  Spearman method could capture 182 pairwise relationships, following with Biweight-mid correlation Pearson method captures and Kendall with respectively, which could captured 120, 126, and 86 significant pairwise relationships. In a series of different cut-off $p$-values, it was generally high number of injury pairs resulting from Spearman appeared to be higher than Biweight, Pearson, and Kendall.
+Although examination of correlation coefficients from correlation methods, it was also interested in learning the efficiency of each method if the output of each method were cut off by a threshold $p$-value. Since the resultant $p$-values from different methods can be different, I obtain the a higher number of significant injury pairs and a small number of significant injury pairs when implementing the same cut-off $p$-value threshold (e.g. $p$-value, 0.05) on different methods, making it difficult to compare the efficiency of different methods (see Table \ref{table:injurypairs_percent}). Outputs for each method was sorted by $p$-values in ascending order and cut off at $p$-value < 0.05.  Spearman method could capture 182 pairwise relationships, following with Biweight-mid correlation Pearson method captures and Kendall with respectively, which could captured 120, 126, and 86 significant pairwise relationships. In a series of different cut-off $p$-values, it was generally high number of injury pairs resulting from Spearman appeared to be higher than Biweight, Pearson, and Kendall.
 
-According to the previous results, the group of parametric correlation measures was selected out because these measures required the data normally distributed. So I would consider the correlation measures in the group of rank based methods that do not required normality. Compared between Spearman and Kendall correlation, the pair-wise relationships of rice injuries were captured differently. One of many relationships captured by Spearman correlation method,but not by Kendall methods is dirty panicle – brown spot relationship (Table). This relationship has been reported in many studies \citep{Ou_1985_Rice, Barnwal_2013_Review}.
+\input{table_injurypair_percent.tex}
+
+According to the previous results, the group of parametric correlation measures was selected out because these measures required the data normally distributed. So I would consider the correlation measures in the group of rank based methods that do not required normality. Compared between Spearman and Kendall correlation, the pair-wise relationships of rice injuries were captured differently. One of many relationships captured by Spearman correlation method,but not by Kendall methods is the relationship between dirty panicle and brown spot (Table). This relationship has been reported in many studies \citep{Ou_1985_Rice, Barnwal_2013_Review}.
 
 \subsection{Discussion}
 
@@ -91,4 +91,4 @@ Although we can opt for a method based on its principle of statistical operation
 
 The analyses I have performed clearly demonstrate the distinct and common performance of four correlation methods. Pearson has been widely used in correlation analyses \citep{Zhang_2005_General}. However, Pearson correlation is limited to be suitable to normally distributed data, and is only able to capture the linear relationships. Biweight mid-correlation is more robust to  take outlier  into account compared to Pearson method, but this is not seem relevant for this survey data, as the outputs between the two methods were not different (in same cluster). The Spearman and Kendall method performed ?? and can capture many relationships in this survey data. Chosen between these methods, Spearman could capture and identify biologically or functionally associated injuries.
 
-The Pearson and Distance Covariance methods are distinct and generally are less valuable for identifying biologically or functionally associated genes. Unfortunately, the efficiency of different methods indeed varies with the biological processes.
+%The Pearson and Distance Covariance methods are distinct and generally are less valuable for identifying biologically or functionally associated genes. Unfortunately, the efficiency of different methods indeed varies with the biological processes.
