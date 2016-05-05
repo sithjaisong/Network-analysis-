@@ -9,7 +9,7 @@ table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto2/allhisto2.png
 figures/heatmap/heatmap.png
-table_genepair_percent.tex
+table_injurypair_percent.tex
 Chapter_4_Using.tex
 table_production_season.tex
 table_network_prop.tex
