@@ -28,3 +28,4 @@ figures/networkCP_ds/networkCP_ds.png
 figures/networkCP_ws/networkCP_ws.png
 figures/networkOR_ds/networkOR_ds.png
 figures/networkOR_ws/networkOR_ws.png
+figures/networkRR_ds/networkRR_ds.png
