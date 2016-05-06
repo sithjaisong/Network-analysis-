@@ -19,7 +19,6 @@ figures/nodepropOR_ds/nodepropOR_ds.png
 figures/nodepropOR_ws/nodepropOR_ws.png
 figures/nodepropRR_ds/nodepropRR_ds.png
 figures/nodepropRR_ws/nodepropRR_ws.png
-figures/networkTM_ds/networkTM_ds.png
 figures/nodepropTM_ds/nodepropTM_ds.png
 figures/networkTM_ws/networkTM_ws.png
 figures/nodepropTM_ws/nodepropTM_ws.png
