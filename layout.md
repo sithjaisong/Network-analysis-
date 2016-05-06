@@ -27,3 +27,4 @@ figures/nodepropWJ_ws/nodepropWJ_ws.png
 figures/networkCP_ds/networkCP_ds.png
 figures/networkCP_ws/networkCP_ws.png
 figures/networkOR_ds/networkOR_ds.png
+figures/networkOR_ws/networkOR_ws.png
