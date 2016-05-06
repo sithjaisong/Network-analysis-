@@ -33,3 +33,4 @@ figures/networkRR_ws/networkRR_ws.png
 figures/networkTM_ds/networkTM_ds.png
 figures/networkTM_ws/networkTM_ws.png
 figures/networkWJ_ds/networkWJ_ds.png
+figures/networkWJ_ws/networkWJ_ws.png
