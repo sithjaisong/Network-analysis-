@@ -21,7 +21,6 @@ figures/nodepropRR_ds/nodepropRR_ds.png
 figures/nodepropRR_ws/nodepropRR_ws.png
 figures/nodepropTM_ds/nodepropTM_ds.png
 figures/nodepropTM_ws/nodepropTM_ws.png
-figures/networkWJ_ds/networkWJ_ds.png
 figures/nodepropWJ_ds2/nodepropWJ_ds2.png
 figures/networkWJ_ws1/networkWJ_ws1.png
 figures/nodepropWJ_ws/nodepropWJ_ws.png
