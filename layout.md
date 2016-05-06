@@ -15,7 +15,6 @@ table_production_season.tex
 table_network_prop.tex
 figures/nodepropCP_ds/nodepropCP_ds.png
 figures/nodepropCP_ws/nodepropCP_ws.png
-figures/networkOR_ds/networkOR_ds.png
 figures/nodepropOR_ds/nodepropOR_ds.png
 figures/networkOR_ws/networkOR_ws.png
 figures/nodepropOR_ws/nodepropOR_ws.png
