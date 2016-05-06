@@ -30,3 +30,4 @@ figures/networkOR_ds/networkOR_ds.png
 figures/networkOR_ws/networkOR_ws.png
 figures/networkRR_ds/networkRR_ds.png
 figures/networkRR_ws/networkRR_ws.png
+figures/networkTM_ds/networkTM_ds.png
