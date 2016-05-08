@@ -1,22 +1,10 @@
 \begin{thebibliography}{}
 
-\bibitem[Barab{\'a}si {and} Oltvai, 2004]{Barabasi_2004_Network}
-BARAB{\'A}SI, A.-L. {and} OLTVAI, Z.~N. 2004.
-\newblock {Network biology: understanding the cell's functional organization}.
-\newblock Nature Reviews Genetics, 5(2):101--113.
-
 \bibitem[Barber{\'a}n et~al., 2012]{Barberan_2012_Network}
 BARBER{\'A}N, ALBERT, BATES, T, S., CASAMAYOR, E.~O., {and} FIERER, N. 2012.
 \newblock {Using network analysis to explore co-occurrence patterns in soil
   microbial communities}.
 \newblock The ISME journal, 6(2):343--351.
-
-\bibitem[Barnwal et~al., 2013]{Barnwal_2013_Review}
-BARNWAL, M., KOTASTHANE, A., MAGCULIA, N., MUKHERJEE, P., SAVARY, S., SHARMA,
-  A., SINGH, H., SINGH, U., SPARKS, A., VARIAR, M., ET~AL. 2013.
-\newblock A review on crop losses, epidemiology and disease management of rice
-  brown spot to identify research priorities and knowledge gaps.
-\newblock European Journal of Plant Pathology, 136(3):443--457.
 
 \bibitem[Barrat et~al., 2004]{Barrat_2004_Architecture}
 BARRAT, A., BARTHELEMY, M., PASTOR-SATORRAS, R., {and} VESPIGNANI, A. 2004.
@@ -37,20 +25,10 @@ BRANDES, U., DELLING, D., GAERTLER, M., G{\"O}RKE, R., HOEFER, M., NIKOLOSKI,
 \newblock {On modularity clustering}.
 \newblock Knowledge and Data Engineering, IEEE Transactions on, 20(2):172--188.
 
-\bibitem[Campbell et~al., 1990]{Campbell_1990_Introduction}
-CAMPBELL, C.~L., MADDEN, L.~V., ET~AL. 1990.
-\newblock {\em {\em {Introduction to plant disease epidemiology.}}}
-\newblock John Wiley \& Sons.
-
 \bibitem[Csardi {and} Nepusz, 2006]{Csardi_2010_igraph}
 CSARDI, G. {and} NEPUSZ, T. 2006.
 \newblock {The igraph software package for complex network research}.
 \newblock InterJournal, Complex Systems:1695.
-
-\bibitem[Doane {and} Seward, 2011]{Doane_2011_Measuring}
-DOANE, D.~P. {and} SEWARD, L.~E. 2011.
-\newblock Measuring skewness: a forgotten statistic.
-\newblock Journal of Statistics Education, 19(2):1--18.
 
 \bibitem[Dong et~al., 2010]{Dong_2010_Characterization}
 DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
@@ -62,13 +40,6 @@ DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
 FRUCHTERMAN, T.~M. {and} REINGOLD, E.~M. 1991.
 \newblock Graph drawing by force-directed placement.
 \newblock Software: Practice and experience, 21(11):1129--1164.
-
-\bibitem[Ghasemi et~al., 2012]{Ghasemi_2012_Normality}
-GHASEMI, A., ZAHEDIASL, S., ET~AL. 2012.
-\newblock Normality tests for statistical analysis: a guide for
-  non-statisticians.
-\newblock International journal of endocrinology and metabolism,
-  10(2):486--489.
 
 \bibitem[{GRiSP}, 2013]{IRRI_2013_Rice}
 {GRiSP} 2013.
@@ -88,13 +59,6 @@ KRISHNAIAH, K., BENNETT, J., BENTUR, J., PASALU, I., ET~AL. 2004.
   the International Workshop, Hyderabad, India, 22-24 November, 1998., pages
   1--5. International Rice Research Institute (IRRI).
 
-\bibitem[Kumari et~al., 2012]{Kumari_2012_Evaluation}
-KUMARI, S., NIE, J., CHEN, H.-S., MA, H., STEWART, RON, L., XIANG, LU, M.-Z.,
-  TAYLOR, W.~M., {and} WEI, H. 2012.
-\newblock {Evaluation of gene association methods for coexpression Network
-  construction and biological knowledge discovery}.
-\newblock PLoS ONE, 7(11).
-
 \bibitem[Liu et~al., 2014]{Liu_2014_Detecting}
 LIU, W., PELLEGRINI, M., {and} WANG, X. 2014.
 \newblock Detecting communities based on network topology.
@@ -105,13 +69,6 @@ LU, L., YIN, S., LIU, X., ZHANG, W., GU, T., SHEN, Q., {and} QIU, H. 2013.
 \newblock {Fungal networks in yield-invigorating and -debilitating soils
   induced by prolonged potato monoculture}.
 \newblock Soil Biology and Biochemistry, 65:186--194.
-
-\bibitem[Moslonka-Lefebvre et~al., 2011]{Moslonka_Lefebvre_2011}
-MOSLONKA-LEFEBVRE, M., FINLEY, A., DORIGATTI, I., DEHNEN-SCHMUTZ, K., HARWOOD,
-  T., JEGER, M.~J., XU, X., HOLDENRIEDER, O., {and} PAUTASSO, M. 2011.
-\newblock {Networks in Plant Epidemiology: From Genes to Landscapes Countries,
-  and Continents}.
-\newblock Phytopathology, 101(4):392--403.
 
 \bibitem[Newman, 2010]{Newman_2010_Networks}
 NEWMAN, M. 2010.
@@ -129,20 +86,11 @@ NEWMAN, M. E.~J. 2006.
 \newblock {Proceedings of the National Academy of Sciences},
   103(23):8577--8582.
 
-\bibitem[Ou, 1985]{Ou_1985_Rice}
-OU, S.~H. 1985.
-\newblock {\em {\em {Rice diseases}}}.
-\newblock International Rice Research Institute (IRRI).
-
-\bibitem[Peat {and} Barton, 2005]{Peat_2005_Guide}
-PEAT, J. {and} BARTON, B. 2005.
-\newblock {\em {\em A guide to data analysis and critical appraisal}}.
-\newblock Wiley Online Library.
-
-\bibitem[Prokhorov, 2001]{Prokhorov_2001_Kendall}
-PROKHOROV, A. 2001.
-\newblock Kendall coefficient of rank correlation.
-\newblock Online Encyclopedia of Mathematics.
+\bibitem[Opsahl et~al., 2010]{Opsahl_2010_Node}
+OPSAHL, T., AGNEESSENS, F., {and} SKVORETZ, J. 2010.
+\newblock Node centrality in weighted networks: Generalizing degree and
+  shortest paths.
+\newblock Social Networks, 32(3):245--251.
 
 \bibitem[Proulx et~al., 2005]{Proulx_2005_Network}
 PROULX, S., PROMISLOW, D., {and} PHILLIPS, P. 2005.
@@ -163,11 +111,6 @@ REDDY, C., LAHA, G., PRASAD, M., KRISHNAVENI, D., CASTILLA, N., NELSON, A.,
   India}.
 \newblock Field Crops Research, 120(2):241--253.
 
-\bibitem[Savary {and} Castilla, 2009]{Savary_2009_Survey}
-SAVARY, S. {and} CASTILLA, N. 2009.
-\newblock {A survey portfolio to characterize yield-reducing factors in rice}.
-\newblock {IRRI Discussion Paper No 18}.
-
 \bibitem[Savary et~al., 2006]{Savary_2006_Quantification}
 SAVARY, S., TENG, P.~S., WILLOCQUET, L., {and} NUTTER, F.~W. 2006.
 \newblock {Quantification and Modeling of Crop Losses: A Review of Purposes}.
@@ -187,16 +130,6 @@ SAVARY, S., WILLOCQUET, L., ELAZEGUI, F.~A., TENG, P.~S., DU, P.~V., ZHU, D.,
   Profiles in Relation to Production Situations}.
 \newblock Plant Disease, 84(3):341--356.
 
-\bibitem[Toubiana et~al., 2013]{Toubiana_2013_Net}
-TOUBIANA, D., FERNIE, A.~R., NIKOLOSKI, Z., {and} FAIT, A. 2013.
-\newblock {Network analysis: tackling complex data to study plant metabolism.}
-\newblock Trends in Biotechnology, 31(1):29--36.
-
-\bibitem[Wilcox, 2012]{Wilcox_2012_Introduction}
-WILCOX, R.~R. 2012.
-\newblock {\em {\em Introduction to robust estimation and hypothesis testing}}.
-\newblock Academic Press.
-
 \bibitem[Williams et~al., 2014]{Williams_2014_demonstrating}
 WILLIAMS, R.~J., HOWE, A.~C., {and} HOFMOCKEL, K.~S. 2014.
 \newblock {Demonstrating microbial co-occurrence pattern analyses within and
@@ -209,11 +142,5 @@ WILLOCQUET, L., AUBERTOT, J., LEBARD, S., ROBERT, C., LANNOU, C., {and} SAVARY,
 \newblock {Simulating multiple pest damage in varying winter wheat production
   situations}.
 \newblock Field Crops Research, 107(1):12--28.
-
-\bibitem[Zhang {and} Horvath, 2005]{Zhang_2005_General}
-ZHANG, B. {and} HORVATH, S. 2005.
-\newblock {A general framework for weighted gene co-expression network
-  analysis}.
-\newblock Statistical Applications in Genetics and Molecular Biology, 4(1).
 
 \end{thebibliography}

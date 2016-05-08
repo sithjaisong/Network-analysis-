@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: ../apalike2.bst
 Database file #1: ../bibliography/biblio.bib
-You've used 37 entries,
+You've used 24 entries,
             1971 wiz_defined-function locations,
-            738 strings with 11876 characters,
-and the built_in function-call counts, 15722 in all, are:
-= -- 1501
-> -- 828
-< -- 16
-+ -- 297
-- -- 290
-* -- 1406
-:= -- 2818
-add.period$ -- 112
-call.type$ -- 37
-change.case$ -- 357
-chr.to.int$ -- 36
-cite$ -- 37
-duplicate$ -- 498
-empty$ -- 983
-format.name$ -- 341
-if$ -- 2969
+            660 strings with 9184 characters,
+and the built_in function-call counts, 10555 in all, are:
+= -- 1021
+> -- 542
+< -- 8
++ -- 193
+- -- 190
+* -- 957
+:= -- 1877
+add.period$ -- 73
+call.type$ -- 24
+change.case$ -- 236
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 325
+empty$ -- 669
+format.name$ -- 218
+if$ -- 2000
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 42
-newline$ -- 188
-num.names$ -- 111
-pop$ -- 277
+missing$ -- 25
+newline$ -- 123
+num.names$ -- 72
+pop$ -- 175
 preamble$ -- 1
-purify$ -- 326
+purify$ -- 214
 quote$ -- 0
-skip$ -- 389
+skip$ -- 250
 stack$ -- 0
-substring$ -- 1030
-swap$ -- 20
+substring$ -- 760
+swap$ -- 12
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 210
+type$ -- 140
 warning$ -- 0
-while$ -- 122
+while$ -- 86
 width$ -- 0
-write$ -- 477
+write$ -- 314
