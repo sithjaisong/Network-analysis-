@@ -13,6 +13,7 @@ table_injurypair_percent.tex
 Chapter_4_Using.tex
 table_production_season.tex
 table_network_prop.tex
+figures/boxplot1/boxplot1.png
 figures/nodepropCP_ds/nodepropCP_ds.png
 figures/nodepropCP_ws/nodepropCP_ws.png
 figures/nodepropOR_ds/nodepropOR_ds.png
