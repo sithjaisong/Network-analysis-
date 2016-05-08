@@ -2,15 +2,16 @@
 \contentsline {chapter}{\numberline {I}Using network analysis to examine co-occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{1}
 \contentsline {subsection}{Introduction}{1}
 \contentsline {subsection}{Materials and methods}{3}
-\contentsline {subsubsection}{Network construction}{3}
+\contentsline {subsubsection}{Crop health survey data}{3}
+\contentsline {subsubsection}{Network construction}{4}
 \contentsline {subsubsection}{Topological feature analysis}{5}
 \contentsline {subsubsection}{Community detection}{6}
 \contentsline {subsection}{Result}{6}
-\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{8}
-\contentsline {paragraph}{Central Plain, Thailand}{8}
-\contentsline {paragraph}{Odisha, India}{10}
-\contentsline {paragraph}{Red River Delta, Vietnam}{10}
-\contentsline {paragraph}{Tamil Nadu, India}{15}
-\contentsline {paragraph}{West Java, Indonesia}{15}
-\contentsline {subsection}{Discussion}{20}
-\contentsline {subsection}{Conclusion}{25}
+\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{11}
+\contentsline {paragraph}{Central Plain, Thailand}{12}
+\contentsline {paragraph}{Odisha, India}{12}
+\contentsline {paragraph}{Red River Delta, Vietnam}{15}
+\contentsline {paragraph}{Tamil Nadu, India}{20}
+\contentsline {paragraph}{West Java, Indonesia}{20}
+\contentsline {subsection}{Discussion}{23}
+\contentsline {subsection}{Conclusion}{28}
