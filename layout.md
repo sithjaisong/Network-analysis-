@@ -1,6 +1,7 @@
 Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
 chapter_3_Evaluation.tex
+figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
 table_survey_data.tex
 table_variable_desc.tex
