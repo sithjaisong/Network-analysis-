@@ -46,3 +46,4 @@ figures/difyieldOD/difyieldOD.png
 figures/yield_dif_nodepropRed_River_Delta/yield_dif_nodepropRed_River_Delta.png
 figures/difyieldRR/difyieldRR.png
 figures/difyieldTM/difyieldTM.png
+figures/difyieldWJ/difyieldWJ.png
