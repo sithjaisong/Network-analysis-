@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Avelino et~al., 2006]{Avelino_2006_Intensity}
+AVELINO, J., ZELAYA, H., MERLO, A., PINEDA, A., ORDO{\~N}EZ, M., {and} SAVARY,
+  S. 2006.
+\newblock {The intensity of a coffee rust epidemic is dependent on production
+  situations}.
+\newblock Ecological Modelling, 197(3-4):431--447.
+
 \bibitem[Barber{\'a}n et~al., 2012]{Barberan_2012_Network}
 BARBER{\'A}N, ALBERT, BATES, T, S., CASAMAYOR, E.~O., {and} FIERER, N. 2012.
 \newblock {Using network analysis to explore co-occurrence patterns in soil
@@ -52,13 +59,6 @@ KASARI, C., LOCKE, J., GULSRUD, A., {and} ROTHERAM-FULLER, E. 2011.
   and without {ASD}}.
 \newblock {Journal of Autism and Developmental Disorders}, 41(5):533--544.
 
-\bibitem[Krishnaiah et~al., 2004]{Krishnaiah_2004_Rice}
-KRISHNAIAH, K., BENNETT, J., BENTUR, J., PASALU, I., ET~AL. 2004.
-\newblock Rice gall midge, orseolia oryzae-an overview.
-\newblock In New approaches to gall midge resistance in rice, Proceedings of
-  the International Workshop, Hyderabad, India, 22-24 November, 1998., pages
-  1--5. International Rice Research Institute (IRRI).
-
 \bibitem[Liu et~al., 2014]{Liu_2014_Detecting}
 LIU, W., PELLEGRINI, M., {and} WANG, X. 2014.
 \newblock Detecting communities based on network topology.
@@ -69,6 +69,11 @@ LU, L., YIN, S., LIU, X., ZHANG, W., GU, T., SHEN, Q., {and} QIU, H. 2013.
 \newblock {Fungal networks in yield-invigorating and -debilitating soils
   induced by prolonged potato monoculture}.
 \newblock Soil Biology and Biochemistry, 65:186--194.
+
+\bibitem[Mew et~al., 2004]{Mew_2004_Looking}
+MEW, T.~W., LEUNG, H., SAVARY, S., VERA~CRUZ, C.~M., {and} LEACH, J.~E. 2004.
+\newblock {Looking ahead in rice disease research and management}.
+\newblock Critical Reviews in Plant Sciences, 23(2):103--127.
 
 \bibitem[Newman, 2010]{Newman_2010_Networks}
 NEWMAN, M. 2010.
@@ -111,6 +116,11 @@ REDDY, C., LAHA, G., PRASAD, M., KRISHNAVENI, D., CASTILLA, N., NELSON, A.,
   India}.
 \newblock Field Crops Research, 120(2):241--253.
 
+\bibitem[Savary et~al., 2012]{Savary_2012_Review}
+SAVARY, S., HORGAN, F., WILLOCQUET, L., {and} HEONG, K.~L. 2012.
+\newblock {A review of principles for sustainable pest management in rice}.
+\newblock Crop Protection, 32:54--63.
+
 \bibitem[Savary et~al., 2006]{Savary_2006_Quantification}
 SAVARY, S., TENG, P.~S., WILLOCQUET, L., {and} NUTTER, F.~W. 2006.
 \newblock {Quantification and Modeling of Crop Losses: A Review of Purposes}.
@@ -142,5 +152,10 @@ WILLOCQUET, L., AUBERTOT, J., LEBARD, S., ROBERT, C., LANNOU, C., {and} SAVARY,
 \newblock {Simulating multiple pest damage in varying winter wheat production
   situations}.
 \newblock Field Crops Research, 107(1):12--28.
+
+\bibitem[Wright et~al., 2012]{Wright_2012_Microbial}
+WRIGHT, J.~J., KONWAR, K.~M., {and} HALLAM, S.~J. 2012.
+\newblock Microbial ecology of expanding oxygen minimum zones.
+\newblock Nature Reviews Microbiology, 10(6):381--394.
 
 \end{thebibliography}

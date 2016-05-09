@@ -1,13 +1,12 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
 \contentsline {chapter}{\numberline {I}Using network analysis to examine co-occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{1}
-\contentsline {section}{\numberline {I.1}Materials and methods}{3}
+\contentsline {subsection}{Introduction}{1}
+\contentsline {subsection}{Materials and methods}{3}
 \contentsline {subsubsection}{Crop health survey data}{3}
 \contentsline {subsubsection}{Network construction}{4}
 \contentsline {subsubsection}{Topological feature analysis}{5}
 \contentsline {subsubsection}{Community detection}{6}
-\contentsline {subsubsection}{Communities, Structures and compositions of co-occurrence network of rice pest injuries}{12}
-\contentsline {paragraph}{Central Plain, Thailand}{13}
-\contentsline {paragraph}{Odisha, India}{13}
-\contentsline {paragraph}{Red River Delta, Vietnam}{16}
-\contentsline {paragraph}{West Java, Indonesia}{21}
-\contentsline {section}{\numberline {I.2}Discussion}{27}
+\contentsline {subsection}{Result}{7}
+\contentsline {subsubsection}{Structures, compositions, and communities of co-occurrence network of rice pest injuries}{12}
+\contentsline {subsection}{Discussion}{24}
+\contentsline {subsection}{Conclusion}{29}
