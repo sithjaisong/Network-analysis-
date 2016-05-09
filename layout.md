@@ -52,3 +52,4 @@ figures/difyieldWJ/difyieldWJ.png
 figures/yield_dif_nodepropWest_Java/yield_dif_nodepropWest_Java.png
 figures/CP.yield.box/CP.yield.box.png
 figures/OD.yield.box/OD.yield.box.png
+figures/RR.yield.box/RR.yield.box.png
