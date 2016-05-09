@@ -27,7 +27,7 @@ figures/networkOR_ws/networkOR_ws.png
 figures/networkRR_ds/networkRR_ds.png
 figures/networkRR_ws/networkRR_ws.png
 figures/networkTM_ds/networkTM_ds.png
+figures/networkWJ_ds/networkWJ_ds.png
 figures/networkTM_ws/networkTM_ws.png
 Chapter_5_Differential.tex
-figures/networkWJ_ds/networkWJ_ds.png
 figures/networkWJ_ws/networkWJ_ws.png
