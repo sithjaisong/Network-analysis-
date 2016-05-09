@@ -34,3 +34,4 @@ figures/networkWJ_ws/networkWJ_ws.png
 figures/networkTM_ws/networkTM_ws.png
 Chapter_5_Differential.tex
 figures/pipeline3/pipeline3.png
+figures/pipeline4/pipeline4.png
