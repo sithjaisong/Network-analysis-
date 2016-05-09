@@ -10,6 +10,7 @@ figures/heatmap/heatmap.png
 table_injurypair_percent.tex
 Chapter_4_Using.tex
 table_production_season.tex
+figures/barplot1/barplot1.png
 figures/nodepropCP_ds/nodepropCP_ds.png
 figures/nodepropCP_ws/nodepropCP_ws.png
 figures/nodepropOR_ds/nodepropOR_ds.png
