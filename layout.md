@@ -43,3 +43,4 @@ figures/difseasonWJ/difseasonWJ.png
 figures/difyieldCP/difyieldCP.png
 figures/yield_dif_nodepropCentral_Plain/yield_dif_nodepropCentral_Plain.png
 figures/difyieldOD/difyieldOD.png
+figures/yield_dif_nodepropRed_River_Delta/yield_dif_nodepropRed_River_Delta.png
