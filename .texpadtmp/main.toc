@@ -1,5 +1,8 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
 \contentsline {chapter}{\numberline {I}Differential networks reveal the dynamics of animal pests and disease co-occurrences}{1}
 \contentsline {subsection}{Introduction}{1}
-\contentsline {subsection}{Materials and Methods}{4}
+\contentsline {subsection}{Materials and Methods}{3}
 \contentsline {section}{\numberline {I.1}Results}{6}
+\contentsline {subsection}{Construction of differential co-occurrence networks of rice injuries at different seasons}{6}
+\contentsline {subsection}{Construction of differential co-occurrence networks of rice injuries at yield level}{8}
+\contentsline {subsection}{Discussion}{11}

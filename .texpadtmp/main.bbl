@@ -1,5 +1,17 @@
 \begin{thebibliography}{}
 
+\bibitem[Berry {and} Widder, 2014]{Berry_2014_Deciphering}
+BERRY, D. {and} WIDDER, S. 2014.
+\newblock Deciphering microbial interactions and detecting keystone species
+  with co-occurrence networks.
+\newblock Front. Microbiol, 5(219):10--3389.
+
+\bibitem[Fukushima, 2013]{Fukushima_2013_Diffcorr}
+FUKUSHIMA, A. 2013.
+\newblock Diffcorr: an r package to analyze and visualize differential
+  correlations in biological networks.
+\newblock Gene, 518(1):209--214.
+
 \bibitem[Savary et~al., 2000]{Savary_2000_Characterization}
 SAVARY, S., WILLOCQUET, L., ELAZEGUI, F.~A., TENG, P.~S., DU, P.~V., ZHU, D.,
   TANG, Q., HUANG, S., LIN, X., SINGH, H.~M., {and} SRIVASTAVA, R.~K. 2000.
