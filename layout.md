@@ -23,6 +23,7 @@ figures/nodepropTM_ds/nodepropTM_ds.png
 figures/nodepropTM_ws/nodepropTM_ws.png
 figures/nodepropWJ_ds2/nodepropWJ_ds2.png
 figures/networkWJ_ws1/networkWJ_ws1.png
+Chapter_5_Differential.tex
 figures/nodepropWJ_ws/nodepropWJ_ws.png
 figures/networkCP_ds/networkCP_ds.png
 figures/networkCP_ws/networkCP_ws.png
