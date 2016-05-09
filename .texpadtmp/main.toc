@@ -1,8 +1,25 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
-\contentsline {chapter}{\numberline {I}Differential networks reveal the dynamics of animal pests and disease co-occurrences}{1}
+\contentsline {section}{\numberline {.1}Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}{1}
 \contentsline {subsection}{Introduction}{1}
-\contentsline {subsection}{Materials and Methods}{3}
-\contentsline {section}{\numberline {I.1}Results}{6}
-\contentsline {subsection}{Construction of differential co-occurrence networks of rice injuries at different seasons}{6}
-\contentsline {subsection}{Construction of differential co-occurrence networks of rice injuries at yield level}{8}
-\contentsline {subsection}{Discussion}{11}
+\contentsline {subsection}{Materials and methods}{2}
+\contentsline {subsection}{Result}{7}
+\contentsline {subsection}{Discussion}{12}
+\contentsline {subsection}{Conclusions}{14}
+\contentsline {chapter}{\numberline {I}Using network analysis to examine co-occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{15}
+\contentsline {subsection}{Introduction}{15}
+\contentsline {subsection}{Materials and methods}{17}
+\contentsline {subsubsection}{Crop health survey data}{17}
+\contentsline {subsubsection}{Network construction}{18}
+\contentsline {subsubsection}{Topological feature analysis}{19}
+\contentsline {subsubsection}{Community detection}{20}
+\contentsline {subsection}{Result}{21}
+\contentsline {subsubsection}{Structures, compositions, and communities of co-occurrence network of rice pest injuries}{26}
+\contentsline {subsection}{Discussion}{38}
+\contentsline {subsection}{Conclusion}{43}
+\contentsline {chapter}{\numberline {II}Differential networks reveal the dynamics of animal pests and disease co-occurrences}{45}
+\contentsline {subsection}{Introduction}{45}
+\contentsline {subsection}{Materials and Methods}{47}
+\contentsline {section}{\numberline {II.1}Results}{50}
+\contentsline {subsection}{Construction of differential co-occurrence networks of rice injuries at different seasons}{50}
+\contentsline {subsection}{Construction of differential co-occurrence networks of rice injuries at yield level}{52}
+\contentsline {subsection}{Discussion}{55}
