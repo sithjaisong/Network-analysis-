@@ -37,3 +37,4 @@ figures/pipeline3/pipeline3.png
 figures/pipeline4/pipeline4.png
 figures/difseasonCP/difseasonCP.png
 figures/difseasonOD/difseasonOD.png
+figures/difseasonRR/difseasonRR.png
