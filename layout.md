@@ -10,6 +10,7 @@ figures/allhisto2/allhisto2.png
 figures/heatmap/heatmap.png
 table_injurypair_percent.tex
 Chapter_4_Using.tex
+figures/pipeline2/pipeline2.png
 table_production_season.tex
 figures/barplot1/barplot1.png
 figures/barplot2/barplot2.png
