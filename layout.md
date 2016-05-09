@@ -39,3 +39,4 @@ figures/difseasonCP/difseasonCP.png
 figures/difseasonOD/difseasonOD.png
 figures/difseasonRR/difseasonRR.png
 figures/difseasonTM/difseasonTM.png
+figures/difseasonWJ/difseasonWJ.png
