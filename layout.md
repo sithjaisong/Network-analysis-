@@ -1,10 +1,8 @@
 Chapter_1_Introduction.tex
 Chapter_2_Literature-review.tex
 chapter_3_Evaluation.tex
-figures/pipeline1/pipeline1.png
 Chapter_3_Abstract.tex
 table_survey_data.tex
-figures/pipeline4/pipeline4.png
 table_variable_desc.tex
 table_summary_injuries.tex
 figures/allhisto2/allhisto2.png
@@ -21,9 +19,6 @@ figures/nodepropRR_ds/nodepropRR_ds.png
 figures/nodepropRR_ws/nodepropRR_ws.png
 figures/nodepropTM_ds/nodepropTM_ds.png
 figures/nodepropTM_ws/nodepropTM_ws.png
-figures/nodepropWJ_ds2/nodepropWJ_ds2.png
-figures/networkWJ_ws1/networkWJ_ws1.png
-Chapter_5_Differential.tex
 figures/nodepropWJ_ws/nodepropWJ_ws.png
 figures/networkCP_ds/networkCP_ds.png
 figures/networkCP_ws/networkCP_ws.png
@@ -31,6 +26,7 @@ figures/networkOR_ds/networkOR_ds.png
 figures/networkOR_ws/networkOR_ws.png
 figures/networkRR_ds/networkRR_ds.png
 figures/networkRR_ws/networkRR_ws.png
+Chapter_5_Differential.tex
 figures/networkTM_ds/networkTM_ds.png
 figures/networkTM_ws/networkTM_ws.png
 figures/networkWJ_ds/networkWJ_ds.png
