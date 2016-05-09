@@ -1,150 +1,11 @@
 \begin{thebibliography}{}
 
-\bibitem[Avelino et~al., 2006]{Avelino_2006_Intensity}
-AVELINO, J., ZELAYA, H., MERLO, A., PINEDA, A., ORDO{\~N}EZ, M., {and} SAVARY,
-  S. 2006.
-\newblock {The intensity of a coffee rust epidemic is dependent on production
-  situations}.
-\newblock Ecological Modelling, 197(3-4):431--447.
-
-\bibitem[Barber{\'a}n et~al., 2012]{Barberan_2012_Network}
-BARBER{\'A}N, ALBERT, BATES, T, S., CASAMAYOR, E.~O., {and} FIERER, N. 2012.
-\newblock {Using network analysis to explore co-occurrence patterns in soil
-  microbial communities}.
-\newblock The ISME journal, 6(2):343--351.
-
-\bibitem[Barrat et~al., 2004]{Barrat_2004_Architecture}
-BARRAT, A., BARTHELEMY, M., PASTOR-SATORRAS, R., {and} VESPIGNANI, A. 2004.
-\newblock The architecture of complex weighted networks.
-\newblock Proceedings of the National Academy of Sciences of the United States
-  of America, 101(11):3747--3752.
-
-\bibitem[Borthagaray et~al., 2014]{Borthagaray_2014_Inferring}
-BORTHAGARAY, A.~I., ARIM, M., {and} MARQUET, P.~A. 2014.
-\newblock Inferring species roles in metacommunity structure from species
-  co-occurrence networks.
-\newblock Proceedings of the Royal Society of London B: Biological Sciences,
-  281(1792):20141425.
-
-\bibitem[Brandes et~al., 2008]{Brandes_2008_Modularity}
-BRANDES, U., DELLING, D., GAERTLER, M., G{\"O}RKE, R., HOEFER, M., NIKOLOSKI,
-  Z., {and} WAGNER, D. 2008.
-\newblock {On modularity clustering}.
-\newblock Knowledge and Data Engineering, IEEE Transactions on, 20(2):172--188.
-
-\bibitem[Csardi {and} Nepusz, 2006]{Csardi_2010_igraph}
-CSARDI, G. {and} NEPUSZ, T. 2006.
-\newblock {The igraph software package for complex network research}.
-\newblock InterJournal, Complex Systems:1695.
-
-\bibitem[Dong et~al., 2010]{Dong_2010_Characterization}
-DONG, K., CHEN, B., LI, Z., DONG, Y., {and} WANG, H. 2010.
-\newblock {A characterization of rice pests and quantification of yield losses
-  in the japonica rice zone of Yunnan China}.
-\newblock Crop Protection, 29(6):603--611.
-
-\bibitem[Fruchterman {and} Reingold, 1991]{Fruchterman_1991_Graph}
-FRUCHTERMAN, T.~M. {and} REINGOLD, E.~M. 1991.
-\newblock Graph drawing by force-directed placement.
-\newblock Software: Practice and experience, 21(11):1129--1164.
-
-\bibitem[{GRiSP}, 2013]{IRRI_2013_Rice}
-{GRiSP} 2013.
-\newblock {\em {\em {Rice almanac}}}.
-\newblock International Rice Research Institute (IRRI), 4 edition.
-
-\bibitem[Kasari et~al., 2011]{Kasari_2011_Social}
-KASARI, C., LOCKE, J., GULSRUD, A., {and} ROTHERAM-FULLER, E. 2011.
-\newblock {Social networks and friendships at school: comparing children with
-  and without {ASD}}.
-\newblock {Journal of Autism and Developmental Disorders}, 41(5):533--544.
-
-\bibitem[Liu et~al., 2014]{Liu_2014_Detecting}
-LIU, W., PELLEGRINI, M., {and} WANG, X. 2014.
-\newblock Detecting communities based on network topology.
-\newblock Scientific reports, 4.
-
-\bibitem[Lu et~al., 2013]{Lu_2013_Soil}
-LU, L., YIN, S., LIU, X., ZHANG, W., GU, T., SHEN, Q., {and} QIU, H. 2013.
-\newblock {Fungal networks in yield-invigorating and -debilitating soils
-  induced by prolonged potato monoculture}.
-\newblock Soil Biology and Biochemistry, 65:186--194.
-
-\bibitem[Mew et~al., 2004]{Mew_2004_Looking}
-MEW, T.~W., LEUNG, H., SAVARY, S., VERA~CRUZ, C.~M., {and} LEACH, J.~E. 2004.
-\newblock {Looking ahead in rice disease research and management}.
-\newblock Critical Reviews in Plant Sciences, 23(2):103--127.
-
-\bibitem[Newman, 2010]{Newman_2010_Networks}
-NEWMAN, M. 2010.
-\newblock {\em {\em Networks: an introduction}}.
-\newblock OUP Oxford.
-
-\bibitem[Newman, 2003]{Newman_2003_Structure}
-NEWMAN, M. E.~J. 2003.
-\newblock {The structure and function of complex networks}.
-\newblock {SIAM review}, 45(2):167--256.
-
-\bibitem[Newman, 2006]{Newman_2006_Modularity}
-NEWMAN, M. E.~J. 2006.
-\newblock {Modularity and community structure in networks}.
-\newblock {Proceedings of the National Academy of Sciences},
-  103(23):8577--8582.
-
-\bibitem[Opsahl et~al., 2010]{Opsahl_2010_Node}
-OPSAHL, T., AGNEESSENS, F., {and} SKVORETZ, J. 2010.
-\newblock Node centrality in weighted networks: Generalizing degree and
-  shortest paths.
-\newblock Social Networks, 32(3):245--251.
-
-\bibitem[Proulx et~al., 2005]{Proulx_2005_Network}
-PROULX, S., PROMISLOW, D., {and} PHILLIPS, P. 2005.
-\newblock {Network thinking in ecology and evolution}.
-\newblock Trends in Ecology {\&} Evolution, 20(6):345--353.
-
-\bibitem[{R Core Team}, 2015]{R_2015}
-{R Core Team} 2015.
-\newblock {\em {\em {R: A Language and Environment for Statistical
-  Computing}}}.
-\newblock R Foundation for Statistical Computing, Vienna, Austria.
-
-\bibitem[Reddy et~al., 2011]{Reddy_2011_Characterizing}
-REDDY, C., LAHA, G., PRASAD, M., KRISHNAVENI, D., CASTILLA, N., NELSON, A.,
-  {and} SAVARY, S. 2011.
-\newblock {Characterizing multiple linkages between individual diseases crop
-  health syndromes, germplasm deployment, and rice production situations in
-  India}.
-\newblock Field Crops Research, 120(2):241--253.
-
-\bibitem[Savary et~al., 2012]{Savary_2012_Review}
-SAVARY, S., HORGAN, F., WILLOCQUET, L., {and} HEONG, K.~L. 2012.
-\newblock {A review of principles for sustainable pest management in rice}.
-\newblock Crop Protection, 32:54--63.
-
-\bibitem[Savary et~al., 2006]{Savary_2006_Quantification}
-SAVARY, S., TENG, P.~S., WILLOCQUET, L., {and} NUTTER, F.~W. 2006.
-\newblock {Quantification and Modeling of Crop Losses: A Review of Purposes}.
-\newblock Annu. Rev. Phytopathol., 44(1):89--112.
-
-\bibitem[Savary et~al., 2000a]{Savary_2000_Quantification}
-SAVARY, S., WILLOCQUET, L., ELAZEGUI, F.~A., CASTILLA, N.~P., {and} TENG, P.~S.
-  2000a.
-\newblock {Rice Pest Constraints in Tropical Asia: Quantification of Yield
-  Losses Due to Rice Pests in a Range of Production Situations}.
-\newblock Plant Disease, 84(3):357--369.
-
-\bibitem[Savary et~al., 2000b]{Savary_2000_Characterization}
+\bibitem[Savary et~al., 2000]{Savary_2000_Characterization}
 SAVARY, S., WILLOCQUET, L., ELAZEGUI, F.~A., TENG, P.~S., DU, P.~V., ZHU, D.,
-  TANG, Q., HUANG, S., LIN, X., SINGH, H.~M., {and} SRIVASTAVA, R.~K. 2000b.
+  TANG, Q., HUANG, S., LIN, X., SINGH, H.~M., {and} SRIVASTAVA, R.~K. 2000.
 \newblock {Rice Pest Constraints in Tropical Asia: Characterization of Injury
   Profiles in Relation to Production Situations}.
 \newblock Plant Disease, 84(3):341--356.
-
-\bibitem[Williams et~al., 2014]{Williams_2014_demonstrating}
-WILLIAMS, R.~J., HOWE, A.~C., {and} HOFMOCKEL, K.~S. 2014.
-\newblock {Demonstrating microbial co-occurrence pattern analyses within and
-  between ecosystems}.
-\newblock Frontiers in microbiology, 5:358.
 
 \bibitem[Willocquet et~al., 2008]{Willocquet_2008_Simulating}
 WILLOCQUET, L., AUBERTOT, J., LEBARD, S., ROBERT, C., LANNOU, C., {and} SAVARY,
@@ -152,10 +13,5 @@ WILLOCQUET, L., AUBERTOT, J., LEBARD, S., ROBERT, C., LANNOU, C., {and} SAVARY,
 \newblock {Simulating multiple pest damage in varying winter wheat production
   situations}.
 \newblock Field Crops Research, 107(1):12--28.
-
-\bibitem[Wright et~al., 2012]{Wright_2012_Microbial}
-WRIGHT, J.~J., KONWAR, K.~M., {and} HALLAM, S.~J. 2012.
-\newblock Microbial ecology of expanding oxygen minimum zones.
-\newblock Nature Reviews Microbiology, 10(6):381--394.
 
 \end{thebibliography}
