@@ -49,3 +49,4 @@ figures/yield_dif_nodepropRed_River_Delta1/yield_dif_nodepropRed_River_Delta1.pn
 figures/difyieldTM/difyieldTM.png
 figures/yield_dif_nodepropTamil_ Nadu/yield_dif_nodepropTamil_ Nadu.png
 figures/difyieldWJ/difyieldWJ.png
+figures/yield_dif_nodepropWest_Java/yield_dif_nodepropWest_Java.png
