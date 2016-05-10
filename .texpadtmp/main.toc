@@ -5,3 +5,14 @@
 \contentsline {subsection}{Result}{8}
 \contentsline {subsection}{Discussion}{14}
 \contentsline {subsection}{Conclusions}{16}
+\contentsline {chapter}{\numberline {II}Using network analysis to examine co- occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{17}
+\contentsline {subsection}{Introduction}{17}
+\contentsline {subsection}{Materials and methods}{21}
+\contentsline {subsubsection}{Crop health survey data}{21}
+\contentsline {subsubsection}{Network construction}{21}
+\contentsline {subsubsection}{Topological feature analysis}{23}
+\contentsline {subsubsection}{Community detection}{23}
+\contentsline {subsection}{Result}{25}
+\contentsline {subsubsection}{Structures, compositions, and communities of co-occurrence network of rice pest injuries}{30}
+\contentsline {subsection}{Discussion}{45}
+\contentsline {subsection}{Conclusion}{49}

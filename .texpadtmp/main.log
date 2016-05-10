@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  10 MAY 2016 14:47
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  10 MAY 2016 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -965,7 +965,14 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen196
 \titlewidthfirst=\dimen197
 )
-(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
+(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux
+
+LaTeX Warning: Label `fig:nodepropWJ_ds' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:nodepropWJ_ds' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
@@ -984,8 +991,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 104.
 LaTeX Font Info:    ... okay on input line 104.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 104.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 104.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 104.
@@ -1151,25 +1157,40 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
+
+Overfull \hbox (3.91634pt too wide) in paragraph at lines 96--96
+ [][]\EU1/TimesNewRoman(0)/bx/n/12 USING NETWORK ANALYSIS TO EXAMINE CO- OC- 
+ []
+
+
+Overfull \hbox (0.11165pt too wide) in paragraph at lines 96--96
+ \EU1/TimesNewRoman(0)/bx/n/12 CURRENCE PATTERNS OF ANIMAL INJURIES AND 
+ []
+
+
+Overfull \hbox (12.35284pt too wide) in paragraph at lines 96--96
+ \EU1/TimesNewRoman(0)/bx/n/12 DISEASES IN FARMERS’ FIELDS IN DIFFERENT PRO- 
+ []
+
 ) (./lofformat.tex [2
 
 
 
 ]
-(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lof)
+(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lof
+[3
+
+])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
-
-[3
-
-]) (./lotformat.tex
+ [4]) (./lotformat.tex
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
 
-[4
+[5
 
 
 ]) (./Chapter_3_Evaluation.tex
@@ -1220,22 +1241,17 @@ File: figures/allhisto2/allhisto2.png Graphic file (type QTm)
 LaTeX Warning: Float too large for page by 58.0pt on input line 70.
 
 [9] (./table_summary_injuries.tex
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 
-LaTeX Warning: Float too large for page by 116.45647pt on input line 48.
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+LaTeX Warning: Float too large for page by 98.33008pt on input line 50.
 
 [10])
 File: figures/heatmap/heatmap.png Graphic file (type QTm)
@@ -1245,19 +1261,161 @@ File: figures/heatmap/heatmap.png Graphic file (type QTm)
 
 
 ] [12]
-(./table_injurypair_percent.tex) [13] [14] [15]) [16]
+(./table_injurypair_percent.tex) [13] [14] [15]) (./Chapter_4_Using.tex
+[16]
+CHAPTER II.
+[17
+
+] [18]
+
+Package natbib Warning: Citation `Faust_2012_Microbial_co' on page 19 undefined
+ on input line 11.
+
+
+Package natbib Warning: Citation `Ma_2016_Geographic' on page 19 undefined on i
+nput line 11.
+
+
+Package natbib Warning: Citation `Crowston_2006_Hierarchy' on page 19 undefined
+ on input line 11.
+
+[19] [20]
+File: figures/pipeline2.pdf Graphic file (type QTm)
+ <use  "figures/pipeline2.pdf" > [21] [22] [23] [24] [25] [26]
+File: figures/barplot1.pdf Graphic file (type QTm)
+
+<use  "figures/barplot1.pdf" >
+
+LaTeX Warning: Float too large for page by 58.0pt on input line 87.
+
+[27]
+File: figures/barplot2.pdf Graphic file (type QTm)
+ <use  "figures/barplot2.pdf" >
+
+LaTeX Warning: Float too large for page by 22.0pt on input line 96.
+
+[28]
+File: figures/barplot3.pdf Graphic file (type QTm)
+ <use  "figures/barplot3.pdf" >
+Overfull \hbox (43.03549pt too wide) in paragraph at lines 100--103
+[] \EU1/TimesNewRoman(0)/m/n/12 centering [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 24.58983pt on input line 105.
+
+[29] [30
+
+
+
+
+
+
+]
+File: figures/networkCP_ds/networkCP_ds.pdf Graphic file (type QTm)
+ <use  "figures/networkCP_ds/networkCP_ds.pdf" >
+File: figures/nodepropCP_ds/nodepropCP_ds.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropCP_ds/nodepropCP_ds.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 134.
+
+File: figures/networkCP_ws/networkCP_ws.pdf Graphic file (type QTm)
+<use  "figures/networkCP_ws/networkCP_ws.pdf" >
+File: figures/nodepropCP_ws/nodepropCP_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropCP_ws/nodepropCP_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 150.
+
+[31] [32] [33]
+File: figures/networkOR_ds/networkOR_ds.pdf Graphic file (type QTm)
+ <use  "figures/networkOR_ds/networkOR_ds.pdf" >
+File: figures/nodepropOR_ds/nodepropOR_ds.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropOR_ds/nodepropOR_ds.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 172.
+
+File: figures/networkOR_ws/networkOR_ws.pdf Graphic file (type QTm)
+<use  "figures/networkOR_ws/networkOR_ws.pdf" >
+File: figures/nodepropOR_ws/nodepropOR_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropOR_ws/nodepropOR_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 188.
+
+File: figures/networkRR_ds/networkRR_ds.pdf Graphic file (type QTm)
+<use  "figures/networkRR_ds/networkRR_ds.pdf" >
+File: figures/nodepropRR_ds/nodepropRR_ds.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropRR_ds/nodepropRR_ds.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 212.
+
+File: figures/networkRR_ws/networkRR_ws.pdf Graphic file (type QTm)
+<use  "figures/networkRR_ws/networkRR_ws.pdf" >
+File: figures/nodepropRR_ws/nodepropRR_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropRR_ws/nodepropRR_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 228.
+
+[34] [35] [36] [37] [38]
+File: figures/networkTM_ds/networkTM_ds.pdf Graphic file (type QTm)
+ <use  "figures/networkTM_ds/networkTM_ds.pdf" >
+File: figures/nodepropTM_ds/nodepropTM_ds.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropTM_ds/nodepropTM_ds.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 251.
+
+File: figures/networkTM_ws/networkTM_ws.pdf Graphic file (type QTm)
+<use  "figures/networkTM_ws/networkTM_ws.pdf" >
+File: figures/nodepropTM_ws/nodepropTM_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropTM_ws/nodepropTM_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 267.
+
+
+LaTeX Warning: Reference `fig:nodepropWJ_ws' on page 39 undefined on input line
+ 273.
+
+[39] [40] [41]
+File: figures/networkWJ_ds/networkWJ_ds.pdf Graphic file (type QTm)
+ <use  "figures/networkWJ_ds/networkWJ_ds.pdf" >
+File: figures/nodepropWJ_ds/nodepropWJ_ds.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropWJ_ds/nodepropWJ_ds.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 289.
+
+File: figures/networkWJ_ws/networkWJ_ws.pdf Graphic file (type QTm)
+<use  "figures/networkWJ_ws/networkWJ_ws.pdf" >
+File: figures/nodepropWJ_ws/nodepropWJ_ws.pdf Graphic file (type QTm)
+
+<use  "figures/nodepropWJ_ws/nodepropWJ_ws.pdf" >
+
+LaTeX Warning: Float too large for page by 50.05812pt on input line 304.
+
+[42] [43] [44] [45] [46] [47] [48]) [49]
 (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
 Underfull \hbox (badness 1924) in paragraph at lines 48--52
 []\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
 ., HOEFER, M.,
  []
 
-[17
+[50
 
 
-] [18] [19]) 
+] [51] [52])
+
+Package natbib Warning: There were undefined citations.
+
+
 AED: lastpage setting LastPage
-[20]
+[53]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -1279,18 +1437,24 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[21
+[54
 
-] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux) )
- 
+] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 22752 strings out of 493706
- 461905 string characters out of 6145769
+ 22908 strings out of 493706
+ 465273 string characters out of 6145769
  511201 words of memory out of 5000000
- 25599 multiletter control sequences out of 15000+600000
- 10256 words of font info for 74 fonts, out of 8000000 for 9000
+ 25701 multiletter control sequences out of 15000+600000
+ 11836 words of font info for 84 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,13n,58p,10377b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,13n,58p,10377b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (25 pages).
+tmp/main.pdf (59 pages).
