@@ -1,0 +1,13 @@
+% L I S T   O F   F I G U R E S
+% -----------------------------
+
+\makeatletter
+     \renewcommand*\l@table{\@dottedtocline{1}{1em}{3.2em}}
+\makeatother
+
+\renewcommand*\listtablename{LIST OF TABLES}
+\listoftables
+\addtocontents{lot}{\noindent\underline{\textbf{TABLE}}~\hfill\underline{\textbf{PAGE}}\par}
+\cleardoublepage
+%\phantomsection		% allows hyperref to link to the correct page
+\newpage

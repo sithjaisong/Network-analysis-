@@ -1,39 +1,6 @@
-\relax $\@@underline {\hbox {\textbf {FIGURE}}}\mathsurround \z@ $\relax \nobreakspace {}\hfill \relax $\@@underline {\hbox {\textbf {PAGE}}}\mathsurround \z@ $\relax \par 
-\contentsline {figure}{\numberline {-1}{\ignorespaces Correlation methods selected for constructing network model. The plots on the left show sample survey data taken over 29 rice injuries at 5 production environments. The next step is to compute pair-wise correlations to obtain a cross-correlation matrix (the middle plot, rows and columns represent the nodes). Then, the matrix will be used for network analysis.\relax }}{3}
-\contentsline {figure}{\numberline {-2}{\ignorespaces Histograms showing the distribution of rice injury values in crop health survey data. BB:Bug burn, BLB:Bacterial leaf blight, BLS: Bacterial leaf streak, BS:Brown spot, DH:Deadheart, DP: Dirty panicle, FS:False smut, GS:Gressy stunt, HB:Hopper burn, LB: Leaf blast, LF: Leaffolder injury, LM: Leaf miner injury, LS: :Leaf scald, NB:Neck blast, NBS:Nerrow brown spot, PM: Panicle mite injury, RB: Rice bug injuries, RGS:Ragged stunt, RH:Rice hispa injury, RS: Red stripe, RT:Rat damage, RTG: Tungro, RTH:Rice thrip injury, SHB:Sheath blight, SHR:Sheath rot, SNL:Snail damage, SR:Stem rot, SS:Silver shoot, WH:White head, WM:Whorl maggot injury.\relax }}{8}
-\contentsline {figure}{\numberline {-3}{\ignorespaces Heatmap and dendrogram showing hierarchical unsupervised clustering analysis correlation measures of survey data\relax }}{11}
+\noindent \relax $\@@underline {\hbox {\textbf {FIGURE}}}\mathsurround \z@ $\relax \nobreakspace {}\hfill \relax $\@@underline {\hbox {\textbf {PAGE}}}\mathsurround \z@ $\relax \par 
 \addvspace {10\p@ }
-\contentsline {xchapter}{Using network analysis to examine co-occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{15}
-\contentsline {figure}{\numberline {I-1}{\ignorespaces Network construction\relax }}{18}
-\contentsline {figure}{\numberline {I-2}{\ignorespaces Bar graphs showing prevalence of injuries a across production environments and seasons. BB: Bug burn, BLB: Bacterial leaf blight, BLS: Bacterial leaf streak, BS: Brown spot, DH: Deadheart, DP: Dirty panicle, FS: False smut, GS: Grassy stunt, HB: Hopper burn, LB: Leaf blast, LF: Leaffolder injury, LM: Leaf miner injury, LS: :Leaf scald, NB: Neck blast, NBS: Narrow brown spot, PM: Panicle mite injury, RB: Rice bug injuries, RGS: Ragged stunt, RH: Rice hispa injury, RS: Red stripe, RT: Rat damage, RTG: Tungro, RTH: Rice thrip injury, SHB: Sheath blight, SHR: Sheath rot, SR: Stem rot, SS: Silver shoot, WH: White head, WM: Whorl maggot injury.\relax }}{23}
-\contentsline {figure}{\numberline {I-3}{\ignorespaces Bar graphs showing prevalence of injuries a across production environments and seasons (continue)\relax }}{24}
-\contentsline {figure}{\numberline {I-4}{\ignorespaces Bar graphs showing prevalence of injuries a across production environments and seasons (continue)\relax }}{25}
-\contentsline {figure}{\numberline {I-5}{\ignorespaces Rice injuries in dry season in Central Plain, Thailand\relax }}{28}
-\contentsline {figure}{\numberline {I-6}{\ignorespaces Injuries in Central Plain, Thailand\relax }}{29}
-\contentsline {figure}{\numberline {I-7}{\ignorespaces Injuries in dry season at Odisha, India\relax }}{31}
-\contentsline {figure}{\numberline {I-8}{\ignorespaces Injuries in wet season at Odisha, India\relax }}{32}
-\contentsline {figure}{\numberline {I-9}{\ignorespaces Rice injuries in dry season in Red River Delta, Vietnam \relax }}{33}
-\contentsline {figure}{\numberline {I-10}{\ignorespaces Rice injuries in wet season in Red River Delta, Vietnam\relax }}{34}
-\contentsline {figure}{\numberline {I-11}{\ignorespaces Rice injuries in dry season in Tamil Nadu, India\relax }}{36}
-\contentsline {figure}{\numberline {I-12}{\ignorespaces Rice injuries in wet season in Tamil Nadu, India\relax }}{37}
-\contentsline {figure}{\numberline {I-13}{\ignorespaces Rice injuries in dry season in West Java, Indonesia\relax }}{39}
-\contentsline {figure}{\numberline {I-14}{\ignorespaces Rice injuries in wet season in West Java, Indonesia\relax }}{40}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Differential networks reveal the dynamics of animal pests and disease co-occurrences}{45}
-\contentsline {figure}{\numberline {II-1}{\ignorespaces Schematic showing principle of differential analysis in seasons. Co-occurrence networks are measured in each of two seasons (left) resulting in interactions (black). Dry season is subtracted from wet season to create a differential co-occurrence network (right), in which the significant differential interactions are those that positive (red) or negative (blue) in score after the shift in conditions, which means differential in dry, and wet season, respectively.\relax }}{49}
-\contentsline {figure}{\numberline {II-2}{\ignorespaces Schematic showing differential analysis at different yield levels. Co-occurrence networks are measured in each of two different yield levels (left) resulting in interactions (blue). The network at low yield level network is subtracted from high yield level to create a differential co-occurrence network (right), in which the significant differential interactions are those that positive in score after the shift from low to high yield state.\relax }}{50}
-\contentsline {figure}{\numberline {II-3}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Central Plain, Thailand\relax }}{51}
-\contentsline {figure}{\numberline {II-4}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Odisha, India \relax }}{52}
-\contentsline {figure}{\numberline {II-5}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Red River Delta, Vietnam\relax }}{53}
-\contentsline {figure}{\numberline {II-6}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Tamil Nadu, India\relax }}{54}
-\contentsline {figure}{\numberline {II-7}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at West Java, Indonesia\relax }}{54}
-\contentsline {figure}{\numberline {II-8}{\ignorespaces .\relax }}{55}
-\contentsline {figure}{\numberline {II-9}{\ignorespaces Rice injuries in dry season in Central Plain, Thailand\relax }}{56}
-\contentsline {figure}{\numberline {II-10}{\ignorespaces Rice injuries in dry season in Central Plain, Thailand\relax }}{57}
-\contentsline {figure}{\numberline {II-11}{\ignorespaces Rice injuries in dry season in Central Plain, Thailand\relax }}{58}
-\contentsline {figure}{\numberline {II-12}{\ignorespaces .\relax }}{59}
-\contentsline {figure}{\numberline {II-13}{\ignorespaces .\relax }}{60}
-\contentsline {figure}{\numberline {II-14}{\ignorespaces .\relax }}{60}
-\contentsline {figure}{\numberline {II-15}{\ignorespaces .\relax }}{61}
-\contentsline {figure}{\numberline {II-16}{\ignorespaces .\relax }}{61}
-\contentsline {figure}{\numberline {II-17}{\ignorespaces .\relax }}{62}
+\contentsline {xchapter}{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{1}
+\contentsline {figure}{\numberline {I-1}{\ignorespaces The scheme of correlation method selection for constructing network model.}}{3}
+\contentsline {figure}{\numberline {I-2}{\ignorespaces Histograms showing the distribution of rice injury values in crop health survey data.}}{9}
+\contentsline {figure}{\numberline {I-3}{\ignorespaces Heatmap and dendrogram showing hierarchical unsupervised clustering analysis correlation measures of survey data\relax }}{12}

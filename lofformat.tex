@@ -1,8 +1,13 @@
 % L I S T   O F   F I G U R E S
 % -----------------------------
+
+\makeatletter
+     \renewcommand*\l@figure{\@dottedtocline{1}{1em}{3.2em}}
+\makeatother
+
 \renewcommand*\listfigurename{LIST OF FIGURES}
 \listoffigures
-\addtocontents{lof}{\underline{\textbf{FIGURE}}~\hfill\underline{\textbf{PAGE}}\par}
+\addtocontents{lof}{\noindent\underline{\textbf{FIGURE}}~\hfill\underline{\textbf{PAGE}}\par}
 \cleardoublepage
 %\phantomsection		% allows hyperref to link to the correct page
 \newpage
