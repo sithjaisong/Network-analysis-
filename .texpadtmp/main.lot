@@ -1,9 +1,3 @@
 \noindent \relax $\@@underline {\hbox {\textbf {TABLE}}}\mathsurround \z@ $\relax \nobreakspace {}\hfill \relax $\@@underline {\hbox {\textbf {PAGE}}}\mathsurround \z@ $\relax \par 
 \addvspace {10\p@ }
-\contentsline {xchapter}{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{1}
-\contentsline {table}{\numberline {I.1}{\ignorespaces Number of farmers' fields surveyed in each season, year, and production environments\relax }}{4}
-\contentsline {table}{\numberline {I.2}{\ignorespaces Variables describing individual fields in surveys of rice injuries\relax }}{5}
-\contentsline {table}{\numberline {I.3}{\ignorespaces Summary statistics of rice injuries in crop health survey data\relax }}{10}
-\contentsline {table}{\numberline {I.4}{\ignorespaces The percentage of injury pairs in survey data at different $p$-value}}{13}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Using network analysis to examine co- occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{17}
+\contentsline {xchapter}{Differential networks reveal the dynamics of animal injury and disease co- occurrences}{1}

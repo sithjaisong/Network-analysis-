@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  10 MAY 2016 16:11
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.22)  12 MAY 2016 07:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -56,6 +56,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (614.57951pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (796.67715pt) is ignored.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTeX
 
@@ -965,36 +973,30 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen196
 \titlewidthfirst=\dimen197
 )
-(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux
-
-LaTeX Warning: Label `fig:nodepropWJ_ds' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:nodepropWJ_ds' multiply defined.
-
-)
+(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 104.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 104.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 106.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 106.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    ... okay on input line 106.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1004,17 +1006,17 @@ LaTeX Font Info:    ... okay on input line 104.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=416.83289pt
-* \textheight=700.50687pt
-* \oddsidemargin=36.13501pt
-* \evensidemargin=36.13501pt
-* \topmargin=-26.45377pt
+* \textwidth=412.56497pt
+* \textheight=702.78308pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-13.1381pt
 * \headheight=12.0pt
-* \headsep=14.45377pt
+* \headsep=0.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=44.0pt
@@ -1037,68 +1039,68 @@ LaTeX Font Info:    ... okay on input line 104.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 104.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 104.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 104.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 104.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 104.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 104.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 104.
-LaTeX Font Info:    Redeclaring math accent \check on input line 104.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 104.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 104.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 104.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 104.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 104.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 106.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 106.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 106.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 106.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 106.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 106.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 106.
+LaTeX Font Info:    Redeclaring math accent \check on input line 106.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 106.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 106.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 106.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 104.
+(Font)              `operators' in the math version `normal' on input line 106.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
-104.
+106.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 104.
+(Font)              `operators' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
- 104.
+ 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 104.
+n input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
-e 104.
+e 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
-e 104.
+e 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 104.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 104.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 104.
+on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
-ine 104.
+ine 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 104.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 104.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 106.
 \AtBeginShipoutBox=\box87
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 104.
+(lastpage)             ! on input line 106.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1132,70 +1134,27 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c__siunitx_mathsf_int=\count189
-LaTeX Font Info:    Try loading font information for U+msa on input line 104.
+LaTeX Font Info:    Try loading font information for U+msa on input line 106.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 104.
+LaTeX Font Info:    Try loading font information for U+msb on input line 106.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count190
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 104
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 106
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (./frontpgs.tex [1
 
-]) (./tocformat.tex
-\tocright=\skip111
-\toclefti=\skip112
-\tocleftii=\skip113
-\tocleftiii=\skip114
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-
-Overfull \hbox (3.91634pt too wide) in paragraph at lines 96--96
- [][]\EU1/TimesNewRoman(0)/bx/n/12 USING NETWORK ANALYSIS TO EXAMINE CO- OC- 
- []
-
-
-Overfull \hbox (0.11165pt too wide) in paragraph at lines 96--96
- \EU1/TimesNewRoman(0)/bx/n/12 CURRENCE PATTERNS OF ANIMAL INJURIES AND 
- []
-
-
-Overfull \hbox (12.35284pt too wide) in paragraph at lines 96--96
- \EU1/TimesNewRoman(0)/bx/n/12 DISEASES IN FARMERS’ FIELDS IN DIFFERENT PRO- 
- []
-
-) (./lofformat.tex [2
-
-
-
-]
-(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lof
-[3
-
-])
-\tf@lof=\write5
-\openout5 = `main.lof'.
-
- [4]) (./lotformat.tex
-(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.lot)
-\tf@lot=\write6
-\openout6 = `main.lot'.
-
-
-[5
-
-
-]) (./Chapter_3_Evaluation.tex
+]) (./Chapter_5_Differential.tex
 CHAPTER I.
 [1
+
 
 
 
@@ -1206,216 +1165,137 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-File: figures/pipeline1.pdf Graphic file (type QTm)
- <use  "figures/pipeline1.pdf" > (./table_survey_data.tex
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-)
-Overfull \hbox (1.6544pt too wide) in paragraph at lines 32--34
-\EU1/TimesNewRoman(0)/m/n/12 in “A survey portfolio to characterize yield-reduc
-ing factors in rice” developed by Savary
+[2] [3] [4]
+Overfull \hbox (6.59386pt too wide) in paragraph at lines 51--52
+[]\EU1/TimesNewRoman(0)/m/n/12 For this differential co-occurrence network,$\OM
+L/cmm/m/it/12 A[]$ \EU1/TimesNewRoman(0)/m/n/12 equals 1 depending on whether
  []
 
-[3]
-Overfull \hbox (0.35266pt too wide) in paragraph at lines 35--36
-[]\EU1/TimesNewRoman(0)/m/n/12 Injuries on leaves such as bacterial leaf blight
- (BLB), bacterial leaf streak (BLS),
+File: figures/pipeline3.pdf Graphic file (type QTm)
+<use  "figures/pipeline3.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (6.59386pt too wide) in paragraph at lines 69--70
+[]\EU1/TimesNewRoman(0)/m/n/12 For this differential co-occurrence network,$\OM
+L/cmm/m/it/12 A[]$ \EU1/TimesNewRoman(0)/m/n/12 equals 1 depending on whether
  []
 
-(./table_variable_desc.tex [4]
+[5]
+File: figures/pipeline4.pdf Graphic file (type QTm)
+ <use  "figures/pipeline4.pdf" >
 
-LaTeX Warning: Float too large for page by 41.36664pt on input line 41.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+[6] [7]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5]) [6
-
-
-] [7] [8]
-File: figures/allhisto2/allhisto2.png Graphic file (type QTm)
- <use  "figures/allhisto2/allhisto2.png" >
-
-LaTeX Warning: Float too large for page by 58.0pt on input line 70.
-
-[9] (./table_summary_injuries.tex
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
+LaTeX Warning: Reference `fig:difseasonCP' on page 8 undefined on input line 90
+.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-
-LaTeX Warning: Float too large for page by 98.33008pt on input line 50.
-
-[10])
-File: figures/heatmap/heatmap.png Graphic file (type QTm)
- <use  "figures/heatmap/heatmap.png" > [11
+LaTeX Warning: Reference `fig:difseasonCP' on page 8 undefined on input line 90
+.
 
 
+LaTeX Warning: Reference `fig:difseasonOD' on page 8 undefined on input line 11
+1.
+
+[8
+
+]
+
+LaTeX Warning: Reference `fig:difseasonRR' on page 9 undefined on input line 12
+5.
 
 
-] [12]
-(./table_injurypair_percent.tex) [13] [14] [15]) (./Chapter_4_Using.tex
-[16]
-CHAPTER II.
-[17
+LaTeX Warning: Reference `fig:difseasonnetwork_WJ' on page 9 undefined on input
+ line 148.
 
-] [18]
+[9]
+File: figures/difseasonCP.pdf Graphic file (type QTm)
+ <use  "figures/difseasonCP.pdf" >
+File: figures/difseasonOR.pdf Graphic file (type QTm)
+ <use  "figures/difseasonOR.pdf" >
+File: figures/difseasonRR.pdf Graphic file (type QTm)
 
-Package natbib Warning: Citation `Faust_2012_Microbial_co' on page 19 undefined
- on input line 11.
+<use  "figures/difseasonRR.pdf" >
+File: figures/difseasonTM.pdf Graphic file (type QTm)
+ <use  "figures/difseasonTM.pdf" >
+File: figures/difseasonWJ.pdf Graphic file (type QTm)
 
+<use  "figures/difseasonWJ.pdf" > [10] [11] [12] [13] [14]
 
-Package natbib Warning: Citation `Ma_2016_Geographic' on page 19 undefined on i
-nput line 11.
+LaTeX Warning: Reference `nodepropdifyieldnetwork_TM' on page 15 undefined on i
+nput line 233.
 
+[15]
+File: figures/yield_level_bar.pdf Graphic file (type QTm)
+ <use  "figures/yield_level_bar.pdf" >
+File: figures/difyieldCP.pdf Graphic file (type QTm)
+ <use  "figures/difyieldCP.pdf" >
+File: figures/yield_dif_nodepropCentral_Plain.pdf Graphic file (type QTm)
 
-Package natbib Warning: Citation `Crowston_2006_Hierarchy' on page 19 undefined
- on input line 11.
+<use  "figures/yield_dif_nodepropCentral_Plain.pdf" >
 
-[19] [20]
-File: figures/pipeline2.pdf Graphic file (type QTm)
- <use  "figures/pipeline2.pdf" > [21] [22] [23] [24] [25] [26]
-File: figures/barplot1.pdf Graphic file (type QTm)
+LaTeX Warning: Float too large for page by 9.83916pt on input line 256.
 
-<use  "figures/barplot1.pdf" >
+File: figures/difyieldOD.pdf Graphic file (type QTm)
+<use  "figures/difyieldOD.pdf" >
+File: figures/yield_dif_nodepropOdisha.pdf Graphic file (type QTm)
 
-LaTeX Warning: Float too large for page by 58.0pt on input line 87.
+<use  "figures/yield_dif_nodepropOdisha.pdf" >
 
-[27]
-File: figures/barplot2.pdf Graphic file (type QTm)
- <use  "figures/barplot2.pdf" >
+LaTeX Warning: Float too large for page by 74.72112pt on input line 272.
 
-LaTeX Warning: Float too large for page by 22.0pt on input line 96.
+File: figures/difyieldRR.pdf Graphic file (type QTm)
+<use  "figures/difyieldRR.pdf" >
+File: figures/yield_dif_nodepropRed_River_Delta.pdf Graphic file (type QTm)
 
-[28]
-File: figures/barplot3.pdf Graphic file (type QTm)
- <use  "figures/barplot3.pdf" >
-Overfull \hbox (43.03549pt too wide) in paragraph at lines 100--103
-[] \EU1/TimesNewRoman(0)/m/n/12 centering [] 
- []
+<use  "figures/yield_dif_nodepropRed_River_Delta.pdf" >
 
+LaTeX Warning: Float too large for page by 86.72112pt on input line 288.
 
-LaTeX Warning: Float too large for page by 24.58983pt on input line 105.
+File: figures/difyieldTM.pdf Graphic file (type QTm)
+<use  "figures/difyieldTM.pdf" >
+File: figures/yield_dif_nodepropTamil_Nadu.pdf Graphic file (type QTm)
 
-[29] [30
+<use  "figures/yield_dif_nodepropTamil_Nadu.pdf" >
 
+LaTeX Warning: Float too large for page by 74.72112pt on input line 304.
 
+File: figures/difyieldWJ.pdf Graphic file (type QTm)
+<use  "figures/difyieldWJ.pdf" >
+File: figures/yield_dif_nodepropWest_Java.pdf Graphic file (type QTm)
 
+<use  "figures/yield_dif_nodepropWest_Java.pdf" >
 
+LaTeX Warning: Float too large for page by 74.72112pt on input line 321.
+
+File: figures/CP_yield_box.pdf Graphic file (type QTm)
+<use  "figures/CP_yield_box.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figures/OD_yield_box.pdf Graphic file (type QTm)
+<use  "figures/OD_yield_box.pdf" >
+File: figures/RR_yield_box.pdf Graphic file (type QTm)
+ <use  "figures/RR_yield_box.pdf" >
+File: figures/TM_yield_box.pdf Graphic file (type QTm)
+
+<use  "figures/TM_yield_box.pdf" >
+File: figures/WJ_yield_box.pdf Graphic file (type QTm)
+ <use  "figures/WJ_yield_box.pdf" > [16]
+[17] [18] [19] [20] [21] [22] [23] [24]) [25
+
+]
+(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl)
+
+AED: lastpage setting LastPage
+[26
 
 
 ]
-File: figures/networkCP_ds/networkCP_ds.pdf Graphic file (type QTm)
- <use  "figures/networkCP_ds/networkCP_ds.pdf" >
-File: figures/nodepropCP_ds/nodepropCP_ds.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropCP_ds/nodepropCP_ds.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 134.
-
-File: figures/networkCP_ws/networkCP_ws.pdf Graphic file (type QTm)
-<use  "figures/networkCP_ws/networkCP_ws.pdf" >
-File: figures/nodepropCP_ws/nodepropCP_ws.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropCP_ws/nodepropCP_ws.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 150.
-
-[31] [32] [33]
-File: figures/networkOR_ds/networkOR_ds.pdf Graphic file (type QTm)
- <use  "figures/networkOR_ds/networkOR_ds.pdf" >
-File: figures/nodepropOR_ds/nodepropOR_ds.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropOR_ds/nodepropOR_ds.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 172.
-
-File: figures/networkOR_ws/networkOR_ws.pdf Graphic file (type QTm)
-<use  "figures/networkOR_ws/networkOR_ws.pdf" >
-File: figures/nodepropOR_ws/nodepropOR_ws.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropOR_ws/nodepropOR_ws.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 188.
-
-File: figures/networkRR_ds/networkRR_ds.pdf Graphic file (type QTm)
-<use  "figures/networkRR_ds/networkRR_ds.pdf" >
-File: figures/nodepropRR_ds/nodepropRR_ds.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropRR_ds/nodepropRR_ds.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 212.
-
-File: figures/networkRR_ws/networkRR_ws.pdf Graphic file (type QTm)
-<use  "figures/networkRR_ws/networkRR_ws.pdf" >
-File: figures/nodepropRR_ws/nodepropRR_ws.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropRR_ws/nodepropRR_ws.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 228.
-
-[34] [35] [36] [37] [38]
-File: figures/networkTM_ds/networkTM_ds.pdf Graphic file (type QTm)
- <use  "figures/networkTM_ds/networkTM_ds.pdf" >
-File: figures/nodepropTM_ds/nodepropTM_ds.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropTM_ds/nodepropTM_ds.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 251.
-
-File: figures/networkTM_ws/networkTM_ws.pdf Graphic file (type QTm)
-<use  "figures/networkTM_ws/networkTM_ws.pdf" >
-File: figures/nodepropTM_ws/nodepropTM_ws.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropTM_ws/nodepropTM_ws.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 267.
-
-
-LaTeX Warning: Reference `fig:nodepropWJ_ws' on page 39 undefined on input line
- 273.
-
-[39] [40] [41]
-File: figures/networkWJ_ds/networkWJ_ds.pdf Graphic file (type QTm)
- <use  "figures/networkWJ_ds/networkWJ_ds.pdf" >
-File: figures/nodepropWJ_ds/nodepropWJ_ds.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropWJ_ds/nodepropWJ_ds.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 289.
-
-File: figures/networkWJ_ws/networkWJ_ws.pdf Graphic file (type QTm)
-<use  "figures/networkWJ_ws/networkWJ_ws.pdf" >
-File: figures/nodepropWJ_ws/nodepropWJ_ws.pdf Graphic file (type QTm)
-
-<use  "figures/nodepropWJ_ws/nodepropWJ_ws.pdf" >
-
-LaTeX Warning: Float too large for page by 50.05812pt on input line 304.
-
-[42] [43] [44] [45] [46] [47] [48]) [49]
-(/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.bbl
-Underfull \hbox (badness 1924) in paragraph at lines 48--52
-[]\EU1/TimesNewRoman(0)/m/n/12 BRANDES, U., DELLING, D., GAERTLER, M., GÖRKE, R
-., HOEFER, M.,
- []
-
-[50
-
-
-] [51] [52])
-
-Package natbib Warning: There were undefined citations.
-
-
-AED: lastpage setting LastPage
-[53]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -1437,24 +1317,21 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[54
+[27
 
 ] (/Users/sithjaisong/Documents/Github/Network-analysis-/.texpadtmp/main.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 22908 strings out of 493706
- 465273 string characters out of 6145769
- 511201 words of memory out of 5000000
- 25701 multiletter control sequences out of 15000+600000
- 11836 words of font info for 84 fonts, out of 8000000 for 9000
+ 22652 strings out of 493706
+ 459258 string characters out of 6145769
+ 510143 words of memory out of 5000000
+ 25519 multiletter control sequences out of 15000+600000
+ 8509 words of font info for 60 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,13n,58p,10377b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,58p,10377b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/sithjaisong/Documents/Github/Network-analysis-/.texpad
-tmp/main.pdf (59 pages).
+tmp/main.pdf (28 pages).

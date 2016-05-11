@@ -1,7 +1,9 @@
 % --------------------- Start of Document Preamble -----------------------
 
 \documentclass[12pt, oneside]{report} % report is suitable for the long document such as Ph.D thesis with chapters
-\usepackage[a4paper, left=1.5in, right=1in, bottom=1in, tmargin=1in, headsep=0.2in]{geometry}
+\usepackage{geometry}
+%[a4paper, total={216mm, 280mm} left= 40mm, right=25mm, bottom=25mm, tmargin = 2mm, headsep = 0in]
+\geometry{a4paper, total={216mm, 280mm}, left= 40mm, right=25mm, bottom=25mm, tmargin = 25mm, headsep = 0in}
 \usepackage{fontspec}
 \usepackage{titlecaps}
 \setmainfont{Times New Roman}
@@ -24,7 +26,7 @@
 \usepackage{etoc}
 \usepackage{minitoc}
 %\usepackage{subcaption}
-\usepackage[font = footnotesize]{caption}
+\usepackage[font = small, skip=10mm]{caption}
 \usepackage[font = footnotesize]{subcaption}
 \usepackage{multirow}
 \usepackage{threeparttable}
@@ -167,15 +169,15 @@
 %\newpage
 % T A B L E  O F  C O N T E N T S
 %------------------------------
-\input{tocformat.tex}
+%\input{tocformat.tex}
 
 % L I S T   O F   F I G U R E S
 % -----------------------------
-\input{lofformat.tex}
+%\input{lofformat.tex}
 
 % L I S T   O F   T A B L E S
 % -----------------------------
-\input{lotformat.tex}
+%\input{lotformat.tex}
 
 % L I S T   O F   S Y M B O L S
 % -----------------------------
@@ -213,15 +215,15 @@
 
 %\chapter{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}
 %====================================
-\input{Chapter_3_Evaluation.tex}
+%\input{Chapter_3_Evaluation.tex}
 %======================================================================
 
 %\chapter{Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}
 %======================================================================
-\input{Chapter_4_Using.tex}
+%\input{Chapter_4_Using.tex}
 
 %\chapter{Differential networks reveal the dynamics of animal pests and disease co-occurrences}
-%\input{Chapter_5_Differential.tex}
+\input{Chapter_5_Differential.tex}
 %----------------------------------------------------------------------
 % END MATERIAL
 %----------------------------------------------------------------------

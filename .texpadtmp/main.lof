@@ -1,22 +1,21 @@
 \noindent \relax $\@@underline {\hbox {\textbf {FIGURE}}}\mathsurround \z@ $\relax \nobreakspace {}\hfill \relax $\@@underline {\hbox {\textbf {PAGE}}}\mathsurround \z@ $\relax \par 
 \addvspace {10\p@ }
-\contentsline {xchapter}{Evaluation of correlation methods for constructing a network of rice injuries of rice crop health survey data}{1}
-\contentsline {figure}{\numberline {I-1}{\ignorespaces The scheme of correlation method selection for constructing network model.}}{3}
-\contentsline {figure}{\numberline {I-2}{\ignorespaces Histograms showing the distribution of rice injury values in crop health survey data.}}{9}
-\contentsline {figure}{\numberline {I-3}{\ignorespaces Heatmap and dendrogram showing hierarchical unsupervised clustering analysis correlation measures of survey data\relax }}{12}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Using network analysis to examine co- occurrence patterns of animal injuries and diseases in farmers' fields in different production environments across South and South East Asia}{17}
-\contentsline {figure}{\numberline {II-1}{\ignorespaces Work flow used for networks construction}}{22}
-\contentsline {figure}{\numberline {II-2}{\ignorespaces Bar graphs showing prevalence of injuries a across production environments and seasons.}}{27}
-\contentsline {figure}{\numberline {II-3}{\ignorespaces \textit {Continue}}}{28}
-\contentsline {figure}{\numberline {II-4}{\ignorespaces \textit {Continue}}}{29}
-\contentsline {figure}{\numberline {II-5}{\ignorespaces Network analysis of rice injury co-occurrence in wet season at Central Plain, Thailand\relax }}{32}
-\contentsline {figure}{\numberline {II-6}{\ignorespaces Network analysis of rice injury co-occurrence in wet season at Central Plain, Thailand\relax }}{33}
-\contentsline {figure}{\numberline {II-7}{\ignorespaces Network analysis of rice injury co-occurrence in dry season at Odisha, India\relax }}{35}
-\contentsline {figure}{\numberline {II-8}{\ignorespaces Network analysis of rice injury co-occurrence in wet season at Odisha, India\relax }}{36}
-\contentsline {figure}{\numberline {II-9}{\ignorespaces Network analysis of rice injury co-occurrence in dry season at Red River Delta, Vietnam\relax }}{37}
-\contentsline {figure}{\numberline {II-10}{\ignorespaces Network analysis of rice injury co-occurrence in wet season at Red River Delta, Vietnam\relax }}{38}
-\contentsline {figure}{\numberline {II-11}{\ignorespaces Network analysis of rice injury co-occurrence in dry season in Tamil Nadu, India\relax }}{40}
-\contentsline {figure}{\numberline {II-12}{\ignorespaces Network analysis of rice injury co-occurrence in wet season at Tamil Nadu, India\relax }}{41}
-\contentsline {figure}{\numberline {II-13}{\ignorespaces Network analysis of rice injury co-occurrence in dry season at West Java, Indonesia\relax }}{43}
-\contentsline {figure}{\numberline {II-14}{\ignorespaces Network analysis of rice injury co-occurrence in wet season at West Java, Indonesia\relax }}{44}
+\contentsline {xchapter}{Differential networks reveal the dynamics of animal injury and disease co- occurrences}{1}
+\contentsline {figure}{\numberline {I-1}{\ignorespaces Differential analysis of crop health survey data in season}}{5}
+\contentsline {figure}{\numberline {I-2}{\ignorespaces Differential analysis of crop health survey data at different yield levels}}{6}
+\contentsline {figure}{\numberline {I-3}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Central Plain, Thailand\relax }}{7}
+\contentsline {figure}{\numberline {I-4}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Odisha, India \relax }}{8}
+\contentsline {figure}{\numberline {I-5}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Red River Delta, Vietnam\relax }}{9}
+\contentsline {figure}{\numberline {I-6}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at Tamil Nadu, India\relax }}{10}
+\contentsline {figure}{\numberline {I-7}{\ignorespaces Differential co-occurrence network of rice injuries in different seasons at West Java, Indonesia\relax }}{10}
+\contentsline {figure}{\numberline {I-8}{\ignorespaces Bar graphs showing No of farmers' field classified by different yield levels in each production environment.\relax }}{11}
+\contentsline {figure}{\numberline {I-9}{\ignorespaces Differential network analysis of survey data in different yield levels at Central Plain, Thailand.\relax }}{12}
+\contentsline {figure}{\numberline {I-10}{\ignorespaces Differential network analysis of survey data in different yield levels at Odisha, India.\relax }}{13}
+\contentsline {figure}{\numberline {I-11}{\ignorespaces Differential network analysis of survey data in different yield levels at Red River Delta, Vietnam\relax }}{14}
+\contentsline {figure}{\numberline {I-12}{\ignorespaces Differential network analysis of survey data in different yield levels at Tamil Nadu, India.\relax }}{15}
+\contentsline {figure}{\numberline {I-13}{\ignorespaces Differential network analysis of survey data in different yield levels at West Java, Indonesia\relax }}{16}
+\contentsline {figure}{\numberline {I-14}{\ignorespaces .\relax }}{17}
+\contentsline {figure}{\numberline {I-15}{\ignorespaces .\relax }}{17}
+\contentsline {figure}{\numberline {I-16}{\ignorespaces .\relax }}{18}
+\contentsline {figure}{\numberline {I-17}{\ignorespaces .\relax }}{18}
+\contentsline {figure}{\numberline {I-18}{\ignorespaces .\relax }}{19}
