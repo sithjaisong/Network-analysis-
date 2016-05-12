@@ -3,7 +3,7 @@
 \documentclass[12pt, oneside]{report} % report is suitable for the long document such as Ph.D thesis with chapters
 \usepackage{geometry}
 %[a4paper, total={216mm, 280mm} left= 40mm, right=25mm, bottom=25mm, tmargin = 2mm, headsep = 0in]
-\geometry{a4paper, total={216mm, 280mm}, left= 40mm, right=25mm, bottom=25mm, tmargin = 25mm, headsep = 0in}
+\geometry{a4paper, total={216mm, 280mm}, left= 40mm, right=25mm, bottom=25mm, tmargin = 35mm, headsep = 10mm}
 \usepackage{fontspec}
 \usepackage{titlecaps}
 \setmainfont{Times New Roman}
@@ -33,7 +33,9 @@
 \usepackage{tabularx} % wide table
 
 %---------Adjust format chapter--------
-\chapterfont{\center\Large}
+%\usepackage{textcase}
+%\allsectionsfont{\singlespacing}
+\chapterfont{\center\Normal}
 \subsectionfont{\center}
 %-------------------------------
 
@@ -81,20 +83,23 @@
 %===========
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
-  {\normalfont\center\Large\bfseries}
+  {\normalfont\center\Large\singlespacing\bfseries}
   {\MakeUppercase{\chaptertitlename}~\thechapter}
   {1.5pc}
   {}
+% \titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
 \titlespacing{\chapter}{0pt}{0in}{0.5in}
+\titlespacing*{\subsection}{0pt}{0\baselineskip}{1\baselineskip}
+
 
 
 %\titleformat{\chapter}[display]{\normalfont\center\Huge\bfseries}{\thechapter}{1em}{}
 %\titlespacing{\chapter}{0pt}{0in}{0.5in}
-\titleformat{\section}
-  {\normalfont\Large\bfseries}
-  {\thesection}{1em}{}
- \titlespacing{\section}{0pt}{0in}{4pt}
-  \titlespacing{\section}{0pt}{0in}{3pt}
+%\titleformat{\section}
+%  {\normalfont\Large\bfseries}
+%  {\thesection}{1em}{}
+% \titlespacing{\subsection}{0pt}{0in}{8pt}
+
   
   
  
