@@ -58,4 +58,3 @@ figures/CP.yield.box/CP.yield.box.png
 figures/OD.yield.box/OD.yield.box.png
 figures/RR.yield.box/RR.yield.box.png
 figures/TM.yield.box/TM.yield.box.png
-figures/WJ.yield.box/WJ.yield.box.png
