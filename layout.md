@@ -53,6 +53,7 @@ figures/difyieldTM/difyieldTM.png
 figures/yield_dif_nodepropTamil_ Nadu/yield_dif_nodepropTamil_ Nadu.png
 figures/difyieldWJ/difyieldWJ.png
 figures/yield_dif_nodepropWest_Java/yield_dif_nodepropWest_Java.png
+figures/yield_dif_nodepropOdisha/yield_dif_nodepropOdisha.png
 figures/CP.yield.box/CP.yield.box.png
 figures/OD.yield.box/OD.yield.box.png
 figures/RR.yield.box/RR.yield.box.png
