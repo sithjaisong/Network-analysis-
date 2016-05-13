@@ -48,10 +48,8 @@ figures/yield_dif_nodepropCentral_Plain/yield_dif_nodepropCentral_Plain.png
 figures/difyieldOD/difyieldOD.png
 figures/yield_dif_nodepropRed_River_Delta/yield_dif_nodepropRed_River_Delta.png
 figures/difyieldRR/difyieldRR.png
-figures/yield_dif_nodepropRed_River_Delta1/yield_dif_nodepropRed_River_Delta1.png
 figures/difyieldTM/difyieldTM.png
 figures/yield_dif_nodepropTamil_ Nadu/yield_dif_nodepropTamil_ Nadu.png
 figures/difyieldWJ/difyieldWJ.png
-figures/yield_dif_nodepropWest_Java/yield_dif_nodepropWest_Java.png
-Chapter_6_Summary.tex
 figures/yield_dif_nodepropOdisha/yield_dif_nodepropOdisha.png
+figures/yield_dif_nodepropWest_Java/yield_dif_nodepropWest_Java.png
