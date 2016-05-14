@@ -91,7 +91,8 @@
 \titlespacing{\chapter}{0pt}{0in}{0.5in}
 \titlespacing*{\subsection}{0pt}{0\baselineskip}{1\baselineskip}
 
-
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\newcommand{\tab}[1]{\hspace{.2\textwidth}\rlap{#1}}
 
 %\titleformat{\chapter}[display]{\normalfont\center\Huge\bfseries}{\thechapter}{1em}{}
 %\titlespacing{\chapter}{0pt}{0in}{0.5in}
@@ -100,7 +101,6 @@
 %  {\thesection}{1em}{}
 % \titlespacing{\subsection}{0pt}{0in}{8pt}
 
-  
   
  
 % ---------------------- End of Document Preamble ------------------------
@@ -144,13 +144,6 @@
 %\cleardoublepage
 %\newpage
 
-% A B S T R A C T
-% ---------------
-
-%\begin{center}\textbf{Abstract}\end{center}
-
-% You're not characterizing different environments. They're all tropical, irrigated, lowland rice
-%Characterising rice agroecosytems requires knowledge and information of qualitative and quantitative information. One way of gathering data the data necessary for this is through the conduct of surveys. Given the nature of the data, it is not a simple task to analyse and examine in order to derive information and knowledge. One method in particular, network analysis, has been used to explore the observed relationships between the individual elements in a given system. This study is the first known attempt to apply network analysis to the analysis of in-field and household survey data on rice yield limiting and reducing factors. The data will be analyzed and visualized using the proposed network model. I propose to construct a network model using survey data collected from 2009 to 2011 in several sites (Chekempek, West Java, Indonesia; Mekong River Delta, Vietnam; Tamil Nadu, India; and Suphaburi, Thailand) and test the model with data collected from 2012 to 2015 in several cropping seasons and sites (Chekempek, West Java, Indonesia; Red River Delta, Vietnam; Tamil Nadu and Odisha, India; Suphaburi, Thailand). The anticipated results from this research will be helpful for plant health authorities worldwide, in order to design specific strategies for rice pest and disease management and to limit the impacts of these yield reducing factors. 
 
 
 %\cleardoublepage
@@ -174,15 +167,15 @@
 %\newpage
 % T A B L E  O F  C O N T E N T S
 %------------------------------
-%\input{tocformat.tex}
+\input{tocformat.tex}
 
 % L I S T   O F   F I G U R E S
 % -----------------------------
-%\input{lofformat.tex}
+\input{lofformat.tex}
 
 % L I S T   O F   T A B L E S
 % -----------------------------
-%\input{lotformat.tex}
+\input{lotformat.tex}
 
 % L I S T   O F   S Y M B O L S
 % -----------------------------
@@ -193,6 +186,25 @@
 % \cleardoublepage
 % \phantomsection % allows hyperref to link to the correct page
 % \newpage
+% A B S T R A C T
+% ---------------
+
+\begin{center}\textbf{ABSTRACT}\end{center}
+\begin{singlespace}
+{\setlength{\parindent}{0cm}
+JAISONG, SITH. University of Philippines Los Ba\~nos, June 2016. \textbf{Network analysis of survey data for characterization of yield reducing factors of tropical rice ecosystem in South and Southeast Asia}
+}
+\\
+\\
+\itab{Major Professor:} \tab{Dr. Ireneo B. Pangga} \\
+\itab{} \tab{Dr. Adam H. Sparks}
+\end{singlespace}
+
+\\
+
+% 200 words
+Rice injuries constrain yield production and may play a central role in global rice productivity. Detailed on-farm surveys conducted in five production environments (Central Plain; Thailand, Odisha; India, Red River Delta; Vietnam, Tamil Nadu; India, and West Java; Indonesia) are useful sources of data to help understand yield constraints in farmers’ fields. These data also help us understand the interactions and importance of pests and the complex relationships within agroecosystems. Network analysis is a promising tool frequently used to describe the pairwise relationships of a large number of variables. Network analysis of the co-occurrence patterns of pest and disease incidence could offer new insight into pest management. In this study, Spearman’s correlation was found to be the most suitable measure because of its robustness to noise, outliers, and ability to accurately predict the interactions. Resulting networks network links rice injuries (nodes) connected with co-occurrence relationships (edges). Based on node-wise properties, network can suggest the central injuries, which possibly are key indicators to monitor. The variations in co-occurrence activity of rice injuries in seasons, and yield levels were examined by using differential networks. They showed contrasting linkages among the injuries and identify injuries significantly responding to the conditions.
+ 
 
 % Change page numbering back to Arabic numerals
 \cleardoublepage
@@ -225,10 +237,12 @@
 
 %\chapter{Using network analysis to examine co-occurrence patterns of animal pests and disease in farmers' fields in irrigated lowland rice growing areas in South and South East Asia}
 %======================================================================
-%\input{Chapter_4_Using.tex}
+\input{Chapter_4_Using.tex}
 
 %\chapter{Differential networks reveal the dynamics of animal pests and disease co-occurrences}
 \input{Chapter_5_Differential.tex}
+
+\input{Chapter_6_Summary.tex}
 %----------------------------------------------------------------------
 % END MATERIAL
 %----------------------------------------------------------------------

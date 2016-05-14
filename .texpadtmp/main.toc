@@ -1,8 +1,23 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
-\contentsline {chapter}{\numberline {I}Differential networks reveal the dynamics of animal injury and disease co- occurrences}{1}
-\contentsline {subsection}{Introduction}{1}
-\contentsline {subsection}{Materials and Methods}{3}
-\contentsline {subsection}{Results}{6}
-\contentsline {subsubsection}{Construction of differential co-occurrence networks of rice injuries at different seasons}{6}
-\contentsline {subsubsection}{Construction of differential co-occurrence networks of rice injuries at yield level}{8}
-\contentsline {subsection}{Discussion}{11}
+\contentsline {chapter}{\numberline {I}USING NETWORK ANALYSIS TO EXAMINE CO-OCCURRENCE PATTERNS OF ANIMAL INJURIES AND DISEASES IN FARMERS' FILEDS IN DIFFERENT PRODUCTION ENVIRONMENTS ACROSS SOUTH AND SOUTH EAST ASIA}{1}
+\contentsline {subsection}{INTRODUCTION}{1}
+\contentsline {subsection}{MATERIALS AND METHODS}{5}
+\contentsline {subsubsection}{Crop health survey data}{5}
+\contentsline {subsubsection}{Network construction}{5}
+\contentsline {subsubsection}{Topological feature analysis}{7}
+\contentsline {subsubsection}{Community detection}{8}
+\contentsline {subsection}{RESULTS}{9}
+\contentsline {subsubsection}{Correlation networks of rice juries}{14}
+\contentsline {subsubsection}{Structures, compositions, and communities of co-occurrence network of rice pest injuries}{14}
+\contentsline {subsection}{DISCUSSION}{42}
+\contentsline {subsection}{CONCLUSTION}{46}
+\contentsline {chapter}{\numberline {II}DIFFERENTIAL NETWORKS REVEAL THE DYNAMICS OF ANIMAL INJURIES AND DISEASE CO-OCCURRENCE DIFFERENTIAL NETWORKS}{47}
+\contentsline {subsection}{INTRODUCTION}{47}
+\contentsline {subsection}{MATERIALS AND METHODS}{50}
+\contentsline {subsection}{RESULTS}{54}
+\contentsline {subsubsection}{Construction of differential co-occurrence networks of rice injuries at different seasons}{54}
+\contentsline {subsubsection}{Differential co-occurrence networks of rice injuries at yield levels}{55}
+\contentsline {subsection}{DISCUSSION}{71}
+\contentsline {chapter}{\numberline {III}SUMMARY, LIMITATIONS AND FUTURE DIRECTIONS}{72}
+\contentsline {subsection}{SUMMARY}{72}
+\contentsline {subsection}{LIMITATIONS AND FUTURE DIRECTION}{80}

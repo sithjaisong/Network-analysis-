@@ -29,7 +29,7 @@ To investigate the structural properties of differential networks, I calculated 
 
 
 \clearpage
-\subsection{Results}
+\subsection{RESULTS}
 
 Differential network approach to constructing response networks enables easy comparison of the generated graphs. This, in turn allowed identification of the differences between the responses of co-occurrence relationships of rice injuries. In particular, in the differential network, I identified injuries and network components that are relevant for responsive condition as well as responsible for condition. 
 
@@ -86,20 +86,31 @@ The resulted networks, differential co-occurrence network in yield (DCON-Y), dep
 
 
 % ===
-\begin{figure}[h]    \centering        \includegraphics[width = 1\textwidth]{figures/CP_yield_box/CP_yield_box.pdf}        \caption{.}        \label{fig:yield.box_CP}\end{figure}
+\begin{figure}[h]    \centering        \includegraphics[width = 1\textwidth]{figures/CP_yield_box.pdf}        \caption{.}        \label{fig:yield.box_CP}\end{figure}
 
-\begin{figure}        \includegraphics[width = 1\textwidth]{figures/OD_yield_box/OD_yield_box.pdf}        \caption{.}\label{fig:yield.box_OD}\end{figure}
+\begin{figure}        \includegraphics[width = 1\textwidth]{figures/OD_yield_box.pdf}        \caption{.}\label{fig:yield.box_OD}\end{figure}
 
-\begin{figure}    \centering        \includegraphics[width = 1\textwidth]{figures/RR_yield_box/RR_yield_box.pdf}        \caption{.}        \label{fig:yield.box_RR}\end{figure}
+\begin{figure}    \centering        \includegraphics[width = 1\textwidth]{figures/RR_yield_box.pdf}        \caption{.}        \label{fig:yield.box_RR}\end{figure}
 
-\begin{figure}        \includegraphics[width = 1\textwidth]{figures/TM_yield_box/TM_yield_box.pdf}        \caption{.}\label{fig:yield.box_TM}\end{figure}
+\begin{figure}        \includegraphics[width = 1\textwidth]{figures/TM_yield_box.pdf}        \caption{.}\label{fig:yield.box_TM}\end{figure}
 
-\begin{figure}        \includegraphics[width = 1\textwidth]{figures/WJ_yield_box/WJ_yield_box.pdf}        \caption{.}\label{fig:yield.box_WJ}\end{figure}
+\begin{figure}        \includegraphics[width = 1\textwidth]{figures/WJ_yield_box.pdf}        \caption{.}\label{fig:yield.box_WJ}\end{figure}
 
 
 \clearpage
 \subsection{DISCUSSION}
-When sets of changed correlations have been identified, the next step is to establish the causal influences in the regulatory systems (i.e. to put directions on the edges in the undirected coexpression network) and, more importantly, to identify which causal influences have disappeared in the disease network with respect to the healthy network. Such disappeared regulatory mechanisms resulted in the observed changes in correlations and potentially could underlie the associated disease phenotype. Although it is not trivial to identify the causal system from the correlation patterns, the changes in correlation hint at the interesting regions of the network involved in disease which could form the basis for further detailed analysis. Systematic perturbations (e.g. experimental gene knockouts) are needed to establish the edges’ direction. Particular promise comes from so-called systems genetics experiments in which genotyping and gene expression data (and possibly metabolomics and proteomic
+
+From the previous chapter, static dry season and wet season network were dominated by  associations of rice injuries that presented in farmers' fields based on survey data. The networks revealed that co-occurrence patterns were different across seasons. I applied differential network analysis based on quantifying the variability in the co-occurrence of rice injuries across seasons. Through network subtraction, however, the associations of injuries presenting in both seasons are removed, which allows sensitive detection of differentially represented conditions. Thus, network comparison reveal the whole patterns of co-occurrence particular tailored to the injury response to seasons.
+
+
+%Further investigation showed that many differential interaction hubs were already well known to function as key components of DNA repair pathways (Fig. 2), which led us to predict that the remaining hubs might encode this role. Two such differential interaction hubs encode Slt2 and Bck1, mitogen-activated protein kinases (MAPKs) that have been implicated in the maintenance of cell wall integrity but not yet linked to DNA repair (Fig. 2). We found that Slt2 is both up-regulated and translocated to the nucleus upon MMS treatment, and it is required for appropriate regulation of ribonucleotide reductase genes in response to DNA damage (fig. S6, A to D) (14). Furthermore, both MAPKs show strong genetic interactions with DNA damage checkpoint genes (fig. S6, E and F), which suggests that they may function in a parallel signaling pathway.
+
+%When sets of changed correlations have been identified, the next step is to establish the causal influences in the regulatory systems (i.e. to put directions on the edges in the undirected coexpression network) and, more importantly, to identify which causal influences have disappeared in the disease network with respect to the healthy network. Such disappeared regulatory mechanisms resulted in the observed changes in correlations and potentially could underlie the associated disease phenotype. Although it is not trivial to identify the causal system from the correlation patterns, the changes in correlation hint at the interesting regions of the network involved in disease which could form the basis for further detailed analysis. Systematic perturbations (e.g. experimental gene knockouts) are needed to establish the edges’ direction. Particular promise comes from so-called systems genetics experiments in which genotyping and gene expression data (and possibly metabolomics and proteomic
+
+%To determine whether static untreated, static treated, or differential genetic networks best uncover DNA damage-response pathways, we examined a reference set of 31 known DNA repair genes (table S1). We noted that static networks were no more likely than random to include interactions with genes in this reference set (Fig. 1E). This lack of enrichment was observed in the untreated genetic network, as well as, surprisingly, the static network obtained under MMS. In contrast, the differential network—obtained through the quantitative difference in interaction across conditions—was highly enriched for interactions involving DNA damage-response genes such as RAD52, TEL1, and DUN1 (Fig. 1E) (10).
+
+
+Further investigation showed that many differential interaction hubs were already well known to function as key components of DNA repair pathways (Fig. 2), which led us to predict that the remaining hubs might encode this role. Two such differential interaction hubs encode Slt2 and Bck1, mitogen-activated protein kinases (MAPKs) that have been implicated in the maintenance of cell wall integrity but not yet linked to DNA repair (Fig. 2). We found that Slt2 is both up-regulated and translocated to the nucleus upon MMS treatment, and it is required for appropriate regulation of ribonucleotide reductase genes in response to DNA damage (fig. S6, A to D) (14). Furthermore, both MAPKs show strong genetic interactions with DNA damage checkpoint genes (fig. S6, E and F), which suggests that they may function in a parallel signaling pathway.
 %Systems biology methods like this are in high demand as the differences between many conditions, be they neurodegenerative diseases, brain diseases, different kinds of cancers, different degrees of disease severity, and so forth, are very subtle and cannot be easily highlighted using the usual off-the-shelf clustering or biological pathways identification algorithms. Many studies investigate only the genes that are unique to a condition, in order to analyze how different the conditions are. However, we hypothesize that even the genes that are common between conditions (conditions can be physiological, treatment, or time) can contribute to the differences between conditions either by invoking different biological pathways or by invoking the same biological pathways to varying degrees. Our differential network analysis method is applicable to other studies where a sequence of activities or processes is being determined. For instance, in our time-dependent analysis of low dose ionizing radiation study we were able to show the active biological processes at 3, 8, and 24 hours [12]. Our approach can aid in identifying the few genes that may be the key players in the specific condition and, therefore, potential biomarkers or therapeutic targets for that condition.
 
  
